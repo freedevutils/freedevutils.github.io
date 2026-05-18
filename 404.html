@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>FreeDevUtils</title>
+  <base href="/">
+  <!-- SEO: Meta description, keywords, and robots -->
+  <meta name="description" content="FreeDevUtils is developed by Pranay Sanjay Mokal, Senior Software Developer. FreeDevUtils provides a collection of free, in-browser developer tools: image utilities, JSON/CSV tools, QR code generators, and many more useful utilities for developers and designers.">
+  <meta name="keywords" content="Developer tools, Developer utilities, online tools, free rest api testing, icon generator, screenshot annotator, pdf generator, docx generator, compare files,jwt decode,har analyzer,har file explorer, swagger viewer, code playground, image compression, zip files, unzip files, faker generator, random data generator , text to speech , speech to text, voice recorder, video recorder, image to pdf, qrcode generator, qrcode scanner, barcode generator,sql beautifier, postman viewer, password generator, json-pretty, base64 encode, base64 decode, html encode, html decode, json minify, string case converter, ssl checker, file checksum, text statistics, uuid generator, yaml to json, hash generator , image to base64 converter, base64 to image converter, generate download link from google drive, xml to json , json to xml, timestamp converter, color picker, gradient color generator , password strength tester, aes encyption, aes description, csv viewer, csv to json , json to csv,date time difference calculator, cron builer, regx tester, xml beautify, csv to sql generater, js minifier, html-minifier, 
+ free dev utilities">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="/">
+  <meta name="theme-color" content="#1b2330">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="FreeDevUtils — Free Developer Tools">
+  <meta property="og:description" content="FreeDevUtils is developed by Pranay Sanjay Mokal, Senior Software Developer. A collection of free, in-browser developer utilities including JSON/CSV formatters, image tools, QR generators and more.">
+  <meta property="og:url" content="/">
+  <meta property="og:site_name" content="FreeDevUtils">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="FreeDevUtils — Free Developer Tools">
+  <meta name="twitter:description" content="FreeDevUtils is developed by Pranay Sanjay Mokal, Senior Software Developer. A collection of free, in-browser developer utilities including JSON/CSV formatters, image tools, QR generators and more.">
+
+  <!-- JSON-LD structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "FreeDevUtils",
+    "url": "/",
+    "description": "FreeDevUtils is developed by Pranay Sanjay Mokal, Senior Software Developer. FreeDevUtils provides a collection of free, in-browser developer tools: image utilities, JSON/CSV tools, QR code generators, and many more useful utilities for developers and designers."
+  }
+  </script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body class="mat-typography">
+  <app-root></app-root>
+</body>
+<script>
+  const redirect = sessionStorage.redirect;
+  delete sessionStorage.redirect;
+  if (redirect && redirect !== location.pathname) {
+    history.replaceState(null, null, redirect);
+  }
+</script>
+</html>

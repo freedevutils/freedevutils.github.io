@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "date": "2026-05-17",
+  "changes": [
+    "Initial release of FreeDevUtils features",
+    "Added base utilities and core tools"
+  ]
+}

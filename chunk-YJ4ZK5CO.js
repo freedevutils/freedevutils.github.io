@@ -1,0 +1,1 @@
+import{Hd as o,Wa as r,Y as e,ed as a}from"./chunk-FUX6EACP.js";var s=(()=>{class t{static \u0275fac=function(i){return new(i||t)};static \u0275mod=r({type:t});static \u0275inj=e({imports:[o,a,o]})}return t})();export{s as a};

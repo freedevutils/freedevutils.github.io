@@ -1,0 +1,1 @@
+import{Kd as o,Va as r,Y as t,hd as a}from"./chunk-DITGOZY7.js";var n=(()=>{class e{static \u0275fac=function(i){return new(i||e)};static \u0275mod=r({type:e});static \u0275inj=t({imports:[o,a,o]})}return e})();export{n as a};

@@ -1700,7 +1700,7 @@
   },
   "about": {
     "title": "About Developer",
-    "profileName": "Pranay Mokal",
+    "profileName": "Pranay Sanjay Mokal",
     "profileTitle": "Senior Software Developer",
     "downloadResume": "Download Resume",
     "connectLinkedIn": "Connect on LinkedIn",
@@ -1732,7 +1732,7 @@
       "description2": "with the assistance of GitHub Copilot.",
       "description3": "FreeDevUtils is built on top of amazing open-source technologies and libraries. This page acknowledges and credits the projects that help make this website possible. All listed libraries remain the property of their respective authors and are used in accordance with their applicable open-source licenses. We are grateful to the developers and communities who maintain these projects.",
       "description4": "If you believe any attribution is incorrect or incomplete, or if you are a rights holder and would like us to review a listing or if you are author of a library used in this project and would like to be credited here, or has objection on usage of libraries used in this project, kindly contact me at",
-      "contactEmail": "pranay.mokal&#64;gmail.com",
+      "contactEmail": "pranay.mokal@gmail.com",
       "description5": ". I will remove that library completely from project. We are committed to respecting the rights of all authors/creators and will promptly address any concerns raised.",
       "viewLicense": "View License"
     },

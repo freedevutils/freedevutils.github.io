@@ -1688,7 +1688,7 @@
       "question": "Por que tudo é grátis?",
       "quote": "देणाऱ्याने देत जावे, घेणाऱ्याने घेत जावे, घेता घेता एक दिवस देणाऱ्याचे हात घ्यावे.",
       "quoteTranslation": "Aqueles que doam nunca devem parar de doar. Aqueles que recebem devem continuar recebendo. Mas no processo de receber, um dia o recebedor deve crescer o suficiente para se tornar um doador por si mesmo.",
-      "happyContributing": "Boa contribuição! 🚀"
+      "happyContributing": "Boa contribuição!"
     },
     "dialog": {
       "title": "Doar via {{ method }}",

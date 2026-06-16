@@ -1165,23 +1165,23 @@
         "criteria": "निकष:"
       },
       "aes-crypto": {
-        "title": "AES एनक्रिप्ट/डिकोप्ट",
-        "description": "AES वापरून मजकूर एनक्रिप्ट आणि डिकोड करा",
+        "title": "AES एनक्रिप्ट/डिक्रिप्ट",
+        "description": "AES वापरून मजकूर एनक्रिप्ट आणि डिक्रिप्ट करा",
         "tabEncrypt": "एनक्रिप्ट करा",
         "encryptTextTitle": "मजकूर एनक्रिप्ट करा",
         "textToEncrypt": "एनक्रिप्ट करण्यासाठी मजकूर",
         "encryptionKey": "एनक्रिप्शन की",
         "encryptBtn": "एनक्रिप्ट करा",
         "encryptedTextBase64": "एनक्रिप्ट केलेला मजकूर (Base64)",
-        "tabDecrypt": "डिकोड करा",
-        "decryptTextTitle": "मजकूर डिकोड करा",
+        "tabDecrypt": "डिक्रिप्ट करा",
+        "decryptTextTitle": "मजकूर डिक्रिप्ट करा",
         "decryptionKey": "डिक्रिप्शन की",
-        "decryptBtn": "डिकोड करा",
-        "decryptedText": "डिकोड केलेला मजकूर"
+        "decryptBtn": "डिक्रिप्ट करा",
+        "decryptedText": "डिक्रिप्ट केलेला मजकूर"
       },
       "jasypt-encryption": {
-        "title": "Jasypt एनक्रिप्ट/डिकोप्ट",
-        "description": "Jasypt मानके वापरून मजकूर एनक्रिप्ट आणि डिकोड करा",
+        "title": "Jasypt एनक्रिप्ट/डिक्रिप्ट",
+        "description": "Jasypt मानके वापरून मजकूर एनक्रिप्ट आणि डिक्रिप्ट करा",
         "encrypt": "एनक्रिप्ट करा",
         "encryptText": "मजकूर एनक्रिप्ट करा (Jasypt)",
         "encryptionAlgorithm": "एनक्रिप्शन अल्गोरिदम",
@@ -1195,15 +1195,15 @@
         "toggleKeyVisibility": "की ची दृश्यमानता टॉगल करा",
         "encryptedString": "एनक्रिप्टेड स्ट्रिंग",
         "copyToClipboard": "क्लिपबोर्डवर कॉपी करा",
-        "decryptMatch": "डिकोड / जुळवा",
-        "decryptOrMatchPassword": "पासवर्ड डिकोड किंवा जुळवा",
+        "decryptMatch": "डिक्रिप्ट / जुळवा",
+        "decryptOrMatchPassword": "पासवर्ड डिक्रिप्ट करा किंवा जुळवा",
         "decryptionAlgorithm": "डिक्रिप्शन अल्गोरिदम",
         "selectActionType": "कृतीचा प्रकार निवडा",
-        "decryptPassword": "पासवर्ड डिकोड करा",
+        "decryptPassword": "पासवर्ड डिक्रिप्ट करा",
         "matchPassword": "पासवर्ड जुळवा",
         "enterPlainTextToMatch": "जुळवण्यासाठी प्लेन मजकूर प्रविष्ट करा",
         "secretKeyUsed": "एनक्रिप्शन दरम्यान वापरलेली सिक्रेट की (एक-मार्गी जुळणीसाठी रिक्त सोडा)",
-        "decryptBtn": "डिकोड करा",
+        "decryptBtn": "डिक्रिप्ट करा",
         "result": "निकाल"
       },
       "csv-viewer": {
@@ -1237,7 +1237,7 @@
         "search-limit": "परफॉर्मन्सच्या कारणास्तव शोध निकाल पहिल्या १००० जुळण्यांपर्यंत मर्यादित आहेत. सर्व डेटा अॅक्सेस करण्यासाठी कृपया तुमचा शोध सुधारा किंवा पूर्ण CSV डाउनलोड करा."
       },
       "csv-to-json-converter": {
-        "title": "CSV ते JSON कन्व्हर्टर",
+        "title": "CSV चे JSON रूपांतर करा",
         "description": "CSV डेटाचे JSON फॉरमॅटमध्ये रूपांतर करा",
         "has-headers": "पहिल्या ओळीत हेडर्स आहेत",
         "upload-file": "CSV अपलोड करा",
@@ -1248,7 +1248,7 @@
         "output-data": "JSON आउटपुट"
       },
       "json-to-csv-converter": {
-        "title": "JSON ते CSV कन्व्हर्टर",
+        "title": "JSON चे CSV रूपांतर करा",
         "description": "JSON डेटाचे CSV फॉरमॅटमध्ये रूपांतर करा",
         "json-data": "JSON डेटा",
         "json-input": "JSON इनपुट (ऑब्जेक्ट्सचा अरे)",
@@ -1474,7 +1474,7 @@
       "xml-to-json-converter": {
         "title": "XML ↔ JSON",
         "description": "XML आणि JSON फॉरमॅट्समध्ये रूपांतर करा",
-        "toolbarTitle": "XML ↔ JSON कन्व्हर्टर",
+        "toolbarTitle": "XML ↔ JSON रूपांतर करा",
         "loadXml": "XML लोड करा",
         "loadJson": "JSON लोड करा",
         "convert": "रूपांतरित करा",
@@ -1688,7 +1688,7 @@
       "question": "सर्व काही विनामूल्य का आहे?",
       "quote": "देणाऱ्याने देत जावे, घेणाऱ्याने घेत जावे, घेता घेता एक दिवस देणाऱ्याचे हात घ्यावे.",
       "quoteTranslation": "जे देतात त्यांनी कधीही देणे थांबवू नये. जे घेतात त्यांनी घेत राहावे. पण घेण्याच्या प्रक्रियेत, एक दिवस घेणाऱ्याने स्वतः देणारा होण्याइतपत मोठे झाले पाहिजे आणि देणाऱ्याचा गुणधर्म घेतला पाहिजे.",
-      "happyContributing": "योगदान देण्यासाठी धन्यवाद ! 🚀"
+      "happyContributing": "योगदान देण्यासाठी धन्यवाद !"
     },
     "dialog": {
       "title": "{{ method }} द्वारे देणगी द्या",

@@ -1688,7 +1688,7 @@
       "question": "Mengapa semuanya gratis?",
       "quote": "देणाऱ्याने देत जावे, घेणाऱ्याने घेत जावे, घेता घेता एक दिवस देणाऱ्याचे हात घ्यावे.",
       "quoteTranslation": "Mereka yang memberi tidak boleh berhenti memberi. Mereka yang menerima harus terus menerima. Namun dalam proses menerima, suatu hari penerima harus tumbuh cukup besar untuk menjadi pemberi itu sendiri.",
-      "happyContributing": "Selamat berkontribusi! 🚀"
+      "happyContributing": "Selamat berkontribusi!"
     },
     "dialog": {
       "title": "Donasi via {{ method }}",

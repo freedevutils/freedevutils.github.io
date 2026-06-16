@@ -1688,7 +1688,7 @@
       "question": "¿Por qué todo es gratis?",
       "quote": "देणाऱ्याने देत जावे, घेणाऱ्याने घेत जावे, घेता घेता एक दिवस देणाऱ्याचे हात घ्यावे.",
       "quoteTranslation": "Quien da, nunca debería dejar de dar. Quien recibe, debería seguir recibiendo. Pero en el proceso de recibir, un día el receptor debe crecer lo suficiente como para convertirse en un dador.",
-      "happyContributing": "¡Feliz contribución! 🚀"
+      "happyContributing": "¡Feliz contribución! "
     },
     "dialog": {
       "title": "Donar vía {{ method }}",

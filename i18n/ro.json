@@ -1688,7 +1688,7 @@
       "question": "De ce este totul gratuit?",
       "quote": "देणाऱ्याने देत जावे, घेणाऱ्याने घेत जावे, घेता घेता एक दिवस देणाऱ्याचे हात घ्यावे.",
       "quoteTranslation": "Cei care dau nu ar trebui să se oprească niciodată din a da. Cei care primesc ar trebui să continue să primească. Dar, în procesul de primire, într-o zi primitorul trebuie să crească suficient pentru a deveni el însuși un donator.",
-      "happyContributing": "Contribuire fericită! 🚀"
+      "happyContributing": "Contribuire fericită!"
     },
     "dialog": {
       "title": "Donează via {{ method }}",

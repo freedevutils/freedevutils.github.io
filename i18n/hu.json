@@ -1688,7 +1688,7 @@
       "question": "Miért ingyenes minden?",
       "quote": "Azok, akik adnak, soha ne hagyják abba az adakozást. Azok, akik kapnak, folytassák a fogadást. De a kapás folyamatában egy nap a fogadónak is annyira fel kell nőnie, hogy ő maga is adakozóvá váljon.",
       "quoteTranslation": "Azok, akik adnak, soha ne hagyják abba az adakozást. Azok, akik kapnak, folytassák a fogadást. De a kapás folyamatában egy nap a fogadónak is annyira fel kell nőnie, hogy ő maga is adakozóvá váljon.",
-      "happyContributing": "Jó közreműködést! 🚀"
+      "happyContributing": "Jó közreműködést!"
     },
     "dialog": {
       "title": "Adományozás via {{ method }}",

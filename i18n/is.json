@@ -1969,6 +1969,12 @@
       "design": "Hanna forrit með dev utils"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Bætti við Notebook+1, veflægum textaskráarskoðara með ritháttarlitun fyrir mismunandi skráarsnið með línunúmerum, leita og skipta út og samanburðarvirkni."
+        },
+        "quote":"þú gætir sigrað þúsund óvini, en sigraðu sjálfan þig og enginn óvinur verður eftir."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Fjöltyngdum stuðningi bætt við fyrir 20 tungumál í heiminum",

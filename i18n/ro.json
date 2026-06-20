@@ -1969,6 +1969,12 @@
       "design": "Proiectare aplicație cu dev utils"
     },
     "versions": {
+      "v2_0_1": {
+        "changes": {
+          "0": "A fost adăugat Notebook+1, un vizualizator online de fișiere text cu evidențiere de sintaxă pentru diferite formate de fișiere, numere de linie și funcționalitate de căutare și înlocuire, precum și de comparare."
+        },
+        "quote":"poți cuceri o mie de inamici, dar cucerește-te pe tine însuți și niciun inamic nu va mai rămâne."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Suport multilingvistic adăugat pentru 20 de limbi din lume",

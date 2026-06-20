@@ -1969,6 +1969,12 @@
       "design": "Projetar aplicativo com dev utils"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Adicionado Notebook+1, um visualizador de arquivos de texto online com realce de sintaxe para diferentes formatos de arquivo, números de linha, e funcionalidade de localizar, substituir e comparar."
+        },
+        "quote":"você pode conquistar mil inimigos, mas conquiste a si mesmo e nenhum inimigo restará."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Suporte multilíngue adicionado para 20 idiomas no mundo",

@@ -1969,6 +1969,12 @@
       "design": "Reka aplikasi dengan utiliti pembangun"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Menambahkan Notebook+1, pemapar fail teks dalam talian dengan penyerlah sintaks untuk pelbagai format fail bersama nombor baris, cari dan ganti serta fungsi perbandingan."
+        },
+        "quote":"anda mungkin boleh menakluki seribu musuh, tetapi taklukilah diri anda sendiri dan tiada musuh yang tinggal."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Sokongan pelbagai bahasa ditambah untuk 20 bahasa di dunia",

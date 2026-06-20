@@ -1969,6 +1969,12 @@
       "design": "Applicatie ontwerpen met dev utils"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Notebook+1 toegevoegd, een online viewer voor tekstbestanden met syntax highlighting voor verschillende bestandsformaten, met regelnummers, zoek- en vervangfunctie en vergelijkingsfunctionaliteit."
+        },
+        "quote": "je kunt wel duizend vijanden verslaan, maar versla jezelf en er blijft geen vijand meer over."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Meertalige ondersteuning toegevoegd voor 20 talen in de wereld",

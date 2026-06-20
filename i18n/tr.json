@@ -1969,6 +1969,12 @@
       "design": "Geliştirici araçlarıyla uygulamanın tasarımı yapılacak"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Farklı dosya biçimleri için sözdizimi vurgulayıcı, satır numaraları, bul ve değiştir ile karşılaştırma işlevlerine sahip çevrimiçi bir metin dosyası görüntüleyicisi olan Notebook+1 eklendi."
+        },
+        "quote":"bin düşmanı yenebilirsin, ancak kendini yen ve geriye hiçbir düşman kalmasın."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Dünyadaki 20 dil için çok dilli destek eklendi",

@@ -1969,6 +1969,12 @@
       "design": "Anwendung mit Dev-Utils entwerfen"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Notebook+1 hinzugefügt, ein Online-Textdateien-Viewer mit Syntax-Hervorhebung für verschiedene Dateiformate, Zeilennummern, Suchen-und-Ersetzen- sowie Vergleichsfunktionen."
+        },
+        "quote":"Du magst tausend Feinde besiegen, aber besiege dich selbst und kein Feind bleibt übrig."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Mehrsprachige Unterstützung für 20 Sprachen weltweit hinzugefügt",

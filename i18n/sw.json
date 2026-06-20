@@ -1969,6 +1969,12 @@
       "design": "Buni programu ukiwa na dev utils"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Imeongezwa Notebook+1, kitazamaji cha faili za maandishi mtandaoni chenye kiangazio cha sintaksia kwa fomati tofauti za faili pamoja na nambari za mistari, utendaji wa kutafuta na kubadilisha na kulinganisha."
+        },
+        "quote":"unaweza kushinda maadui elfu moja, lakini jishinde mwenyewe na hakuna adui atayebaki."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Msaada wa lugha nyingi umeongezwa kwa lugha 20 ulimwenguni",

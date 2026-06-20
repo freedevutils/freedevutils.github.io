@@ -1969,6 +1969,12 @@
       "design": "Progettazione di applicazioni con dev utils"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Aggiunto Notebook+1, un visualizzatore di file di testo online con evidenziazione della sintassi per diversi formati di file, numeri di riga, e funzionalità di ricerca e sostituzione e confronto."
+        },
+        "quote":"puoi sconfiggere mille nemici, ma sconfiggi te stesso e non rimarrà nessun nemico."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Aggiunto supporto multilingua per 20 lingue nel mondo",

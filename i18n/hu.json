@@ -1969,6 +1969,12 @@
       "design": "Alkalmazás dizájnja a fejlesztői eszközökkel"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Hozzáadva a Notebook+1, egy online szövegfájl-megjelenítő, amely szintaxiskiemelést biztosít különböző fájlformátumokhoz sorszámokkal, keresés és csere, valamint összehasonlítási funkcióval."
+        },
+        "quote":"legyőzhetsz ezer ellenséget, de győzd le önmagad, és nem marad ellenség."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Többnyelvű támogatás hozzáadva 20 világnyelven",

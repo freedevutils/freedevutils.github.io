@@ -1969,6 +1969,12 @@
       "design": "Concevoir l'application avec les utilitaires de développement"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Ajout de Notebook+1, une visionneuse de fichiers texte en ligne avec coloration syntaxique pour différents formats de fichiers, numéros de ligne, et fonctionnalités de recherche, remplacement et comparaison."
+        },
+        "quote":"vous pouvez vaincre mille ennemis, mais conquérez-vous vous-même et il ne restera aucun ennemi."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Ajout du support multilingue pour 20 langues dans le monde",

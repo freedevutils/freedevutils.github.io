@@ -1969,6 +1969,12 @@
       "design": "Zaprojektowanie aplikacji narzędziowej (dev utils)"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Dodano Notebook+1, internetową przeglądarkę plików tekstowych z podświetlaniem składni dla różnych formatów plików, numeracją linii, funkcją znajdź i zamień oraz możliwością porównywania."
+        },
+        "quote":"możesz pokonać tysiąc wrogów, ale pokonaj samego siebie, a żaden wróg nie pozostanie."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Dodano obsługę wielojęzyczną dla 20 języków na całym świecie",

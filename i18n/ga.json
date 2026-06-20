@@ -1969,6 +1969,12 @@
       "design": "Dear an feidhmchlár leis na fóntais fhorbróra"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Cuireadh Notebook+1 leis, amharcóir comhaid téacs ar líne a bhfuil aibhsitheoir comhréire aige d'fhormáidí comhaid éagsúla le huimhreacha línte, agus feidhmiúlacht aimsigh agus ionadaigh agus comparáid."
+        },
+        "quote":"d'fhéadfá míle namhaid a chloí, ach cloisigh tú féin agus ní bheidh aon namhaid fágtha."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Tacaíocht ilteangach curtha leis le haghaidh 20 teanga sa domhan",

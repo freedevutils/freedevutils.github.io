@@ -1969,6 +1969,12 @@
       "design": "Design application with dev utils"
     },
     "versions": {
+      "v2_0_1": {
+        "changes": {
+          "0": "Added Notebook+1 an online text files viewer with syntax highlighter for different file format with line numbers, find and replace and compare functionality."
+        },
+        "quote": "conquer a thousand enemies, you may, conquer yourself and no enemy remains."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Multilingual support added for 20 languages in the world",

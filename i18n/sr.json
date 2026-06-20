@@ -1969,6 +1969,12 @@
       "design": "Dizajniranje aplikacije sa dev alatima"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Dodat je Notebook+1, onlajn pregledač tekstualnih datoteka sa isticanjem sintakse za različite formate datoteka, brojevima linija, funkcijom za pretragu i zamenu, kao i opcijom poređenja."
+        },
+        "quote":"možeš da pobediš hiljadu neprijatelja, ali pobedi sebe i ni jedan neprijatelj neće ostati."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Dodata višejezična podrška za 20 jezika u svetu",

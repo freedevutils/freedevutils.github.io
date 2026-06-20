@@ -1969,6 +1969,12 @@
       "design": "Ontwerp toepassing met ontwikkelingsnutsprogramme"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Notebook+1 bygevoeg, 'n aanlyn tekslêer kyker met sintaksverligting vir verskillende lêerformate met reëlnommers, soek-en-vervang- en vergelykingsfunksionaliteit."
+        },
+        "quote": "jy mag dalk duisend vyande oorwin, maar oorwin jouself en geen vyand bly oor nie."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Veeltalige ondersteuning bygevoeg vir 20 tale in die wêreld",

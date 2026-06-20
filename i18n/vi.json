@@ -1969,6 +1969,12 @@
       "design": "Thiết kế ứng dụng với các tiện ích cho dev"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Đã thêm Notebook+1, một trình xem tệp văn bản trực tuyến có tính năng làm nổi bật cú pháp cho các định dạng tệp khác nhau với số dòng, chức năng tìm kiếm và thay thế cùng khả năng so sánh."
+        },
+        "quote":"bạn có thể chinh phục một nghìn kẻ thù, nhưng hãy chinh phục chính mình và không còn kẻ thù nào ở lại."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Hỗ trợ đa ngôn ngữ đã được thêm vào cho 20 ngôn ngữ trên thế giới",

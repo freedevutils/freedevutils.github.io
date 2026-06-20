@@ -1969,6 +1969,12 @@
       "design": "Diseñar aplicación con utilidades de desarrollo"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Se ha añadido Notebook+1, un visor de archivos de texto en línea con resaltado de sintaxis para diferentes formatos de archivo, con números de línea, función de buscar y reemplazar, y funcionalidad de comparación."
+        },
+        "quote":"puedes conquistar a mil enemigos, pero conquístate a ti mismo y no quedará ningún enemigo."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Soporte multilingüe añadido para 20 idiomas en el mundo",

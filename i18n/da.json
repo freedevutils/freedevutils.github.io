@@ -1969,6 +1969,12 @@
       "design": "Design applikation med udviklerværktøjer"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Tilføjet Notebook+1, en online tekstfilfremviser med syntakshighlighter til forskellige filformater, med linjenumre, find og erstat- samt sammenligningsfunktionalitet."
+        },
+        "quote": "du kan erobre tusind fjender, men erobr dig selv, og ingen fjende er tilbage."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Flersproget understøttelse tilføjet for 20 sprog i verden",

@@ -6,7 +6,7 @@ Allow: /
 Disallow: /assets/
 
 # Crawl delay (optional - helps with server load)
-Crawl-delay: 1
+# Crawl-delay: 1
 
 # Sitemap location
 Sitemap: https://freedevutils.github.io/sitemap.xml

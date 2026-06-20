@@ -1969,6 +1969,12 @@
       "design": "Desain aplikasi kanthi utilitas pangembang"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Nambahake Notebook+1, panampil file teks online kanthi penyorot sintaks kanggo macem-macem format file kanthi nomer baris, fungsi golek lan ganti, lan fungsi mbandhingake."
+        },
+        "quote":"sampeyan bisa ngalahake sewu mungsuh, nanging ngalahake awakmu dhewe lan ora ana mungsuh sing isih ana."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Dhukungan multibasa ditambahake kanggo 20 basa ing donya",

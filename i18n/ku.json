@@ -1969,6 +1969,12 @@
       "design": "Sepanê bi amûrên pêşvebirinê dîzayn bike"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Notebook+1 hate zêdekirin, dîtvanekî pelên nivîsê yê serhêl bi ronîkera hevoksaziyê ji bo formatên cuda yên pelan bi hejmarên rêzan, û taybetmendiya lêgerîn û guhertin û berawirdkirinê."
+        },
+        "quote":"tu dikarî hezar dijminan têk bibî, lê xwe têk bibe û tu dijmin namîne."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Piştgiriya pirzimanî ji bo 20 zimanên li cîhanê hate zêdekirin",

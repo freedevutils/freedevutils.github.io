@@ -1969,6 +1969,12 @@
       "design": "Suunnittele sovellus kehittäjätyökaluilla"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Lisätty Notebook+1, verkossa toimiva tekstitiedostojen katseluohjelma, jossa on syntaksin korostus eri tiedostomuodoille, rivinumerot sekä etsi ja korvaa- ja vertailutoiminnot."
+        },
+        "quote":"voit voittaa tuhat vihollista, mutta voita itsesi, eikä yksikään vihollinen jää jäljelle."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Monikielisyyden tuki lisätty 20 kielelle maailmassa",

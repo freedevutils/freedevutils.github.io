@@ -1969,6 +1969,12 @@
       "design": "Designa applikation med dev utils"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Lade till Notebook+1, en online-textfilsvisare med syntaxmarkering för olika filformat med radnummer, sök och ersätt och jämförelsefunktioner."
+        },
+        "quote":"du kan erövra tusen fiender, men erövra dig själv och ingen fiende finns kvar."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Flerspråkigt stöd har lagts till för 20 språk i världen",

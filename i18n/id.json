@@ -1969,6 +1969,12 @@
       "design": "Mendesain aplikasi dengan utilitas pengembang"
     },
     "versions": {
+       "v2_0_1": {
+        "changes": {
+          "0": "Menambahkan Notebook+1, penampil file teks online dengan sorotan sintaks untuk berbagai format file, dilengkapi nomor baris, fitur cari dan ganti, serta fungsionalitas perbandingan."
+        },
+        "quote":"Anda mungkin bisa menaklukkan seribu musuh, tetapi taklukkan diri Anda sendiri dan tidak akan ada musuh yang tersisa."
+      },
       "v2_0_0": {
         "changes": {
           "0": "Dukungan multibahasa ditambahkan untuk 20 bahasa di dunia",

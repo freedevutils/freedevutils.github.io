@@ -1598,9 +1598,9 @@
         "result": "Niðurstaða"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Lestu, breyttu og vistaðu textaskrár í hvaða sniði sem er",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Skrá",
       "newFile": "Ný skrá",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Bera saman virka við...",
       "explorer": "Skráarvafri",
       "openEditors": "Opnir ritlar",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Ýttu á Ctrl+N til að búa til nýja skrá eða Ctrl+O til að opna.",
       "ready": "Tilbúinn",
       "lineCol": "Lína {{line}}, Dálkur {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Stafir: {{count}}",
       "noFileOpened": "Engin skrá opin",
       "zoom": "Aðdráttur: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Use Case Rit Hönnuður",
+      "description": "Hannaðu Use Case rit og flyttu út með gervigreindartilbúnu JSON líkani, Markdown skjali, SVG og PNG",
+      "import-json": "Flytja inn JSON",
+      "export": "Flytja út",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "AI JSON líkan",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Allt-í-einu gagnasöfn fyrir PDF skjöl",
+      "open": "Opna",
+      "save": "Vista",
+      "save-as": "Vista sem",
+      "print": "Prenta",
+      "studio-utilities": "Studio gagnasöfn",
+      "document-viewer": "Skjalaskoðari",
+      "metadata-editor": "Lýsigagnaritill",
+      "merge-pdf": "Sameina PDF",
+      "split-pdf": "Skipta PDF",
+      "extract-images": "Draga út myndir",
+      "compress": "Þjappa (Fínstilla)",
+      "browse-file": "Vafra eftir skrá",
+      "browse-message": "Veldu eða dragðu PDF skjal hingað til að hefja klippingu"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Hanna forrit með dev utils"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Bætt við gervigreindartilbúnum Use Case Rit Hönnuði með fjölmörgum útflutningsmöguleikum.",
+        "1": "Bætt við PDF Studio með allt-í-einu gagnasöfnum fyrir PDF skrár."
+      },
+      "quote": "Einn neisti hitar lítið. Þúsund neistar verða að leiðarljósi sem sést um alla vetrarbrautina.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Bætti við Notebook+1, veflægum textaskráarskoðara með ritháttarlitun fyrir mismunandi skráarsnið með línunúmerum, leita og skipta út og samanburðarvirkni."
+          "0": "Bætti við Notebook++, veflægum textaskráarskoðara með ritháttarlitun fyrir mismunandi skráarsnið með línunúmerum, leita og skipta út og samanburðarvirkni."
         },
         "quote":"þú gætir sigrað þúsund óvini, en sigraðu sjálfan þig og enginn óvinur verður eftir."
       },

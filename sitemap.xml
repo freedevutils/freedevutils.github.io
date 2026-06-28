@@ -543,4 +543,25 @@
     <priority>0.8</priority>
   </url>
 
+  <url>
+    <loc>https://freedevutils.github.io/devtools/pdf-studio</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://freedevutils.github.io/devtools/use-case-diagram</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://freedevutils.github.io/devtools/notebook-plus-plus</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
 </urlset>

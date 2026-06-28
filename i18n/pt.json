@@ -1598,9 +1598,9 @@
         "result": "Resultado"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Leia, edite e salve arquivos de texto em qualquer formato",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Arquivo",
       "newFile": "Novo Arquivo",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Comparar Ativo Com...",
       "explorer": "Explorador",
       "openEditors": "Editores Abertos",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Pressione Ctrl+N para criar um novo arquivo ou Ctrl+O para abrir.",
       "ready": "Pronto",
       "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Caracteres: {{count}}",
       "noFileOpened": "Nenhum Arquivo Aberto",
       "zoom": "Zoom: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Designer de Diagrama de Caso de Uso",
+      "description": "Projete Diagrama de Caso de Uso e exporte com modelo JSON pronto para IA, Documento Markdown, SVG e PNG",
+      "import-json": "Importar JSON",
+      "export": "Exportar",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Modelo AI JSON",
+      "export-as-markdown": "Documentos Markdown"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Utilitários completos para Documentos PDF",
+      "open": "Abrir",
+      "save": "Salvar",
+      "save-as": "Salvar Como",
+      "print": "Imprimir",
+      "studio-utilities": "Utilitários Studio",
+      "document-viewer": "Visualizador de Documentos",
+      "metadata-editor": "Editor de Metadados",
+      "merge-pdf": "Mesclar PDFs",
+      "split-pdf": "Dividir PDF",
+      "extract-images": "Extrair Imagens",
+      "compress": "Comprimir (Otimizar)",
+      "browse-file": "Procurar Arquivo",
+      "browse-message": "Selecione ou arraste um PDF para começar a editar"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Projetar aplicativo com dev utils"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Adicionado Designer de Diagrama de Caso de Uso pronto para IA com várias opções de exportação.",
+        "1": "Adicionado PDF Studio com utilitários completos para arquivos PDF"
+      },
+      "quote": "Uma faísca aquece pouco. Mil faíscas tornam-se um farol visto em toda a galáxia.."
+    },
        "v2_0_1": {
         "changes": {
-          "0": "Adicionado Notebook+1, um visualizador de arquivos de texto online com realce de sintaxe para diferentes formatos de arquivo, números de linha, e funcionalidade de localizar, substituir e comparar."
+          "0": "Adicionado Notebook++, um visualizador de arquivos de texto online com realce de sintaxe para diferentes formatos de arquivo, números de linha, e funcionalidade de localizar, substituir e comparar."
         },
         "quote":"você pode conquistar mil inimigos, mas conquiste a si mesmo e nenhum inimigo restará."
       },

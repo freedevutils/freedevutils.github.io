@@ -1598,9 +1598,9 @@
         "result": "نتیجہ"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "کسی بھی فارمیٹ میں ٹیکسٹ فائلیں پڑھیں، ترمیم کریں اور محفوظ کریں",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "فائل",
       "newFile": "نئی فائل",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "فعال کا موازنہ کریں...",
       "explorer": "ایکسپلورر",
       "openEditors": "کھلے ایڈیٹرز",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "نئی فائل بنانے کے لیے Ctrl+N یا کھولنے کے لیے Ctrl+O دبائیں۔",
       "ready": "تیار",
       "lineCol": "لائن {{line}}، کالم {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "حروف: {{count}}",
       "noFileOpened": "کوئی فائل نہیں کھلی",
       "zoom": "زوم: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "یوز کیس ڈایاگرام ڈیزائنر (Use Case Diagram Designer)",
+      "description": "یوز کیس ڈایاگرام ڈیزائن کریں اور AI ریڈی JSON ماڈل، Markdown Doc، SVG اور PNG کے ساتھ ایکسپورٹ کریں",
+      "import-json": "JSON امپورٹ کریں",
+      "export": "ایکسپورٹ",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "AI JSON ماڈل",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "PDF سٹوڈیو",
+      "description": "PDF دستاویزات کے لیے آل ان ون یوٹیلیٹیز",
+      "open": "کھولیں",
+      "save": "محفوظ کریں",
+      "save-as": "محفوظ کریں بطور (Save As)",
+      "print": "پرنٹ کریں",
+      "studio-utilities": "سٹوڈیو یوٹیلیٹیز",
+      "document-viewer": "دستاویز ویور",
+      "metadata-editor": "میٹا ڈیٹا ایڈیٹر",
+      "merge-pdf": "PDF مرج کریں",
+      "split-pdf": "PDF سپلٹ کریں",
+      "extract-images": "تصاویر نکالیں (Extract Images)",
+      "compress": "کمپریس کریں (آپٹیمائز)",
+      "browse-file": "فائل براؤز کریں",
+      "browse-message": "ایڈیٹنگ شروع کرنے کے لیے PDF منتخب کریں یا ڈریگ کریں"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "dev utils کے ساتھ ایپلیکیشن ڈیزائن کریں"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "مختلف ایکسپورٹ آپشنز کے ساتھ AI ریڈی یوز کیس ڈایاگرام ڈیزائنر شامل کیا گیا۔",
+        "1": "PDF فائلوں کے لیے آل ان ون یوٹیلیٹیز کے ساتھ PDF سٹوڈیو شامل کیا گیا۔"
+      },
+      "quote": "ایک چنگاری کم گرمی دیتی ہے۔ ہزار چنگاریاں مل کر ایک ایسا مینارہ بن جاتی ہیں جو پوری کہکشاں میں نظر آتا ہے۔"
+    },
        "v2_0_1": {
         "changes": {
-          "0": "مختلف فائل فارمیٹس کے لیے سنٹیکس ہائی لائٹر، لائن نمبرز، تلاش اور تبدیل (find and replace) اور موازنہ کرنے کی خصوصیات کے ساتھ ایک آن لائن ٹیکسٹ فائل ویور Notebook+1 شامل کیا گیا ہے۔"
+          "0": "مختلف فائل فارمیٹس کے لیے سنٹیکس ہائی لائٹر، لائن نمبرز، تلاش اور تبدیل (find and replace) اور موازنہ کرنے کی خصوصیات کے ساتھ ایک آن لائن ٹیکسٹ فائل ویور Notebook++ شامل کیا گیا ہے۔"
         },
         "quote":"تم ہزار دشمنوں کو فتح کر سکتے ہو، لیکن خود کو فتح کرو اور کوئی دشمن باقی نہیں رہے گا۔"
       },

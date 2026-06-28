@@ -1598,9 +1598,9 @@
         "result": "Ergebnis"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Lesen, bearbeiten und speichern Sie Textdateien in jedem Format",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Datei",
       "newFile": "Neue Datei",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Aktive vergleichen mit...",
       "explorer": "Explorer",
       "openEditors": "Geöffnete Editoren",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Drücken Sie Ctrl+N, um eine neue Datei zu erstellen, oder Ctrl+O, um eine zu öffnen.",
       "ready": "Bereit",
       "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Zeichen: {{count}}",
       "noFileOpened": "Keine Datei geöffnet",
       "zoom": "Zoom: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Use-Case-Diagramm-Designer",
+      "description": "Entwerfen Sie Use-Case-Diagramme und exportieren Sie diese als KI-fähiges JSON-Modell, Markdown-Dokument, SVG und PNG",
+      "import-json": "JSON importieren",
+      "export": "Exportieren",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "KI-JSON-Modell",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "All-in-One-Dienstprogramme für PDF-Dokumente",
+      "open": "Öffnen",
+      "save": "Speichern",
+      "save-as": "Speichern unter",
+      "print": "Drucken",
+      "studio-utilities": "Studio-Dienstprogramme",
+      "document-viewer": "Dokumentenbetrachter",
+      "metadata-editor": "Metadaten-Editor",
+      "merge-pdf": "PDFs zusammenführen",
+      "split-pdf": "PDF teilen",
+      "extract-images": "Bilder extrahieren",
+      "compress": "Komprimieren (Optimieren)",
+      "browse-file": "Datei durchsuchen",
+      "browse-message": "Wählen Sie ein PDF aus oder ziehen Sie es hierher, um mit der Bearbeitung zu beginnen"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Anwendung mit Dev-Utils entwerfen"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "KI-fähiger Use-Case-Diagramm-Designer mit verschiedenen Exportoptionen hinzugefügt.",
+        "1": "PDF Studio mit All-in-One-Dienstprogrammen für PDF-Dateien hinzugefügt."
+      },
+      "quote": "Ein Funke wärmt wenig. Tausend Funken werden zu einem Leuchtfeuer, das in der ganzen Galaxie zu sehen ist.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Notebook+1 hinzugefügt, ein Online-Textdateien-Viewer mit Syntax-Hervorhebung für verschiedene Dateiformate, Zeilennummern, Suchen-und-Ersetzen- sowie Vergleichsfunktionen."
+          "0": "Notebook++ hinzugefügt, ein Online-Textdateien-Viewer mit Syntax-Hervorhebung für verschiedene Dateiformate, Zeilennummern, Suchen-und-Ersetzen- sowie Vergleichsfunktionen."
         },
         "quote":"Du magst tausend Feinde besiegen, aber besiege dich selbst und kein Feind bleibt übrig."
       },

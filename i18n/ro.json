@@ -1598,9 +1598,9 @@
         "result": "Rezultat"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Citiți, editați, salvați fișiere text în orice format",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Fișier",
       "newFile": "Fișier nou",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Compară activ cu...",
       "explorer": "Explorator",
       "openEditors": "Editoare deschise",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Apăsați Ctrl+N pentru a crea un fișier nou sau Ctrl+O pentru a deschide.",
       "ready": "Gata",
       "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Caractere: {{count}}",
       "noFileOpened": "Niciun fișier deschis",
       "zoom": "Zoom: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Proiectant diagrame de caz de utilizare (Use Case)",
+      "description": "Proiectați diagrame Use Case și exportați cu model JSON pregătit pentru AI, document Markdown, SVG și PNG",
+      "import-json": "Importă JSON",
+      "export": "Exportă",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Model AI JSON",
+      "export-as-markdown": "Documente Markdown"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Utilitare All-in-One pentru documente PDF",
+      "open": "Deschide",
+      "save": "Salvează",
+      "save-as": "Salvează ca",
+      "print": "Printează",
+      "studio-utilities": "Utilitare Studio",
+      "document-viewer": "Vizualizator documente",
+      "metadata-editor": "Editor metadate",
+      "merge-pdf": "Îmbinare PDF-uri",
+      "split-pdf": "Scindare PDF",
+      "extract-images": "Extragere imagini",
+      "compress": "Comprimare (Optimizare)",
+      "browse-file": "Răsfoire fișier",
+      "browse-message": "Selectați sau trageți un PDF pentru a începe editarea"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Proiectare aplicație cu dev utils"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "A fost adăugat Proiectantul de diagrame Use Case pregătit pentru AI cu diverse opțiuni de export.",
+        "1": "A fost adăugat PDF Studio cu utilitare All-in-One pentru fișiere PDF."
+      },
+      "quote": "O scânteie încălzește puțin. O mie de scântei devin un far văzut în întreaga galaxie.."
+    },
       "v2_0_1": {
         "changes": {
-          "0": "A fost adăugat Notebook+1, un vizualizator online de fișiere text cu evidențiere de sintaxă pentru diferite formate de fișiere, numere de linie și funcționalitate de căutare și înlocuire, precum și de comparare."
+          "0": "A fost adăugat Notebook++, un vizualizator online de fișiere text cu evidențiere de sintaxă pentru diferite formate de fișiere, numere de linie și funcționalitate de căutare și înlocuire, precum și de comparare."
         },
         "quote":"poți cuceri o mie de inamici, dar cucerește-te pe tine însuți și niciun inamic nu va mai rămâne."
       },

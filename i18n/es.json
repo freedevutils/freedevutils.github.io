@@ -1598,9 +1598,9 @@
         "result": "Resultado"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Lee, edita y guarda archivos de texto en cualquier formato",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Archivo",
       "newFile": "Nuevo archivo",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Comparar activo con...",
       "explorer": "Explorador",
       "openEditors": "Editores abiertos",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Presiona Ctrl+N para crear un nuevo archivo o Ctrl+O para abrir uno.",
       "ready": "Listo",
       "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Caracteres: {{count}}",
       "noFileOpened": "No hay ningún archivo abierto",
       "zoom": "Zoom: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Diseñador de diagramas de casos de uso",
+      "description": "Diseñe diagramas de casos de uso y expórtelos con un modelo JSON listo para IA, documentos Markdown, SVG y PNG",
+      "import-json": "Importar JSON",
+      "export": "Exportar",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Modelo AI JSON",
+      "export-as-markdown": "Documentos Markdown"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Utilidades todo en uno para documentos PDF",
+      "open": "Abrir",
+      "save": "Guardar",
+      "save-as": "Guardar como",
+      "print": "Imprimir",
+      "studio-utilities": "Utilidades de Studio",
+      "document-viewer": "Visor de documentos",
+      "metadata-editor": "Editor de metadatos",
+      "merge-pdf": "Combinar PDF",
+      "split-pdf": "Dividir PDF",
+      "extract-images": "Extraer imágenes",
+      "compress": "Comprimir (Optimizar)",
+      "browse-file": "Examinar archivo",
+      "browse-message": "Seleccione o arrastre un PDF para comenzar a editar"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Diseñar aplicación con utilidades de desarrollo"
     },
     "versions": {
+        "v2_1_0": {
+        "changes": {
+          "0": "Se agregó el diseñador de diagramas de casos de uso listo para IA con varias opciones de exportación.",
+          "1": "Se agregó PDF Studio con utilidades todo en uno para archivos PDF."
+        },
+        "quote": "Una chispa calienta poco. Mil chispas se convierten en un faro visto en toda la galaxia.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Se ha añadido Notebook+1, un visor de archivos de texto en línea con resaltado de sintaxis para diferentes formatos de archivo, con números de línea, función de buscar y reemplazar, y funcionalidad de comparación."
+          "0": "Se ha añadido Notebook++, un visor de archivos de texto en línea con resaltado de sintaxis para diferentes formatos de archivo, con números de línea, función de buscar y reemplazar, y funcionalidad de comparación."
         },
         "quote":"puedes conquistar a mil enemigos, pero conquístate a ti mismo y no quedará ningún enemigo."
       },

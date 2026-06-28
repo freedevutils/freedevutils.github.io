@@ -1598,9 +1598,9 @@
         "result": "Résultat"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Lisez, modifiez et enregistrez des fichiers texte dans n'importe quel format",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Fichier",
       "newFile": "Nouveau fichier",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Comparer l'élément actif avec...",
       "explorer": "Explorateur",
       "openEditors": "Éditeurs ouverts",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Appuyez sur Ctrl+N pour créer un nouveau fichier ou sur Ctrl+O pour en ouvrir un.",
       "ready": "Prêt",
       "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Caractères : {{count}}",
       "noFileOpened": "Aucun fichier ouvert",
       "zoom": "Zoom : {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Concepteur de diagrammes de cas d'utilisation",
+      "description": "Concevez un diagramme de cas d'utilisation et exportez-le avec un modèle JSON compatible IA, des documents Markdown, SVG et PNG",
+      "import-json": "Importer JSON",
+      "export": "Exporter",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Modèle AI JSON",
+      "export-as-markdown": "Documents Markdown"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Utilitaires tout-en-un pour documents PDF",
+      "open": "Ouvrir",
+      "save": "Enregistrer",
+      "save-as": "Enregistrer sous",
+      "print": "Imprimer",
+      "studio-utilities": "Utilitaires Studio",
+      "document-viewer": "Visionneuse de documents",
+      "metadata-editor": "Éditeur de métadonnées",
+      "merge-pdf": "Fusionner des PDF",
+      "split-pdf": "Diviser le PDF",
+      "extract-images": "Extraire les images",
+      "compress": "Compresser (Optimiser)",
+      "browse-file": "Parcourir les fichiers",
+      "browse-message": "Sélectionnez ou faites glisser un PDF pour commencer l'édition"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Concevoir l'application avec les utilitaires de développement"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Ajout du concepteur de diagrammes de cas d'utilisation compatible IA avec diverses options d'exportation.",
+        "1": "Ajout de PDF Studio avec des utilitaires tout-en-un pour les fichiers PDF."
+      },
+      "quote": "Une étincelle réchauffe peu. Mille étincelles deviennent un phare visible à travers la galaxie.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Ajout de Notebook+1, une visionneuse de fichiers texte en ligne avec coloration syntaxique pour différents formats de fichiers, numéros de ligne, et fonctionnalités de recherche, remplacement et comparaison."
+          "0": "Ajout de Notebook++, une visionneuse de fichiers texte en ligne avec coloration syntaxique pour différents formats de fichiers, numéros de ligne, et fonctionnalités de recherche, remplacement et comparaison."
         },
         "quote":"vous pouvez vaincre mille ennemis, mais conquérez-vous vous-même et il ne restera aucun ennemi."
       },

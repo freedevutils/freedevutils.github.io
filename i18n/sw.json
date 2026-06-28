@@ -1598,9 +1598,9 @@
         "result": "Tokeo"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Soma, Hariri, Hifadhi faili za maandishi katika umbizo lolote",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Faili",
       "newFile": "Faili Jipya",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Linganisha Kinachotumika Na...",
       "explorer": "Kichunguzi",
       "openEditors": "Vihariri Wazi",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Bonyeza Ctrl+N kuunda faili jipya au Ctrl+O kufungua.",
       "ready": "Tayari",
       "lineCol": "Mst {{line}}, Saf {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Herufi: {{count}}",
       "noFileOpened": "Hakuna Faili Lililofunguliwa",
       "zoom": "Kuza: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Mbuni wa Mchoro wa Use Case",
+      "description": "Buni Mchoro wa Use Case na usafirishe ukiwa na kielelezo cha JSON kilicho tayari kwa AI, Hati ya Markdown, SVG na PNG",
+      "import-json": "Ingiza JSON",
+      "export": "Safirisha",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Kielelezo cha AI JSON",
+      "export-as-markdown": "Nyaraka za Markdown"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Zana za Kila Kitu kwa Hati za PDF",
+      "open": "Fungua",
+      "save": "Hifadhi",
+      "save-as": "Hifadhi Kama",
+      "print": "Chapisha",
+      "studio-utilities": "Zana za Studio",
+      "document-viewer": "Kitazamaji Hati",
+      "metadata-editor": "Mhariri wa Metadata",
+      "merge-pdf": "Unganisha PDF",
+      "split-pdf": "Gawanya PDF",
+      "extract-images": "Toa Picha",
+      "compress": "Bana (Boresha)",
+      "browse-file": "Vinjari Faili",
+      "browse-message": "Chagua au buruta PDF ili uanze kuhariri"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Buni programu ukiwa na dev utils"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Kumeongezwa Mbuni wa Mchoro wa Use Case aliye tayari kwa AI akiwa na chaguzi mbalimbali za usafirishaji.",
+        "1": "Kumeongezwa PDF Studio yenye Zana za Kila Kitu kwa faili za PDF."
+      },
+      "quote": "Cheche moja hutoa joto kidogo. Cheche elfu huwa mnara wa nuru unaoonekana kote kwenye galaksi.."
+     },
        "v2_0_1": {
         "changes": {
-          "0": "Imeongezwa Notebook+1, kitazamaji cha faili za maandishi mtandaoni chenye kiangazio cha sintaksia kwa fomati tofauti za faili pamoja na nambari za mistari, utendaji wa kutafuta na kubadilisha na kulinganisha."
+          "0": "Imeongezwa Notebook++, kitazamaji cha faili za maandishi mtandaoni chenye kiangazio cha sintaksia kwa fomati tofauti za faili pamoja na nambari za mistari, utendaji wa kutafuta na kubadilisha na kulinganisha."
         },
         "quote":"unaweza kushinda maadui elfu moja, lakini jishinde mwenyewe na hakuna adui atayebaki."
       },

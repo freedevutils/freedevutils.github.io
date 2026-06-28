@@ -1598,9 +1598,9 @@
         "result": "Resultaat"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Lees, wysig en stoor tekslêers in enige formaat",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Lêer",
       "newFile": "Nuwe lêer",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Vergelyk aktiewe met...",
       "explorer": "Verkenner",
       "openEditors": "Oop redigeerders",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Druk Ctrl+N om 'n nuwe lêer te skep of Ctrl+O om oop te maak.",
       "ready": "Gereed",
       "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,7 +1637,34 @@
       "chars": "Karakters: {{count}}",
       "noFileOpened": "Geen lêer oopgemaak nie",
       "zoom": "Zoem: {{level}}%"
-    }
+    },
+    "use-case-diagram": {
+      "title": "Use Case Diagram Ontwerper",
+      "description": "Ontwerp Use Case Diagram en voer uit met AI Ready JSON-model, Markdown Doc, SVG en PNG",
+      "import-json": "Voer JSON in",
+      "export": "Voer uit",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "AI JSON-model",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Alles-in-een nutsmiddels vir PDF-dokumente",
+      "open": "Maak oop",
+      "save": "Stoor",
+      "save-as": "Stoor as",
+      "print": "Druk",
+      "studio-utilities": "Studio Nutsmiddels",
+      "document-viewer": "Dokumentkyker",
+      "metadata-editor": "Metadata-redigeerder",
+      "merge-pdf": "Voeg PDF's saam",
+      "split-pdf": "Verdeel PDF",
+      "extract-images": "Onttrek beelde",
+      "compress": "Komprimeer (Optimeer)",
+      "browse-file": "Blaai deur lêers",
+      "browse-message": "Kies of sleep 'n PDF om te begin redigeer"
+     }
     }
   },
   "contribute": {
@@ -1969,9 +1996,16 @@
       "design": "Ontwerp toepassing met ontwikkelingsnutsprogramme"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "AI Ready Use Case Diagram Ontwerper bygevoeg met verskeie uitvoeropsies.",
+        "1": "PDF Studio bygevoeg met alles-in-een nutsmiddels vir PDF-lêers."
+        },
+        "quote": "'n Enkele vonk verwarm min. Duisend vonke word 'n baken wat oor die hele sterrestelsel gesien kan word.."
+        },
        "v2_0_1": {
         "changes": {
-          "0": "Notebook+1 bygevoeg, 'n aanlyn tekslêer kyker met sintaksverligting vir verskillende lêerformate met reëlnommers, soek-en-vervang- en vergelykingsfunksionaliteit."
+          "0": "Notebook++ bygevoeg, 'n aanlyn tekslêer kyker met sintaksverligting vir verskillende lêerformate met reëlnommers, soek-en-vervang- en vergelykingsfunksionaliteit."
         },
         "quote": "jy mag dalk duisend vyande oorwin, maar oorwin jouself en geen vyand bly oor nie."
       },

@@ -1598,9 +1598,9 @@
         "result": "પરિણામ"
       },
       "notebook-plus-one": {
-        "title": "Notebook +1",
+        "title": "Notebook ++",
         "description": "કોઈપણ ફોર્મેટમાં ટેક્સ્ટ ફાઇલો વાંચો, સંપાદિત કરો અને સાચવો",
-        "brandTitle": "Notebook +1",
+        "brandTitle": "Notebook ++",
         "fileMenu": "ફાઇલ",
         "newFile": "નવી ફાઇલ",
         "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
         "compareActiveWith": "આની સાથે સક્રિય ફાઇલની તુલના કરો...",
         "explorer": "એક્સપ્લોરર",
         "openEditors": "ખોલેલા સંપાદકો",
-        "emptyStateTitle": "Notebook +1",
+        "emptyStateTitle": "Notebook ++",
         "emptyStateDesc": "નવી ફાઇલ બનાવવા માટે Ctrl+N અથવા ખોલવા માટે Ctrl+O દબાવો.",
         "ready": "તૈયાર",
         "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,7 +1637,34 @@
         "chars": "અક્ષરો: {{count}}",
         "noFileOpened": "કોઈ ફાઇલ ખોલેલ નથી",
         "zoom": "ઝૂમ: {{level}}%"
-      }
+      },
+      "use-case-diagram": {
+      "title": "યૂઝ કેસ ડાયાગ્રામ ડિઝાઇનર",
+      "description": "યૂઝ કેસ ડાયાગ્રામ ડિઝાઇન કરો અને AI રેડી JSON મોડેલ, Markdown Doc, SVG અને PNG સાથે નિકાસ કરો",
+      "import-json": "JSON આયાત કરો",
+      "export": "નિકાસ કરો",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "AI JSON મોડેલ",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "PDF સ્ટુડિયો",
+      "description": "PDF દસ્તાવેજ માટે ઓલ-ઇન-વન યુટિલિટીઝ",
+      "open": "ખોલો",
+      "save": "સેવ કરો",
+      "save-as": "આ રીતે સેવ કરો (Save As)",
+      "print": "પ્રિન્ટ કરો",
+      "studio-utilities": "સ્ટુડિયો યુટિલિટીઝ",
+      "document-viewer": "દસ્તાવેજ વ્યૂઅર",
+      "metadata-editor": "મેટાડેટા એડિટર",
+      "merge-pdf": "PDF મર્જ કરો",
+      "split-pdf": "PDF સ્પ્લિટ કરો",
+      "extract-images": "ઇમેજ એક્સટ્રેક્ટ કરો",
+      "compress": "કમ્પ્રેસ (ઓપ્ટિમાઇઝ) કરો",
+      "browse-file": "ફાઇલ બ્રાઉઝ કરો",
+      "browse-message": "એડિટિંગ શરૂ કરવા માટે PDF પસંદ કરો અથવા ડ્રેગ કરો"
+     }
     }
   },
   "contribute": {
@@ -1969,9 +1996,16 @@
       "design": "ડેવ યુટિલ્સ સાથે એપ્લિકેશન ડિઝાઇન કરો"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "વિવિધ નિકાસ વિકલ્પો સાથે AI રેડી યૂઝ કેસ ડાયાગ્રામ ડિઝાઇનર ઉમેરવામાં આવ્યું.",
+        "1": "PDF ફાઇલો માટે ઓલ-ઇન-વન યુટિલિટીઝ સાથે PDF સ્ટુડિયો ઉમેરવામાં આવ્યો."
+      },
+      "quote": "એક તણખો ઓછી ગરમી આપે છે. હજાર તણખા મળીને એવો પ્રકાશસ્તંભ બને છે જે આખી આકાશગંગામાં દેખાય છે.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Notebook+1 ઉમેરવામાં આવ્યું, વિવિધ ફાઇલ ફોર્મેટ્સ માટે સિન્ટેક્સ હાઇલાઇટર, લાઇન નંબર, શોધ અને બદલો (find and replace) અને તુલના કરવાની કાર્યક્ષમતા સાથે ઑનલાઇન ટેક્સ્ટ ફાઇલ વ્યૂઅર."
+          "0": "Notebook++ ઉમેરવામાં આવ્યું, વિવિધ ફાઇલ ફોર્મેટ્સ માટે સિન્ટેક્સ હાઇલાઇટર, લાઇન નંબર, શોધ અને બદલો (find and replace) અને તુલના કરવાની કાર્યક્ષમતા સાથે ઑનલાઇન ટેક્સ્ટ ફાઇલ વ્યૂઅર."
         },
         "quote":"તમે હજાર દુશ્મનો પર વિજય મેળવી શકો છો, પરંતુ તમારી જાત પર વિજય મેળવો અને કોઈ દુશ્મન બાકી રહેશે નહીં."
       },

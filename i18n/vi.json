@@ -1598,46 +1598,73 @@
         "result": "Kết quả"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
-      "description": "Đọc, Chỉnh sửa, Lưu tệp văn bản ở bất kỳ định dạng nào",
-      "brandTitle": "Notebook +1",
-      "fileMenu": "Tệp",
-      "newFile": "Tệp mới",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Mở tệp",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Lưu",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Lưu tất cả...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Thoát",
-      "editMenu": "Chỉnh sửa",
-      "undo": "Hoàn tác",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Làm lại",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Cắt",
-      "copy": "Sao chép",
-      "paste": "Dán",
-      "searchMenu": "Tìm kiếm",
-      "find": "Tìm",
-      "findShortcut": "Ctrl+F",
-      "replace": "Thay thế",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Công cụ",
-      "formatDocument": "Định dạng tài liệu",
-      "compareActiveWith": "So sánh tệp hiện tại với...",
-      "explorer": "Trình khám phá",
-      "openEditors": "Trình chỉnh sửa đang mở",
-      "emptyStateTitle": "Notebook +1",
-      "emptyStateDesc": "Nhấn Ctrl+N để tạo tệp mới hoặc Ctrl+O để mở.",
-      "ready": "Sẵn sàng",
-      "lineCol": "Dòng {{line}}, Cột {{col}}",
-      "lines": "Số dòng: {{count}}",
-      "chars": "Số ký tự: {{count}}",
-      "noFileOpened": "Chưa mở tệp nào",
-      "zoom": "Thu phóng: {{level}}%"
-    }
+        "title": "Notebook ++",
+        "description": "Đọc, Chỉnh sửa, Lưu tệp văn bản ở bất kỳ định dạng nào",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Tệp",
+        "newFile": "Tệp mới",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Mở tệp",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Lưu",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Lưu tất cả...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Thoát",
+        "editMenu": "Chỉnh sửa",
+        "undo": "Hoàn tác",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Làm lại",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Cắt",
+        "copy": "Sao chép",
+        "paste": "Dán",
+        "searchMenu": "Tìm kiếm",
+        "find": "Tìm",
+        "findShortcut": "Ctrl+F",
+        "replace": "Thay thế",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Công cụ",
+        "formatDocument": "Định dạng tài liệu",
+        "compareActiveWith": "So sánh tệp hiện tại với...",
+        "explorer": "Trình khám phá",
+        "openEditors": "Trình chỉnh sửa đang mở",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Nhấn Ctrl+N để tạo tệp mới hoặc Ctrl+O để mở.",
+        "ready": "Sẵn sàng",
+        "lineCol": "Dòng {{line}}, Cột {{col}}",
+        "lines": "Số dòng: {{count}}",
+        "chars": "Số ký tự: {{count}}",
+        "noFileOpened": "Chưa mở tệp nào",
+        "zoom": "Thu phóng: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Trình thiết kế sơ đồ Use Case",
+        "description": "Thiết kế Sơ đồ Use Case và xuất với mô hình JSON tích hợp AI, Tài liệu Markdown, SVG và PNG",
+        "import-json": "Nhập JSON",
+        "export": "Xuất",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Mô hình AI JSON",
+        "export-as-markdown": "Tài liệu Markdown"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Tiện ích tất cả trong một cho Tài liệu PDF",
+        "open": "Mở",
+        "save": "Lưu",
+        "save-as": "Lưu thành",
+        "print": "In",
+        "studio-utilities": "Tiện ích Studio",
+        "document-viewer": "Trình xem tài liệu",
+        "metadata-editor": "Trình chỉnh sửa siêu dữ liệu",
+        "merge-pdf": "Ghép PDF",
+        "split-pdf": "Tách PDF",
+        "extract-images": "Trích xuất hình ảnh",
+        "compress": "Nén (Tối ưu hóa)",
+        "browse-file": "Duyệt tệp",
+        "browse-message": "Chọn hoặc kéo một tệp PDF để bắt đầu chỉnh sửa"
+      }
     }
   },
   "contribute": {
@@ -1969,11 +1996,18 @@
       "design": "Thiết kế ứng dụng với các tiện ích cho dev"
     },
     "versions": {
-       "v2_0_1": {
+      "v2_1_0": {
         "changes": {
-          "0": "Đã thêm Notebook+1, một trình xem tệp văn bản trực tuyến có tính năng làm nổi bật cú pháp cho các định dạng tệp khác nhau với số dòng, chức năng tìm kiếm và thay thế cùng khả năng so sánh."
+          "0": "Đã thêm Trình thiết kế sơ đồ Use Case tích hợp AI với nhiều tùy chọn xuất khác nhau.",
+          "1": "Đã thêm PDF Studio với các tiện ích tất cả trong một cho các tệp PDF."
         },
-        "quote":"bạn có thể chinh phục một nghìn kẻ thù, nhưng hãy chinh phục chính mình và không còn kẻ thù nào ở lại."
+        "quote": "Một tia lửa chỉ sưởi ấm một chút. Một nghìn tia lửa trở thành ngọn hải đăng được nhìn thấy khắp thiên hà.."
+      },
+      "v2_0_1": {
+        "changes": {
+          "0": "Đã thêm Notebook++, một trình xem tệp văn bản trực tuyến có tính năng làm nổi bật cú pháp cho các định dạng tệp khác nhau với số dòng, chức năng tìm kiếm và thay thế cùng khả năng so sánh."
+        },
+        "quote": "bạn có thể chinh phục một nghìn kẻ thù, nhưng hãy chinh phục chính mình và không còn kẻ thù nào ở lại."
       },
       "v2_0_0": {
         "changes": {

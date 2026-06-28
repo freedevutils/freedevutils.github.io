@@ -1598,9 +1598,9 @@
         "result": "Kasil"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Waca, Owahi, lan Simpen file teks ing format apa wae",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Berkas",
       "newFile": "Berkas Anyar",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Bandingake Sing Aktif Karo...",
       "explorer": "Panjelajah",
       "openEditors": "Editor Sing Bukak",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Pencet Ctrl+N kanggo nggawe berkas anyar utawa Ctrl+O kanggo mbukak.",
       "ready": "Siap",
       "lineCol": "Brs {{line}}, Kol {{col}}",
@@ -1637,7 +1637,34 @@
       "chars": "Karakter: {{count}}",
       "noFileOpened": "Ora Ana Berkas Sing Bukak",
       "zoom": "Zom: {{level}}%"
-    }
+    },
+    "use-case-diagram": {
+      "title": "Desainer Diagram Use Case",
+      "description": "Desain Diagram Use Case lan ekspor nganggo model JSON AI Ready, Dokumen Markdown, SVG lan PNG",
+      "import-json": "Impor JSON",
+      "export": "Ekspor",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Model AI JSON",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Utilitas Kabeh ing Siji kanggo Dokumen PDF",
+      "open": "Buka",
+      "save": "Simpen",
+      "save-as": "Simpen Minangka",
+      "print": "Cetak",
+      "studio-utilities": "Utilitas Studio",
+      "document-viewer": "Panampil Dokumen",
+      "metadata-editor": "Editor Metadata",
+      "merge-pdf": "Gabung PDF",
+      "split-pdf": "Pecah PDF",
+      "extract-images": "Ekstrak Gambar",
+      "compress": "Kompres (Optimalake)",
+      "browse-file": "Jelajahi File",
+      "browse-message": "Pilih utawa seret PDF kanggo miwiti nyunting"
+     }
     }
   },
   "contribute": {
@@ -1969,9 +1996,16 @@
       "design": "Desain aplikasi kanthi utilitas pangembang"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Ditambahake Desainer Diagram Use Case AI Ready kanthi macem-macem opsi ekspor.",
+        "1": "Ditambahake PDF Studio kanthi utilitas Kabeh ing Siji kanggo file PDF."
+       },
+       "quote": "Percikan siji mung menehi anget sethithik. Sewu percikan dadi suar sing katon ing kabeh galaksi.."
+       },
        "v2_0_1": {
         "changes": {
-          "0": "Nambahake Notebook+1, panampil file teks online kanthi penyorot sintaks kanggo macem-macem format file kanthi nomer baris, fungsi golek lan ganti, lan fungsi mbandhingake."
+          "0": "Nambahake Notebook++, panampil file teks online kanthi penyorot sintaks kanggo macem-macem format file kanthi nomer baris, fungsi golek lan ganti, lan fungsi mbandhingake."
         },
         "quote":"sampeyan bisa ngalahake sewu mungsuh, nanging ngalahake awakmu dhewe lan ora ana mungsuh sing isih ana."
       },

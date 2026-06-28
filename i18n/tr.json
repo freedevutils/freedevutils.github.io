@@ -1598,9 +1598,9 @@
         "result": "Sonuç"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Herhangi bir formattaki metin dosyalarını okuyun, düzenleyin ve kaydedin",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Dosya",
       "newFile": "Yeni Dosya",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Etkin Olanı Şununla Karşılaştır...",
       "explorer": "Gezgin",
       "openEditors": "Açık Düzenleyiciler",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Yeni dosya oluşturmak için Ctrl+N'ye, açmak için Ctrl+O'ya basın.",
       "ready": "Hazır",
       "lineCol": "Sat {{line}}, Süt {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Karakterler: {{count}}",
       "noFileOpened": "Dosya Açılmadı",
       "zoom": "Yakınlaştırma: %{{level}}"
+    },
+    "use-case-diagram": {
+      "title": "Use Case Diyagram Tasarımcısı",
+      "description": "Use Case Diyagramı tasarlayın ve yapay zeka destekli JSON modeli, Markdown Belgesi, SVG ve PNG ile dışa aktarın",
+      "import-json": "JSON İçe Aktar",
+      "export": "Dışa Aktar",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "AI JSON Modeli",
+      "export-as-markdown": "Markdown Belgeleri"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "PDF Belgeleri için Hepsi Bir Arada Araçlar",
+      "open": "Aç",
+      "save": "Kaydet",
+      "save-as": "Farklı Kaydet",
+      "print": "Yazdır",
+      "studio-utilities": "Studio Araçları",
+      "document-viewer": "Belge Görüntüleyici",
+      "metadata-editor": "Meta Veri Düzenleyici",
+      "merge-pdf": "PDF'leri Birleştir",
+      "split-pdf": "PDF Böl",
+      "extract-images": "Görüntüleri Çıkart",
+      "compress": "Sıkıştır (Optimize Et)",
+      "browse-file": "Dosyaya Gözat",
+      "browse-message": "Düzenlemeye başlamak için bir PDF seçin veya sürükleyin"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Geliştirici araçlarıyla uygulamanın tasarımı yapılacak"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Çeşitli dışa aktarma seçenekleriyle yapay zeka destekli Use Case Diyagram Tasarımcısı eklendi.",
+        "1": "PDF dosyaları için hepsi bir arada araçlar içeren PDF Studio eklendi."
+      },
+      "quote": "Bir kıvılcım az ısıtır. Binlerce kıvılcım galaksinin dört bir yanından görülen bir fenere dönüşür.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Farklı dosya biçimleri için sözdizimi vurgulayıcı, satır numaraları, bul ve değiştir ile karşılaştırma işlevlerine sahip çevrimiçi bir metin dosyası görüntüleyicisi olan Notebook+1 eklendi."
+          "0": "Farklı dosya biçimleri için sözdizimi vurgulayıcı, satır numaraları, bul ve değiştir ile karşılaştırma işlevlerine sahip çevrimiçi bir metin dosyası görüntüleyicisi olan Notebook++ eklendi."
         },
         "quote":"bin düşmanı yenebilirsin, ancak kendini yen ve geriye hiçbir düşman kalmasın."
       },

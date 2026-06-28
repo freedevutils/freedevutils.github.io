@@ -1598,9 +1598,9 @@
         "result": "Hasil"
       },
       "notebook-plus-one": {
-        "title": "Notebook +1",
+        "title": "Notebook ++",
         "description": "Baca, Edit, Simpan fail teks dalam sebarang format",
-        "brandTitle": "Notebook +1",
+        "brandTitle": "Notebook ++",
         "fileMenu": "Fail",
         "newFile": "Fail Baru",
         "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
         "compareActiveWith": "Bandingkan yang Aktif Dengan...",
         "explorer": "Penjelajah",
         "openEditors": "Editor Terbuka",
-        "emptyStateTitle": "Notebook +1",
+        "emptyStateTitle": "Notebook ++",
         "emptyStateDesc": "Tekan Ctrl+N untuk mencipta fail baru atau Ctrl+O untuk membuka fail.",
         "ready": "Sedia",
         "lineCol": "Brs {{line}}, Kol {{col}}",
@@ -1637,7 +1637,34 @@
         "chars": "Aksara: {{count}}",
         "noFileOpened": "Tiada Fail Dibuka",
         "zoom": "Zum: {{level}}%"
-      }
+      },
+      "use-case-diagram": {
+      "title": "Pereka Gambar Rajah Kes Penggunaan",
+      "description": "Reka Gambar Rajah Kes Penggunaan dan eksport dengan model JSON Sedia AI, Dokumen Markdown, SVG dan PNG",
+      "import-json": "Import JSON",
+      "export": "Eksport",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Model AI JSON",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "Studio PDF",
+      "description": "Utiliti Semua dalam Satu untuk Dokumen PDF",
+      "open": "Buka",
+      "save": "Simpan",
+      "save-as": "Simpan Sebagai",
+      "print": "Cetak",
+      "studio-utilities": "Utiliti Studio",
+      "document-viewer": "Pemapar Dokumen",
+      "metadata-editor": "Penyunting Metadata",
+      "merge-pdf": "Gabungkan PDF",
+      "split-pdf": "Pisahkan PDF",
+      "extract-images": "Ekstrak Imej",
+      "compress": "Mampat (Optimumkan)",
+      "browse-file": "Layar Fail",
+      "browse-message": "Pilih atau seret PDF untuk mula mengedit"
+    }
     }
   },
   "contribute": {
@@ -1969,9 +1996,16 @@
       "design": "Reka aplikasi dengan utiliti pembangun"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Ditambah Pereka Gambar Rajah Kes Penggunaan Sedia AI dengan pelbagai pilihan eksport.",
+        "1": "Ditambah Studio PDF dengan utiliti Semua dalam satu untuk fail PDF"
+      },
+      "quote": "Satu percikan memberi sedikit kehangatan. Seribu percikan menjadi suar yang kelihatan merentasi galaksi.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Menambahkan Notebook+1, pemapar fail teks dalam talian dengan penyerlah sintaks untuk pelbagai format fail bersama nombor baris, cari dan ganti serta fungsi perbandingan."
+          "0": "Menambahkan Notebook++, pemapar fail teks dalam talian dengan penyerlah sintaks untuk pelbagai format fail bersama nombor baris, cari dan ganti serta fungsi perbandingan."
         },
         "quote":"anda mungkin boleh menakluki seribu musuh, tetapi taklukilah diri anda sendiri dan tiada musuh yang tinggal."
       },

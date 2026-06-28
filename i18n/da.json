@@ -1598,9 +1598,9 @@
         "result": "Resultat"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Læs, rediger og gem tekstfiler i ethvert format",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Filer",
       "newFile": "Ny fil",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Sammenlign aktiv med...",
       "explorer": "Stifinder",
       "openEditors": "Åbne editorer",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Tryk på Ctrl+N for at oprette en ny fil eller Ctrl+O for at åbne.",
       "ready": "Klar",
       "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Tegn: {{count}}",
       "noFileOpened": "Ingen fil åbnet",
       "zoom": "Zoom: {{level}}%"
+     },
+     "use-case-diagram": {
+      "title": "Use Case Diagram Designer",
+      "description": "Design Use Case Diagram og eksporter med AI Ready JSON-model, Markdown Doc, SVG og PNG",
+      "import-json": "Importer JSON",
+      "export": "Eksporter",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "AI JSON-model",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "All-in-One værktøjer til PDF-dokumenter",
+      "open": "Åbn",
+      "save": "Gem",
+      "save-as": "Gem som",
+      "print": "Udskriv",
+      "studio-utilities": "Studio-værktøjer",
+      "document-viewer": "Dokumentfremviser",
+      "metadata-editor": "Metadata-editor",
+      "merge-pdf": "Flet PDF'er",
+      "split-pdf": "Opdel PDF",
+      "extract-images": "Udtræk billeder",
+      "compress": "Komprimer (Optimer)",
+      "browse-file": "Gennemse fil",
+      "browse-message": "Vælg eller træk en PDF for at begynde redigeringen"
      }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Design applikation med udviklerværktøjer"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Tilføjet AI Ready Use Case Diagram Designer med forskellige eksportmuligheder.",
+        "1": "Tilføjet PDF Studio med All-in-One værktøjer til PDF-filer"
+      },
+      "quote": "En enkelt gnist varmer lidt. Et tusind gnister bliver et fyrtårn, der kan ses over hele galaksen.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Tilføjet Notebook+1, en online tekstfilfremviser med syntakshighlighter til forskellige filformater, med linjenumre, find og erstat- samt sammenligningsfunktionalitet."
+          "0": "Tilføjet Notebook++, en online tekstfilfremviser med syntakshighlighter til forskellige filformater, med linjenumre, find og erstat- samt sammenligningsfunktionalitet."
         },
         "quote": "du kan erobre tusind fjender, men erobr dig selv, og ingen fjende er tilbage."
       },

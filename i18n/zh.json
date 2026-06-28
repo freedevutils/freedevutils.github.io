@@ -1598,9 +1598,9 @@
         "result": "结果"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "读取、编辑、保存任何格式的文本文件",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "文件",
       "newFile": "新建文件",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "将活动文件与...进行比较",
       "explorer": "资源管理器",
       "openEditors": "打开的编辑器",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "按 Ctrl+N 创建新文件，或按 Ctrl+O 打开文件。",
       "ready": "就绪",
       "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "字符数: {{count}}",
       "noFileOpened": "未打开文件",
       "zoom": "缩放: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "用例图设计器",
+      "description": "设计用例图并导出支持 AI 的 JSON 模型、Markdown 文档、SVG 和 PNG",
+      "import-json": "导入 JSON",
+      "export": "导出",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "AI JSON 模型",
+      "export-as-markdown": "Markdown 文档"
+    },
+    "pdf-studio": {
+      "title": "PDF 工作室",
+      "description": "PDF 文档的多功能实用工具",
+      "open": "打开",
+      "save": "保存",
+      "save-as": "另存为",
+      "print": "打印",
+      "studio-utilities": "工作室工具",
+      "document-viewer": "文档查看器",
+      "metadata-editor": "元数据编辑器",
+      "merge-pdf": "合并 PDF",
+      "split-pdf": "拆分 PDF",
+      "extract-images": "提取图片",
+      "compress": "压缩（优化）",
+      "browse-file": "浏览文件",
+      "browse-message": "选择或拖拽 PDF 以开始编辑"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "使用开发工具设计应用程序"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "新增支持 AI 的用例图设计器，提供多种导出选项。",
+        "1": "新增 PDF 工作室，提供针对 PDF 文件的全套实用工具。"
+      },
+      "quote": "星星之火，温热有限。千星聚拢，化作照亮星系的灯塔。"
+      },
        "v2_0_1": {
         "changes": {
-          "0": "新增了 Notebook+1，这是一款在线文本文件查看器，提供针对不同文件格式的语法高亮显示，具有行号、查找和替换以及比较功能。"
+          "0": "新增了 Notebook++，这是一款在线文本文件查看器，提供针对不同文件格式的语法高亮显示，具有行号、查找和替换以及比较功能。"
         },
         "quote": "你也许能战胜一千个敌人，但战胜自己，便再无敌人。"
       },

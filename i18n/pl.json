@@ -1598,9 +1598,9 @@
         "result": "Wynik"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Czytaj, edytuj i zapisuj pliki tekstowe w dowolnym formacie",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Plik",
       "newFile": "Nowy plik",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Porównaj aktywny z...",
       "explorer": "Eksplorator",
       "openEditors": "Otwarte edytory",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Naciśnij Ctrl+N, aby utworzyć nowy plik, lub Ctrl+O, aby otworzyć.",
       "ready": "Gotowe",
       "lineCol": "Ln {{line}}, Kol {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Znaki: {{count}}",
       "noFileOpened": "Brak otwartego pliku",
       "zoom": "Powiększenie: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Kreator diagramów przypadków użycia",
+      "description": "Zaprojektuj diagram przypadków użycia i wyeksportuj go za pomocą modelu JSON gotowego dla AI, dokumentu Markdown, SVG i PNG",
+      "import-json": "Importuj JSON",
+      "export": "Eksportuj",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Model AI JSON",
+      "export-as-markdown": "Dokumenty Markdown"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Kompleksowe narzędzia do dokumentów PDF",
+      "open": "Otwórz",
+      "save": "Zapisz",
+      "save-as": "Zapisz jako",
+      "print": "Drukuj",
+      "studio-utilities": "Narzędzia Studio",
+      "document-viewer": "Przeglądarka dokumentów",
+      "metadata-editor": "Edytor metadanych",
+      "merge-pdf": "Scal pliki PDF",
+      "split-pdf": "Podziel PDF",
+      "extract-images": "Wyodrębnij obrazy",
+      "compress": "Kompresuj (Optymalizuj)",
+      "browse-file": "Przeglądaj plik",
+      "browse-message": "Wybierz lub przeciągnij plik PDF, aby rozpocząć edycję"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Zaprojektowanie aplikacji narzędziowej (dev utils)"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Dodano kreator diagramów przypadków użycia gotowy dla AI z różnymi opcjami eksportu.",
+        "1": "Dodano PDF Studio z kompleksowymi narzędziami dla plików PDF"
+      },
+      "quote": "Jedna iskra daje niewiele ciepła. Tysiąc iskier staje się latarnią widoczną w całej galaktyce.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Dodano Notebook+1, internetową przeglądarkę plików tekstowych z podświetlaniem składni dla różnych formatów plików, numeracją linii, funkcją znajdź i zamień oraz możliwością porównywania."
+          "0": "Dodano Notebook++, internetową przeglądarkę plików tekstowych z podświetlaniem składni dla różnych formatów plików, numeracją linii, funkcją znajdź i zamień oraz możliwością porównywania."
         },
         "quote":"możesz pokonać tysiąc wrogów, ale pokonaj samego siebie, a żaden wróg nie pozostanie."
       },

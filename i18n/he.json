@@ -1598,9 +1598,9 @@
         "result": "תוצאה"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "קרא, ערוך ושמור קובצי טקסט בכל פורמט",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "קובץ",
       "newFile": "קובץ חדש",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "השווה פעיל עם...",
       "explorer": "סייר",
       "openEditors": "עורכים פתוחים",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "לחץ על Ctrl+N ליצירת קובץ חדש או על Ctrl+O לפתיחה.",
       "ready": "מוכן",
       "lineCol": "שורה {{line}}, עמודה {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "תווים: {{count}}",
       "noFileOpened": "לא נפתח קובץ",
       "zoom": "תצוגה: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "מעצב תרשים Use Case",
+      "description": "עצב תרשים Use Case וייצא עם מודל JSON מוכן ל-AI, מסמכי Markdown, ‏SVG ו-PNG",
+      "import-json": "ייבא JSON",
+      "export": "ייצא",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "מודל AI JSON",
+      "export-as-markdown": "מסמכי Markdown"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "כלי שירות הכל-באחד למסמכי PDF",
+      "open": "פתח",
+      "save": "שמור",
+      "save-as": "שמור בשם",
+      "print": "הדפס",
+      "studio-utilities": "כלי שירות של Studio",
+      "document-viewer": "מציג מסמכים",
+      "metadata-editor": "עורך מטא-דאטה",
+      "merge-pdf": "מזג קובצי PDF",
+      "split-pdf": "פצל PDF",
+      "extract-images": "חלץ תמונות",
+      "compress": "דחוס (בצע אופטימיזציה)",
+      "browse-file": "עיון בקובץ",
+      "browse-message": "בחר או גרור קובץ PDF כדי להתחיל בעריכה"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "עיצוב אפליקציה עם כלים למפתחים (dev utils)"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "נוסף מעצב תרשים Use Case מוכן ל-AI עם מגוון אפשרויות ייצוא.",
+        "1": "נוסף PDF Studio עם כלי שירות הכל-באחד לקובצי PDF."
+      },
+      "quote": "ניצוץ אחד מחמם מעט. אלף ניצוצות הופכים למגדלור שנראה ברחבי הגלקסיה.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "נוסף Notebook+1, מציג קובצי טקסט מקוון עם הדגשת תחביר עבור פורמטי קבצים שונים, הכולל מספרי שורות, פונקציונליות חיפוש והחלפה והשוואה."
+          "0": "נוסף Notebook++, מציג קובצי טקסט מקוון עם הדגשת תחביר עבור פורמטי קבצים שונים, הכולל מספרי שורות, פונקציונליות חיפוש והחלפה והשוואה."
         },
         "quote":"אתה יכול לכבוש אלף אויבים, אבל תכבוש את עצמך ושום אויב לא יישאר."
       },

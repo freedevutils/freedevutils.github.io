@@ -1598,9 +1598,9 @@
         "result": "نتیجه"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "خواندن، ویرایش و ذخیره فایل‌های متنی در هر فرمتی",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "فایل",
       "newFile": "فایل جدید",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "مقایسه فعال با...",
       "explorer": "جستجوگر",
       "openEditors": "ویرایشگرهای باز",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "برای ایجاد فایل جدید Ctrl+N یا برای باز کردن فایل Ctrl+O را فشار دهید.",
       "ready": "آماده",
       "lineCol": "خط {{line}}، ستون {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "نویسه‌ها: {{count}}",
       "noFileOpened": "هیچ فایلی باز نیست",
       "zoom": "بزرگنمایی: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "طراح نمودار مورد کاربرد (Use Case Diagram)",
+      "description": "طراحی نمودار مورد کاربرد و خروجی گرفتن با مدل JSON آماده هوش مصنوعی، مستندات Markdown، SVG و PNG",
+      "import-json": "وارد کردن JSON",
+      "export": "خروجی",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "مدل AI JSON",
+      "export-as-markdown": "مستندات Markdown"
+    },
+    "pdf-studio": {
+      "title": "استودیو PDF",
+      "description": "ابزارهای همه‌کاره برای اسناد PDF",
+      "open": "باز کردن",
+      "save": "ذخیره",
+      "save-as": "ذخیره به عنوان",
+      "print": "چاپ",
+      "studio-utilities": "ابزارهای استودیو",
+      "document-viewer": "نمایشگر سند",
+      "metadata-editor": "ویرایشگر فراداده (Metadata)",
+      "merge-pdf": "ادغام PDFها",
+      "split-pdf": "تقسیم PDF",
+      "extract-images": "استخراج تصاویر",
+      "compress": "فشرده‌سازی (بهینه‌سازی)",
+      "browse-file": "جستجوی فایل",
+      "browse-message": "یک فایل PDF را برای شروع ویرایش انتخاب کنید یا بکشید"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "طراحی برنامه با ابزارهای توسعه (dev utils)"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "طراح نمودار مورد کاربرد آماده هوش مصنوعی با گزینه‌های متنوع خروجی اضافه شد.",
+        "1": "استودیو PDF با ابزارهای همه‌کاره برای فایل‌های PDF اضافه شد."
+      },
+      "quote": "یک جرقه گرمای کمی می‌بخشد. هزاران جرقه به فانوسی تبدیل می‌شوند که در سراسر کهکشان دیده می‌شود.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "نمایشگر فایل‌های متنی آنلاین Notebook+1 با قابلیت برجسته‌سازی نحو برای فرمت‌های مختلف فایل همراه با شماره خطوط، قابلیت جستجو و جایگزینی و مقایسه اضافه شد."
+          "0": "نمایشگر فایل‌های متنی آنلاین Notebook++ با قابلیت برجسته‌سازی نحو برای فرمت‌های مختلف فایل همراه با شماره خطوط، قابلیت جستجو و جایگزینی و مقایسه اضافه شد."
         },
         "quote":"ممکن است هزار دشمن را شکست دهی، اما بر خود غلبه کن تا هیچ دشمنی باقی نماند."
       },

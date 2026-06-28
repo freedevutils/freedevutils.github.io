@@ -153,7 +153,7 @@
         "text-fill": "Text Color",
         "typography": "Typography",
         "base-settings": "Settings",
-        "colors" : "Select Colors"
+        "colors": "Select Colors"
       },
       "screenshot-annotator": {
         "title": "Screenshot Annotator",
@@ -292,9 +292,9 @@
         "export-as-png": "Export as PNG",
         "clear-all": "Clear All",
         "add-components": "Add Components",
-        "component-type":"Component Type",
-        "component-label":"Component Label",
-        "add-node":"Add Node",
+        "component-type": "Component Type",
+        "component-label": "Component Label",
+        "add-node": "Add Node",
         "relationship-label": "Relationship Label",
         "drag-drop-message": "Drag and drop nodes to organize your architecture",
         "cancel-linking": "Cancel Linking",
@@ -502,8 +502,8 @@
         "export-helper": "Exports use the current parsed data and active filters for the CSV export.",
         "load-sample-begin": "Load a sample or paste logs to begin analysis.",
         "correlated-request": "Correlated Request",
-        "patterns" : "Patterns",
-        "export" : "Export"
+        "patterns": "Patterns",
+        "export": "Export"
       },
       "code-playground": {
         "title": "Code Playground",
@@ -736,12 +736,12 @@
         "animation-settings": "Animation Settings",
         "download-gif": "Download GIF",
         "copy-url": "Copy URL",
-         "frame-delay" : "Frame Delay",
-        "quality" : "Quality",
-        "select-images":"Select Multiple Images",
-        "generate-gif":"Generate GIF",
+        "frame-delay": "Frame Delay",
+        "quality": "Quality",
+        "select-images": "Select Multiple Images",
+        "generate-gif": "Generate GIF",
         "delay": "Delay",
-        "drag-to-arrange":"Drag to Arrange"
+        "drag-to-arrange": "Drag to Arrange"
       },
       "docker-compose-visualizer": {
         "title": "Docker Compose Visualizer",
@@ -1031,7 +1031,7 @@
         "copy-all": "Copy All",
         "clear": "Clear",
         "generated-uuids": "Generated UUIDs ({{ count }})",
-        "version":"Version",
+        "version": "Version",
         "casing": "Casing"
       },
       "hash-generator": {
@@ -1302,7 +1302,7 @@
       },
       "regex-tester": {
         "title": "Regex Tester & Highlighter",
-        "description" : "Test Regular expression with built in highlighter",
+        "description": "Test Regular expression with built in highlighter",
         "toolbarTitle": "Regex Tester & Highlighter",
         "regexPatternTitle": "Regex Pattern",
         "regularExpressionLabel": "Regular Expression",
@@ -1366,7 +1366,7 @@
         "validation-error": "HTML is not valid. Please check your code and try again.",
         "format-label": "Format HTML",
         "format-success": "HTML formatted successfully!",
-        "upload" : "Upload",
+        "upload": "Upload",
         "download": "Download"
       },
       "unicode-inspector": {
@@ -1390,8 +1390,8 @@
         "total-characters": "Total Characters",
         "unique-characters": "Unique Characters",
         "text-length-bytes": "Text Length (bytes)",
-        "input":"Input",
-        "analyis" : "Analysis",
+        "input": "Input",
+        "analyis": "Analysis",
         "statistics": "Statistics"
       },
       "invisible-character-viewer": {
@@ -1461,7 +1461,7 @@
       },
       "yaml-to-json-converter": {
         "title": "YAML ↔ JSON Converter",
-       "description": "Convert YAML ↔ JSON formats and JSON ↔ YAML format",
+        "description": "Convert YAML ↔ JSON formats and JSON ↔ YAML format",
         "inputTitle": "Input",
         "inputPlaceholder": "Paste JSON or YAML here",
         "jsonToYaml": "JSON to YAML",
@@ -1540,7 +1540,7 @@
         "download": "Download Output",
         "css-to-scss": "CSS to SCSS",
         "scss-to-css": "SCSS to CSS",
-        "convert" : "Convert"
+        "convert": "Convert"
       },
       "pseudonymization-studio": {
         "title": "Data Pseudonymization Studio",
@@ -1576,7 +1576,7 @@
         "valuesReplaced": "Values Replaced",
         "initialRiskScore": "Initial Risk Score"
       },
-      "multiline-to-singleline":{
+      "multiline-to-singleline": {
         "title": "Multiline to Singleline Converter",
         "description": "Convert multiline content into single line by copying or uploading file",
         "inputText": "Input Text",
@@ -1597,10 +1597,10 @@
         "download": "Download",
         "result": "Result"
       },
-      "notebook-plus-one":{
-        "title": "Notebook +1",
+      "notebook-plus-one": {
+        "title": "Notebook ++",
         "description": "Read, Edit, Save text files in any format",
-        "brandTitle": "Notebook +1",
+        "brandTitle": "Notebook ++",
         "fileMenu": "File",
         "newFile": "New File",
         "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
         "compareActiveWith": "Compare Active With...",
         "explorer": "Explorer",
         "openEditors": "Open Editors",
-        "emptyStateTitle": "Notebook +1",
+        "emptyStateTitle": "Notebook ++",
         "emptyStateDesc": "Press Ctrl+N to create a new file or Ctrl+O to open.",
         "ready": "Ready",
         "lineCol": "Ln {{line}}, Col {{col}}",
@@ -1637,6 +1637,33 @@
         "chars": "Chars: {{count}}",
         "noFileOpened": "No File Opened",
         "zoom": "Zoom: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Use Case Diagram Designer",
+        "description": "Design Use Case Diagram and export with AI Ready Json model,Markdown Doc, SVG and PNG",
+        "import-json": "Import JSON",
+        "export": "Export",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON Model",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "All in One Utilities for PDF Document",
+        "open": "Open",
+        "save": "Save",
+        "save-as": "Save As",
+        "print": "Print",
+        "studio-utilities": "Studio Utilities",
+        "document-viewer": "Document Viewer",
+        "metadata-editor": "Metadata Editor",
+        "merge-pdf": "Merge PDFs",
+        "split-pdf": "Split PDF",
+        "extract-images": "Exact Images",
+        "compress": "Compress (Optimize)",
+        "browse-file": "Browse File",
+        "browse-message": "Select or drag a PDF to begin editing"
       }
     }
   },
@@ -1919,6 +1946,47 @@
         "version": "^2.1.0",
         "description": "A high-speed JavaScript port of zlib. Used for blazing fast GZIP and DEFLATE archive compression and extraction in the browser.",
         "license": "MIT / Zlib"
+      },
+      "Sass.js": {
+        "name": "Sass.js",
+        "version": "^0.11.1",
+        "description": "A pure JavaScript implementation of Sass. Used for in-browser SCSS to CSS compilation without a backend.",
+        "license": "MIT"
+      },
+      "html-to-image": {
+        "name": "html-to-image",
+        "version": "^1.11.13",
+        "description": "A JavaScript library for converting HTML nodes to image formats like PNG and JPEG. Used for exporting diagrams and visualizations as images."
+      },
+      "transloco": {
+        "name": "transloco",
+        "version": "^3.0.0",
+        "description": "A simple and powerful internationalization library for Angular applications.",
+        "license": "MIT"
+      },
+      "js-yaml": {
+        "name": "js-yaml",
+        "version": "^4.2.0",
+        "description": "A fast and robust YAML 1.2 parser and serializer for JavaScript.",
+        "license": "MIT"
+      },
+      "uuid": {
+        "name": "uuid",
+        "version": "^14.0.0",
+        "description": "For the creation of RFC4122 UUIDs",
+        "license": "MIT"
+      },
+      "pdf-lib": {
+        "name": "pdf-lib",
+        "version": "^1.17.1",
+        "description": "Create and modify PDF documents in any JavaScript environment completely offline.",
+        "license": "MIT"
+      },
+      "pdfjs-dist": {
+        "name": "pdfjs-dist",
+        "version": "^6.1.200",
+        "description": "Mozilla's PDF Reader in JavaScript. Used for rendering PDF pages and generating thumbnails on the canvas.",
+        "license": "Apache-2.0"
       }
     },
     "aiTools": {
@@ -1969,9 +2037,16 @@
       "design": "Design application with dev utils"
     },
     "versions": {
+      "v2_1_0": {
+        "changes": {
+          "0": "Added AI Ready Use Case Diagram Designer with variety of export options.",
+          "1": "Added PDF studio with All in one Utilities for PDF files"
+        },
+        "quote": "One spark warms little. A thousand sparks become a beacon seen across the galaxy.."
+      },
       "v2_0_1": {
         "changes": {
-          "0": "Added Notebook+1 an online text files viewer with syntax highlighter for different file format with line numbers, find and replace and compare functionality."
+          "0": "Added Notebook++ an online text files viewer with syntax highlighter for different file format with line numbers, find and replace and compare functionality."
         },
         "quote": "conquer a thousand enemies, you may, conquer yourself and no enemy remains."
       },

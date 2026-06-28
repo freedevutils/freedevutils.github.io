@@ -1598,9 +1598,9 @@
         "result": "Eredmény"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Szövegfájlok olvasása, szerkesztése és mentése bármilyen formátumban",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Fájl",
       "newFile": "Új fájl",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Aktív összehasonlítása ezzel...",
       "explorer": "Intéző",
       "openEditors": "Megnyitott szerkesztők",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Új fájl létrehozásához nyomja meg a Ctrl+N, megnyitáshoz a Ctrl+O billentyűkombinációt.",
       "ready": "Kész",
       "lineCol": "Sor {{line}}, Oszlop {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Karakterek: {{count}}",
       "noFileOpened": "Nincs megnyitva fájl",
       "zoom": "Nagyítás: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Use Case Diagram Tervező",
+      "description": "Tervezzen Use Case diagramot, és exportálja AI-kompatibilis JSON modellként, Markdown dokumentumként, SVG-ként és PNG-ként",
+      "import-json": "JSON importálása",
+      "export": "Exportálás",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "AI JSON modell",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Minden-az-egyben segédprogramok PDF dokumentumokhoz",
+      "open": "Megnyitás",
+      "save": "Mentés",
+      "save-as": "Mentés másként",
+      "print": "Nyomtatás",
+      "studio-utilities": "Studio segédprogramok",
+      "document-viewer": "Dokumentumnézegető",
+      "metadata-editor": "Metaadat-szerkesztő",
+      "merge-pdf": "PDF-ek egyesítése",
+      "split-pdf": "PDF felosztása",
+      "extract-images": "Képek kinyerése",
+      "compress": "Tömörítés (Optimalizálás)",
+      "browse-file": "Fájl tallózása",
+      "browse-message": "Válasszon ki vagy húzzon ide egy PDF-et a szerkesztés megkezdéséhez"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Alkalmazás dizájnja a fejlesztői eszközökkel"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Hozzáadva az AI-kompatibilis Use Case Diagram Tervező különféle exportálási lehetőségekkel.",
+        "1": "Hozzáadva a PDF Studio minden-az-egyben segédprogramokkal PDF fájlokhoz."
+      },
+      "quote": "Egy szikra keveset melegít. Ezer szikra olyan jelzőtűzzé válik, amely az egész galaxisban látható.."
+      },
        "v2_0_1": {
         "changes": {
-          "0": "Hozzáadva a Notebook+1, egy online szövegfájl-megjelenítő, amely szintaxiskiemelést biztosít különböző fájlformátumokhoz sorszámokkal, keresés és csere, valamint összehasonlítási funkcióval."
+          "0": "Hozzáadva a Notebook++, egy online szövegfájl-megjelenítő, amely szintaxiskiemelést biztosít különböző fájlformátumokhoz sorszámokkal, keresés és csere, valamint összehasonlítási funkcióval."
         },
         "quote":"legyőzhetsz ezer ellenséget, de győzd le önmagad, és nem marad ellenség."
       },

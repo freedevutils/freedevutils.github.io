@@ -1598,9 +1598,9 @@
         "result": "Hasil"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Baca, Edit, Simpan file teks dalam format apa pun",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Berkas",
       "newFile": "Berkas Baru",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Bandingkan yang Aktif dengan...",
       "explorer": "Penjelajah",
       "openEditors": "Editor Terbuka",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Tekan Ctrl+N untuk membuat berkas baru atau Ctrl+O untuk membuka.",
       "ready": "Siap",
       "lineCol": "Brs {{line}}, Kol {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Karakter: {{count}}",
       "noFileOpened": "Tidak Ada Berkas yang Terbuka",
       "zoom": "Perbesaran: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Desainer Use Case Diagram",
+      "description": "Desain Use Case Diagram dan ekspor dengan model JSON AI Ready, Dokumen Markdown, SVG, dan PNG",
+      "import-json": "Impor JSON",
+      "export": "Ekspor",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Model AI JSON",
+      "export-as-markdown": "Markdown Docs"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Utilitas Semua dalam Satu untuk Dokumen PDF",
+      "open": "Buka",
+      "save": "Simpan",
+      "save-as": "Simpan Sebagai",
+      "print": "Cetak",
+      "studio-utilities": "Utilitas Studio",
+      "document-viewer": "Penampil Dokumen",
+      "metadata-editor": "Editor Metadata",
+      "merge-pdf": "Gabungkan PDF",
+      "split-pdf": "Pisahkan PDF",
+      "extract-images": "Ekstrak Gambar",
+      "compress": "Kompres (Optimalkan)",
+      "browse-file": "Telusuri File",
+      "browse-message": "Pilih atau seret PDF untuk mulai mengedit"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Mendesain aplikasi dengan utilitas pengembang"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "Ditambahkan Desainer Use Case Diagram AI Ready dengan berbagai pilihan ekspor.",
+        "1": "Ditambahkan PDF Studio dengan utilitas semua dalam satu untuk file PDF"
+      },
+      "quote": "Satu percikan memberi sedikit kehangatan. Seribu percikan menjadi suar yang terlihat di seluruh galaksi.."
+    },
        "v2_0_1": {
         "changes": {
-          "0": "Menambahkan Notebook+1, penampil file teks online dengan sorotan sintaks untuk berbagai format file, dilengkapi nomor baris, fitur cari dan ganti, serta fungsionalitas perbandingan."
+          "0": "Menambahkan Notebook++, penampil file teks online dengan sorotan sintaks untuk berbagai format file, dilengkapi nomor baris, fitur cari dan ganti, serta fungsionalitas perbandingan."
         },
         "quote":"Anda mungkin bisa menaklukkan seribu musuh, tetapi taklukkan diri Anda sendiri dan tidak akan ada musuh yang tersisa."
       },

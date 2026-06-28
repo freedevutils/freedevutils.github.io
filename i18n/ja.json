@@ -1598,9 +1598,9 @@
         "result": "結果"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "あらゆる形式のテキストファイルを読み込み、編集、保存します",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "ファイル",
       "newFile": "新しいファイル",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "アクティブなファイルと比較...",
       "explorer": "エクスプローラー",
       "openEditors": "開いているエディター",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Ctrl+N を押して新しいファイルを作成するか、Ctrl+O を押して開きます。",
       "ready": "準備完了",
       "lineCol": "行 {{line}}、列 {{col}}",
@@ -1637,7 +1637,34 @@
       "chars": "文字数: {{count}}",
       "noFileOpened": "ファイルが開かれていません",
       "zoom": "ズーム: {{level}}%"
-    }
+    },
+    "use-case-diagram": {
+      "title": "ユースケース図デザイナー",
+      "description": "ユースケース図をデザインし、AI対応JSONモデル、Markdownドキュメント、SVG、PNGでエクスポートします",
+      "import-json": "JSONをインポート",
+      "export": "エクスポート",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "AI JSONモデル",
+      "export-as-markdown": "Markdownドキュメント"
+    },
+    "pdf-studio": {
+      "title": "PDFスタジオ",
+      "description": "PDFドキュメント用のオールインワンユーティリティ",
+      "open": "開く",
+      "save": "保存",
+      "save-as": "名前を付けて保存",
+      "print": "印刷",
+      "studio-utilities": "スタジオユーティリティ",
+      "document-viewer": "ドキュメントビューア",
+      "metadata-editor": "メタデータエディタ",
+      "merge-pdf": "PDFを結合",
+      "split-pdf": "PDFを分割",
+      "extract-images": "画像を抽出",
+      "compress": "圧縮 (最適化)",
+      "browse-file": "ファイルを参照",
+      "browse-message": "編集を開始するにはPDFを選択またはドラッグしてください"
+     }
     }
   },
   "contribute": {
@@ -1969,9 +1996,16 @@
       "design": "開発ユーティリティを含むアプリケーションの設計"
     },
     "versions": {
+      "v2_1_0": {
+      "changes": {
+        "0": "様々なエクスポートオプションを備えたAI対応ユースケース図デザイナーを追加しました。",
+        "1": "PDFファイル用のオールインワンユーティリティを備えたPDFスタジオを追加しました。"
+      },
+      "quote": "一つの火花が暖めるのはわずかだ。千の火花は銀河中に見えるビーコンとなる。"
+      },
       "v2_0_1": {
         "changes": {
-          "0": "Notebook+1 が追加されました。これは、さまざまなファイル形式の構文ハイライト機能、行番号、検索と置換、および比較機能を備えたオンラインテキストファイルビューアです。"
+          "0": "Notebook++ が追加されました。これは、さまざまなファイル形式の構文ハイライト機能、行番号、検索と置換、および比較機能を備えたオンラインテキストファイルビューアです。"
         },
         "quote":"千人の敵を征服するかもしれないが、自分自身を征服すれば敵は誰もいなくなる。"
       },

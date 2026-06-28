@@ -1598,9 +1598,9 @@
         "result": "ผลลัพธ์"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "อ่าน แก้ไข และบันทึกไฟล์ข้อความในทุกรูปแบบ",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "ไฟล์",
       "newFile": "ไฟล์ใหม่",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "เปรียบเทียบไฟล์ที่เปิดอยู่กับ...",
       "explorer": "Explorer",
       "openEditors": "โปรแกรมแก้ไขที่เปิดอยู่",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "กด Ctrl+N เพื่อสร้างไฟล์ใหม่ หรือ Ctrl+O เพื่อเปิดไฟล์",
       "ready": "พร้อม",
       "lineCol": "บรรทัด {{line}}, คอลัมน์ {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "อักขระ: {{count}}",
       "noFileOpened": "ไม่ได้เปิดไฟล์",
       "zoom": "ย่อ/ขยาย: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "เครื่องมือออกแบบ Use Case Diagram",
+      "description": "ออกแบบ Use Case Diagram และส่งออกด้วยโมเดล JSON ที่พร้อมใช้สำหรับ AI, เอกสาร Markdown, SVG และ PNG",
+      "import-json": "นำเข้า JSON",
+      "export": "ส่งออก",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "โมเดล AI JSON",
+      "export-as-markdown": "เอกสาร Markdown"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "เครื่องมืออรรถประโยชน์ครบวงจรสำหรับเอกสาร PDF",
+      "open": "เปิด",
+      "save": "บันทึก",
+      "save-as": "บันทึกเป็น",
+      "print": "พิมพ์",
+      "studio-utilities": "เครื่องมือ Studio",
+      "document-viewer": "โปรแกรมดูเอกสาร",
+      "metadata-editor": "ตัวแก้ไขข้อมูลเมตา",
+      "merge-pdf": "รวม PDF",
+      "split-pdf": "แยก PDF",
+      "extract-images": "ดึงรูปภาพ",
+      "compress": "บีบอัด (เพิ่มประสิทธิภาพ)",
+      "browse-file": "เรียกดูไฟล์",
+      "browse-message": "เลือกหรือลาก PDF เพื่อเริ่มการแก้ไข"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "ออกแบบแอปพลิเคชันใหม่สำหรับ dev utils"
     },
     "versions": {
-       "v2_0_1": {
+        "v2_1_0": {
         "changes": {
-          "0": "เพิ่ม Notebook+1 โปรแกรมดูไฟล์ข้อความออนไลน์ที่มีการเน้นไวยากรณ์สำหรับรูปแบบไฟล์ที่แตกต่างกัน พร้อมด้วยหมายเลขบรรทัด ฟังก์ชันค้นหาและแทนที่ และฟังก์ชันการเปรียบเทียบ"
+          "0": "เพิ่มเครื่องมือออกแบบ Use Case Diagram ที่พร้อมใช้สำหรับ AI พร้อมตัวเลือกการส่งออกที่หลากหลาย",
+          "1": "เพิ่ม PDF Studio พร้อมเครื่องมืออรรถประโยชน์ครบวงจรสำหรับไฟล์ PDF"
+        },
+        "quote": "ประกายไฟดวงเดียวให้ความอบอุ่นเพียงเล็กน้อย ประกายไฟนับพันดวงจะกลายเป็นสัญญาณไฟที่มองเห็นได้ทั่วทั้งกาแล็กซี.."
+      },
+        "v2_0_1": {
+        "changes": {
+          "0": "เพิ่ม Notebook++ โปรแกรมดูไฟล์ข้อความออนไลน์ที่มีการเน้นไวยากรณ์สำหรับรูปแบบไฟล์ที่แตกต่างกัน พร้อมด้วยหมายเลขบรรทัด ฟังก์ชันค้นหาและแทนที่ และฟังก์ชันการเปรียบเทียบ"
         },
         "quote":"คุณอาจพิชิตศัตรูได้นับพัน แต่จงพิชิตใจตนเอง แล้วจะไม่มีศัตรูใดเหลืออยู่"
       },

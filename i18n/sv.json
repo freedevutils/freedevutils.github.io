@@ -1598,46 +1598,73 @@
         "result": "Resultat"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
-      "description": "Läs, redigera och spara textfiler i valfritt format",
-      "brandTitle": "Notebook +1",
-      "fileMenu": "Arkiv",
-      "newFile": "Ny fil",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Öppna fil",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Spara",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Spara alla...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Avsluta",
-      "editMenu": "Redigera",
-      "undo": "Ångra",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Gör om",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Klipp ut",
-      "copy": "Kopiera",
-      "paste": "Klistra in",
-      "searchMenu": "Sök",
-      "find": "Sök",
-      "findShortcut": "Ctrl+F",
-      "replace": "Ersätt",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Verktyg",
-      "formatDocument": "Formatera dokument",
-      "compareActiveWith": "Jämför aktiv med...",
-      "explorer": "Utforskaren",
-      "openEditors": "Öppna redigerare",
-      "emptyStateTitle": "Notebook +1",
-      "emptyStateDesc": "Tryck på Ctrl+N för att skapa en ny fil eller Ctrl+O för att öppna.",
-      "ready": "Klar",
-      "lineCol": "Rad {{line}}, Kol {{col}}",
-      "lines": "Rader: {{count}}",
-      "chars": "Tecken: {{count}}",
-      "noFileOpened": "Ingen fil öppnad",
-      "zoom": "Zoom: {{level}}%"
-    }
+        "title": "Notebook ++",
+        "description": "Läs, redigera och spara textfiler i valfritt format",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Arkiv",
+        "newFile": "Ny fil",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Öppna fil",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Spara",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Spara alla...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Avsluta",
+        "editMenu": "Redigera",
+        "undo": "Ångra",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Gör om",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Klipp ut",
+        "copy": "Kopiera",
+        "paste": "Klistra in",
+        "searchMenu": "Sök",
+        "find": "Sök",
+        "findShortcut": "Ctrl+F",
+        "replace": "Ersätt",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Verktyg",
+        "formatDocument": "Formatera dokument",
+        "compareActiveWith": "Jämför aktiv med...",
+        "explorer": "Utforskaren",
+        "openEditors": "Öppna redigerare",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Tryck på Ctrl+N för att skapa en ny fil eller Ctrl+O för att öppna.",
+        "ready": "Klar",
+        "lineCol": "Rad {{line}}, Kol {{col}}",
+        "lines": "Rader: {{count}}",
+        "chars": "Tecken: {{count}}",
+        "noFileOpened": "Ingen fil öppnad",
+        "zoom": "Zoom: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Use Case Diagram Designer",
+        "description": "Designa Use Case-diagram och exportera med AI-redo JSON-modell, Markdown-dokument, SVG och PNG",
+        "import-json": "Importera JSON",
+        "export": "Exportera",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON-modell",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Allt-i-ett-verktyg för PDF-dokument",
+        "open": "Öppna",
+        "save": "Spara",
+        "save-as": "Spara som",
+        "print": "Skriv ut",
+        "studio-utilities": "Studioverktyg",
+        "document-viewer": "Dokumentvisare",
+        "metadata-editor": "Metadataredigerare",
+        "merge-pdf": "Slå ihop PDF:er",
+        "split-pdf": "Dela PDF",
+        "extract-images": "Extrahera bilder",
+        "compress": "Komprimera (Optimera)",
+        "browse-file": "Bläddra efter fil",
+        "browse-message": "Välj eller dra en PDF för att börja redigera"
+      }
     }
   },
   "contribute": {
@@ -1969,11 +1996,18 @@
       "design": "Designa applikation med dev utils"
     },
     "versions": {
-       "v2_0_1": {
+      "v2_1_0": {
         "changes": {
-          "0": "Lade till Notebook+1, en online-textfilsvisare med syntaxmarkering för olika filformat med radnummer, sök och ersätt och jämförelsefunktioner."
+          "0": "Lade till AI-redo Use Case Diagram Designer med olika exportalternativ.",
+          "1": "Lade till PDF Studio med Allt-i-ett-verktyg för PDF-filer."
         },
-        "quote":"du kan erövra tusen fiender, men erövra dig själv och ingen fiende finns kvar."
+        "quote": "En gnista värmer lite. Tuse gnistor blir en fyr som syns över hela galaxen.."
+      },
+      "v2_0_1": {
+        "changes": {
+          "0": "Lade till Notebook++, en online-textfilsvisare med syntaxmarkering för olika filformat med radnummer, sök och ersätt och jämförelsefunktioner."
+        },
+        "quote": "du kan erövra tusen fiender, men erövra dig själv och ingen fiende finns kvar."
       },
       "v2_0_0": {
         "changes": {

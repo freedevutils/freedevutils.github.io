@@ -1598,9 +1598,9 @@
         "result": "Encam"
       },
       "notebook-plus-one": {
-      "title": "Notebook +1",
+      "title": "Notebook ++",
       "description": "Pelên nivîsê bi her formatekê bixwînin, biguherînin û hilînin",
-      "brandTitle": "Notebook +1",
+      "brandTitle": "Notebook ++",
       "fileMenu": "Pel",
       "newFile": "Pela Nû",
       "newFileShortcut": "Ctrl+N",
@@ -1629,7 +1629,7 @@
       "compareActiveWith": "Yê Çalak Bide Ber...",
       "explorer": "Gerok",
       "openEditors": "Edîtorên Vekirî",
-      "emptyStateTitle": "Notebook +1",
+      "emptyStateTitle": "Notebook ++",
       "emptyStateDesc": "Ji bo afirandina pelek nû Ctrl+N an ji bo vekirinê Ctrl+O bikirtînin.",
       "ready": "Amade",
       "lineCol": "Rêz {{line}}, Stûn {{col}}",
@@ -1637,6 +1637,33 @@
       "chars": "Karakter: {{count}}",
       "noFileOpened": "Tu Pel Venedibûye",
       "zoom": "Zoom: {{level}}%"
+    },
+    "use-case-diagram": {
+      "title": "Sêwiranerê Diyagrama Use Case",
+      "description": "Diyagrama Use Case sêwirînin û bi modela JSON a Amade bo AI, Belgeya Markdown, SVG û PNG derxînin",
+      "import-json": "JSON Têxe",
+      "export": "Derxîne",
+      "export-as-svg": "SVG",
+      "export-as-png": "PNG",
+      "export-as-json": "Modela AI JSON",
+      "export-as-markdown": "Belgeyên Markdown"
+    },
+    "pdf-studio": {
+      "title": "PDF Studio",
+      "description": "Karûbarên Hemî-di-Yek de ji bo Belgeya PDF",
+      "open": "Veke",
+      "save": "Zêde bike",
+      "save-as": "Wekî Zêde Bike",
+      "print": "Çap bike",
+      "studio-utilities": "Karûbarên Studio",
+      "document-viewer": "Nîşanderê Belgeyan",
+      "metadata-editor": "Edîtorê Metadaneyan",
+      "merge-pdf": "PDFan Bikin Yek",
+      "split-pdf": "PDFê Dabeş Bikin",
+      "extract-images": "Wêneyan Derxînin",
+      "compress": "Pêçan (Optimîze kirin)",
+      "browse-file": "Lêgerîna Pelê",
+      "browse-message": "Ji bo destpêkirina sererastkirinê PDFekê hilbijêrin an jî bikişînin"
     }
     }
   },
@@ -1969,9 +1996,16 @@
       "design": "Sepanê bi amûrên pêşvebirinê dîzayn bike"
     },
     "versions": {
+      "v2_1_0": {   
+      "changes": {
+        "0": "Sêwiranerê Diyagrama Use Case a Amade bo AI bi vebijarkên derxistinê yên cihêreng hate zêdekirin.",
+        "1": "PDF Studio bi Karûbarên Hemî-di-Yek de ji bo pelên PDF hate zêdekirin."
+      },
+      "quote": "Çirûskek hindik germ dike. Hezar çirûsk dibin ronahiyek ku li seranserê galaksiyê tê dîtin.."
+       },
        "v2_0_1": {
         "changes": {
-          "0": "Notebook+1 hate zêdekirin, dîtvanekî pelên nivîsê yê serhêl bi ronîkera hevoksaziyê ji bo formatên cuda yên pelan bi hejmarên rêzan, û taybetmendiya lêgerîn û guhertin û berawirdkirinê."
+          "0": "Notebook++ hate zêdekirin, dîtvanekî pelên nivîsê yê serhêl bi ronîkera hevoksaziyê ji bo formatên cuda yên pelan bi hejmarên rêzan, û taybetmendiya lêgerîn û guhertin û berawirdkirinê."
         },
         "quote":"tu dikarî hezar dijminan têk bibî, lê xwe têk bibe û tu dijmin namîne."
       },

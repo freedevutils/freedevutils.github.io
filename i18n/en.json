@@ -1987,7 +1987,43 @@
         "version": "^6.1.200",
         "description": "Mozilla's PDF Reader in JavaScript. Used for rendering PDF pages and generating thumbnails on the canvas.",
         "license": "Apache-2.0"
-      }
+      },
+      "tesseract.js": {
+    "name": "tesseract.js",
+    "version": "^7.0.0",
+    "description": "Pure Javascript port of the Tesseract OCR engine. Provides the API to run offline optical character recognition entirely in the browser.",
+    "license": "Apache-2.0"
+  },
+  "tesseract.js-core": {
+    "name": "tesseract.js-core",
+    "version": "^7.0.0",
+    "description": "The core WebAssembly (WASM) binaries for Tesseract.js containing the compiled neural network math required to decode text from pixels.",
+    "license": "Apache-2.0"
+  },
+  "@techstark/opencv-js": {
+    "name": "@techstark/opencv-js",
+    "version": "^5.0.0-release.1",
+    "description": "OpenCV JavaScript bindings for advanced image manipulation. Powers the image enhancement tools (brightness, deskew, threshold) prior to OCR scanning.",
+    "license": "Apache-2.0"
+  },
+  "@zxing/browser": {
+    "name": "@zxing/browser",
+    "version": "^0.2.0",
+    "description": "Browser layer for the ZXing (Zebra Crossing) engine. Interacts directly with the canvas to detect QR codes and barcodes.",
+    "license": "MIT"
+  },
+  "@zxing/library": {
+    "name": "@zxing/library",
+    "version": "^0.21.3",
+    "description": "The core ZXing library containing the underlying algorithms to decode and extract data strings from 2D matrices and barcodes.",
+    "license": "MIT"
+  },
+  "@types/node": {
+    "name": "@types/node",
+    "version": "^26.0.1",
+    "description": "TypeScript definitions for Node.js. Prevents strict compiler errors by defining environment variables expected by offline build tools and fallback workers.",
+    "license": "MIT"
+  }
     },
     "aiTools": {
       "title": "AI Tools & Assistants",

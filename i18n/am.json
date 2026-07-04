@@ -153,7 +153,7 @@
         "text-fill": "የጽሑፍ ቀለም",
         "typography": "ታይፖግራፊ",
         "base-settings": "ቅንብሮች",
-        "colors" : "ቀለሞችን ይምረጡ"
+        "colors": "ቀለሞችን ይምረጡ"
       },
       "screenshot-annotator": {
         "title": "ቅጽበታዊ ገጽ እይታ ማብራሪያ",
@@ -502,8 +502,8 @@
         "export-helper": "ወደ ውጭ የሚላኩ ፋይሎች የአሁኑን የተተነተነ ውሂብ እና ለ CSV ወደ ውጭ መላክ ንቁ ማጣሪያዎችን ይጠቀማሉ።",
         "load-sample-begin": "ትንተና ለመጀመር ናሙና ይጫኑ ወይም logs ይለጥፉ።",
         "correlated-request": "ተዛማጅ ጥያቄ",
-        "patterns" : "ቅጦች",
-        "export" : "ላክ"
+        "patterns": "ቅጦች",
+        "export": "ላክ"
       },
       "code-playground": {
         "title": "የኮድ መጫወቻ ሜዳ",
@@ -736,12 +736,12 @@
         "animation-settings": "የአኒሜሽን ቅንብሮች",
         "download-gif": "GIF አውርድ",
         "copy-url": "URL ቅዳ",
-         "frame-delay" : "የ Frame መዘግየት",
-        "quality" : "ጥራት",
-        "select-images":"በርካታ ምስሎችን ይምረጡ",
-        "generate-gif":"GIF አመንጭ",
+        "frame-delay": "የ Frame መዘግየት",
+        "quality": "ጥራት",
+        "select-images": "በርካታ ምስሎችን ይምረጡ",
+        "generate-gif": "GIF አመንጭ",
         "delay": "መዘግየት",
-        "drag-to-arrange":"ለማዘጋጀት ይጎትቱ"
+        "drag-to-arrange": "ለማዘጋጀት ይጎትቱ"
       },
       "docker-compose-visualizer": {
         "title": "Docker Compose እይታ",
@@ -1031,7 +1031,7 @@
         "copy-all": "ሁሉንም ቅዳ",
         "clear": "አጽዳ",
         "generated-uuids": "የተፈጠሩ UUID ዎች ({{ count }})",
-        "version":"ስሪት (Version)",
+        "version": "ስሪት (Version)",
         "casing": "የፊደል አይነት (Casing)"
       },
       "hash-generator": {
@@ -1576,7 +1576,7 @@
         "valuesReplaced": "የተተኩ እሴቶች",
         "initialRiskScore": "የመጀመሪያ የአደጋ (Risk) ውጤት"
       },
-      "multiline-to-singleline":{
+      "multiline-to-singleline": {
         "title": "ከባለብዙ መስመር ወደ አንድ መስመር ቀያሪ",
         "description": "በመቅዳት ወይም ፋይል በመስቀል ባለብዙ መስመር ይዘትን ወደ አንድ መስመር ይለውጡ",
         "inputText": "የግብዓት ጽሑፍ",
@@ -1598,488 +1598,526 @@
         "result": "ውጤት"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "የጽሑፍ ፋይሎችን በማንኛውም ቅርጸት ያንብቡ፣ ያርትዑ እና ያስቀምጡ",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "ፋይል",
-      "newFile": "አዲስ ፋይል",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "ፋይል ክፈት",
-      "openFileShortcut": "Ctrl+O",
-      "save": "አስቀምጥ",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "ሁሉንም አስቀምጥ...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "ውጣ",
-      "editMenu": "አርትዕ",
-      "undo": "ቀልብስ",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "ድገም",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "ቁረጥ",
-      "copy": "ቅዳ",
-      "paste": "ለጥፍ",
-      "searchMenu": "ፈልግ",
-      "find": "ፈልግ",
-      "findShortcut": "Ctrl+F",
-      "replace": "ተካ",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "መሳሪያዎች",
-      "formatDocument": "ሰነድ ቅረጽ",
-      "compareActiveWith": "ገባሪውን ከዚህ ጋር አወዳድር...",
-      "explorer": "አሳሽ",
-      "openEditors": "ክፍት አርታዒያን",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "አዲስ ፋይል ለመፍጠር Ctrl+Nን ይጫኑ ወይም ለመክፈት Ctrl+Oን ይጫኑ።",
-      "ready": "ዝግጁ",
-      "lineCol": "Ln {{line}}, Col {{col}}",
-      "lines": "መስመሮች: {{count}}",
-      "chars": "ቁምፊዎች: {{count}}",
-      "noFileOpened": "ምንም ፋይል አልተከፈተም",
-      "zoom": "አጉላ: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Use Case Diagram ንድፍ አውጪ",
-      "description": "የ Use Case Diagramን ይንደፉ እና ከ AI ዝግጁ JSON ሞዴል፣ Markdown Doc፣ SVG እና PNG ጋር ወደ ውጪ ይላኩ",
-      "import-json": "JSON አስገባ",
-      "export": "ወደ ውጪ ላክ",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "AI JSON ሞዴል",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF ስቱዲዮ",
-      "description": "ሁሉንም ያካተቱ የ PDF ሰነድ መገልገያዎች",
-      "open": "ክፈት",
-      "save": "አስቀምጥ",
-      "save-as": "በሌላ ስም አስቀምጥ",
-      "print": "አትም",
-      "studio-utilities": "የስቱዲዮ መገልገያዎች",
-      "document-viewer": "ሰነድ አሳይ",
-      "metadata-editor": "ሜታዳታ አርታኢ",
-      "merge-pdf": "PDFዎችን አዋህድ",
-      "split-pdf": "PDF ክፈል",
-      "extract-images": "ምስሎችን አውጣ",
-      "compress": "መጠን ቀንስ (አመቻች)",
-      "browse-file": "ፋይል አስስ",
-      "browse-message": "ለማረም PDF ይምረጡ ወይም ይጎትቱ"
-    }
-    }
-  },
-  "contribute": {
-    "header": "ለ FreeDevUtils አስተዋጽኦ ያድርጉ",
-    "howToContribute": {
-      "title": "እንዴት አስተዋጽኦ ማድረግ እንደሚቻል",
-      "description1": "FreeDevUtils ገና በማህበረሰብ የሚመራ ፕሮጀክት አይደለም፣ ነገር ግን ፕሮጀክቱን ለማሻሻል ችግሮችን እና ሳንካዎችን (bugs) ለማጉላት ከተጠቃሚዎች እና ገንቢዎች ለሚደረጉ አስተዋጽኦዎች በጣም አደንቃለሁ። ለመለገስ፣ ችግሮችን ሪፖርት ለማድረግ፣ ማሻሻያዎችን ለመጠቆም፣ ወይም አዳዲስ መሳሪያዎችን ለማቅረብ ከፈለጉ፣ ይህን ፕሮጀክት ለማሳደግ የሚረዱ ብዙ መንገዶች አሉ!",
-      "description2": "ትልቅም ይሁን ትንሽ የእርስዎ አስተዋፅዖዎች FreeDevUtils ን ለሁሉም ሰው የተሻለ በማድረግ ላይ እውነተኛ ለውጥ ያመጣሉ። የማህበረሰባችን አካል ስለሆኑ እናመሰግናለን!",
-      "quote": "ኃይሉ ከእርስዎ ጋር ይሁን። (May the Force be with you.)"
-    },
-    "donations": {
-      "title": "FreeDevUtils ን ይደግፉ - ልገሳዎች",
-      "description": "FreeDevUtils ጠቃሚ ሆኖ ካገኙት እና እድገቱን መደገፍ ከፈለጉ ልገሳ ማድረግን ያስቡበት። የእርስዎ ድጋፍ መድረኩን (platform) እንድንጠብቅ እና እንድናሻሽል ይረዳናል።",
-      "donateNow": "አሁን ይለግሱ",
-      "upi": {
-        "title": "የ UPI ክፍያ",
-        "description": "በ UPI በኩል ፈጣን እና ቀላል ልገሳዎች",
-        "details": "በህንድ ውስጥ ይገኛል። የእርስዎን የ UPI መተግበሪያ ተጠቅመው ስካን ያድርጉ እና ይለግሱ።"
+        "title": "Notebook ++",
+        "description": "የጽሑፍ ፋይሎችን በማንኛውም ቅርጸት ያንብቡ፣ ያርትዑ እና ያስቀምጡ",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "ፋይል",
+        "newFile": "አዲስ ፋይል",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "ፋይል ክፈት",
+        "openFileShortcut": "Ctrl+O",
+        "save": "አስቀምጥ",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "ሁሉንም አስቀምጥ...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "ውጣ",
+        "editMenu": "አርትዕ",
+        "undo": "ቀልብስ",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "ድገም",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "ቁረጥ",
+        "copy": "ቅዳ",
+        "paste": "ለጥፍ",
+        "searchMenu": "ፈልግ",
+        "find": "ፈልግ",
+        "findShortcut": "Ctrl+F",
+        "replace": "ተካ",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "መሳሪያዎች",
+        "formatDocument": "ሰነድ ቅረጽ",
+        "compareActiveWith": "ገባሪውን ከዚህ ጋር አወዳድር...",
+        "explorer": "አሳሽ",
+        "openEditors": "ክፍት አርታዒያን",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "አዲስ ፋይል ለመፍጠር Ctrl+Nን ይጫኑ ወይም ለመክፈት Ctrl+Oን ይጫኑ።",
+        "ready": "ዝግጁ",
+        "lineCol": "Ln {{line}}, Col {{col}}",
+        "lines": "መስመሮች: {{count}}",
+        "chars": "ቁምፊዎች: {{count}}",
+        "noFileOpened": "ምንም ፋይል አልተከፈተም",
+        "zoom": "አጉላ: {{level}}%"
       },
-      "paypal": {
-        "title": "PayPal",
-        "description": "ለአለም አቀፍ አስተዋፅዖ አበርካቾች በ PayPal በኩል ድጋፍ",
-        "details": "በዓለም ዙሪያ በ PayPal በኩል ደህንነታቸው የተጠበቁ ክፍያዎች ተቀባይነት አላቸው።"
+      "use-case-diagram": {
+        "title": "Use Case Diagram ንድፍ አውጪ",
+        "description": "የ Use Case Diagramን ይንደፉ እና ከ AI ዝግጁ JSON ሞዴል፣ Markdown Doc፣ SVG እና PNG ጋር ወደ ውጪ ይላኩ",
+        "import-json": "JSON አስገባ",
+        "export": "ወደ ውጪ ላክ",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON ሞዴል",
+        "export-as-markdown": "Markdown Docs"
       },
-      "crypto": {
-        "title": "የ Crypto ቦርሳ (Wallet)",
-        "description": "ክሪፕቶክሪንሲን (cryptocurrency) በመጠቀም ይለግሱ",
-        "details": "የሚመርጡትን ክሪፕቶ ምንዛሬ ይምረጡ እና ለመቀጠል የ QR ኮድን ይቃኙ። BitCoin, LiteCoin, BNB, USDT, USDC, ETH, Solana በአሁኑ ጊዜ በ QR ምስል ይደገፋሉ።",
-        "options": {
-          "usdt": "USDT",
-          "btc": "Bitcoin",
-          "ltc": "Litecoin",
-          "usdc": "USDC",
-          "eth": "Ether",
-          "bnb": "BNB",
-          "sol": "Solana"
+      "pdf-studio": {
+        "title": "PDF ስቱዲዮ",
+        "description": "ሁሉንም ያካተቱ የ PDF ሰነድ መገልገያዎች",
+        "open": "ክፈት",
+        "save": "አስቀምጥ",
+        "save-as": "በሌላ ስም አስቀምጥ",
+        "print": "አትም",
+        "studio-utilities": "የስቱዲዮ መገልገያዎች",
+        "document-viewer": "ሰነድ አሳይ",
+        "metadata-editor": "ሜታዳታ አርታኢ",
+        "merge-pdf": "PDFዎችን አዋህድ",
+        "split-pdf": "PDF ክፈል",
+        "extract-images": "ምስሎችን አውጣ",
+        "compress": "መጠን ቀንስ (አመቻች)",
+        "browse-file": "ፋይል አስስ",
+        "browse-message": "ለማረም PDF ይምረጡ ወይም ይጎትቱ"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "የ OCR Studio በመጠቀም ከምስሎች እና ከ PDF ጽሁፎችን፣ ሰንጠረዦችን እና የተዋቀረ ውሂብን ያውጡ። በ AI አለም ውስጥ ምስሎችን በቀጥታ ከመስቀል ይልቅ ከምስሎች ጽሁፍ በማውጣት ቶከን ለማዳን ይጠቅማል።",
+        "upload-or-paste-image": "ምስል ይስቀሉ ወይም ይለጥፉ",
+        "paste-image-url": "የምስል URL ይለጥፉ",
+        "supported-formats": "የሚደገፉ ቅርጸቶች፦ JPG, PNG, WEBP, BMP, PDF",
+        "options": "አማራጮች",
+        "ocr-mode": "የ OCR ሁነታ",
+        "ocr-mode-description": "ማከናወን የሚፈልጉትን የማውጣት አይነት ይምረጡ።",
+        "ocr-languages": "የ OCR ቋንቋዎች",
+        "ocr-languages-description": "በምስሉ ላይ የሚገኙ ቋንቋዎችን ይምረጡ።",
+        "ocr-output": "የ OCR ውፅዓት",
+        "extract-text": "ጽሁፍ ያውጡ",
+        "extract-tables": "ሰንጠረዦችን ያውጡ",
+        "extract-text-and-tables": "ጽሁፍ እና ሰንጠረዦችን ያውጡ",
+        "export": "ወደ ውጭ ላክ",
+        "clear": "አጽዳ",
+        "download-json": "JSON አውርድ",
+        "download-text": "ጽሁፍ አውርድ",
+        "no-file-selected": "ምንም ፋይል አልተመረጠም",
+        "preview": "ቅድመ እይታ",
+        "ocr-scanning": "OCR በመቃኘት ላይ ነው...",
+        "ocr-processing-please-wait": "OCR በማስኬድ ላይ ነው... እባክዎ ይጠብቁ።",
+        "no-text-extracted": "ምንም ጽሁፍ አልወጣም",
+        "no-tables-extracted": "ምንም ሰንጠረዦች አልወጡም",
+        "text": "ጽሁፍ",
+        "tables": "ሰንጠረዦች",
+        "rows": "ረድፎች",
+        "columns": "አምዶች",
+        "cell": "ሕዋስ",
+        "select-file": "ፋይል ይምረጡ",
+        "drag-and-drop-here": "ምስልዎን ወይም PDF እዚህ ጎትተው ይጣሉ"
+      }
+    },
+    "contribute": {
+      "header": "ለ FreeDevUtils አስተዋጽኦ ያድርጉ",
+      "howToContribute": {
+        "title": "እንዴት አስተዋጽኦ ማድረግ እንደሚቻል",
+        "description1": "FreeDevUtils ገና በማህበረሰብ የሚመራ ፕሮጀክት አይደለም፣ ነገር ግን ፕሮጀክቱን ለማሻሻል ችግሮችን እና ሳንካዎችን (bugs) ለማጉላት ከተጠቃሚዎች እና ገንቢዎች ለሚደረጉ አስተዋጽኦዎች በጣም አደንቃለሁ። ለመለገስ፣ ችግሮችን ሪፖርት ለማድረግ፣ ማሻሻያዎችን ለመጠቆም፣ ወይም አዳዲስ መሳሪያዎችን ለማቅረብ ከፈለጉ፣ ይህን ፕሮጀክት ለማሳደግ የሚረዱ ብዙ መንገዶች አሉ!",
+        "description2": "ትልቅም ይሁን ትንሽ የእርስዎ አስተዋፅዖዎች FreeDevUtils ን ለሁሉም ሰው የተሻለ በማድረግ ላይ እውነተኛ ለውጥ ያመጣሉ። የማህበረሰባችን አካል ስለሆኑ እናመሰግናለን!",
+        "quote": "ኃይሉ ከእርስዎ ጋር ይሁን። (May the Force be with you.)"
+      },
+      "donations": {
+        "title": "FreeDevUtils ን ይደግፉ - ልገሳዎች",
+        "description": "FreeDevUtils ጠቃሚ ሆኖ ካገኙት እና እድገቱን መደገፍ ከፈለጉ ልገሳ ማድረግን ያስቡበት። የእርስዎ ድጋፍ መድረኩን (platform) እንድንጠብቅ እና እንድናሻሽል ይረዳናል።",
+        "donateNow": "አሁን ይለግሱ",
+        "upi": {
+          "title": "የ UPI ክፍያ",
+          "description": "በ UPI በኩል ፈጣን እና ቀላል ልገሳዎች",
+          "details": "በህንድ ውስጥ ይገኛል። የእርስዎን የ UPI መተግበሪያ ተጠቅመው ስካን ያድርጉ እና ይለግሱ።"
+        },
+        "paypal": {
+          "title": "PayPal",
+          "description": "ለአለም አቀፍ አስተዋፅዖ አበርካቾች በ PayPal በኩል ድጋፍ",
+          "details": "በዓለም ዙሪያ በ PayPal በኩል ደህንነታቸው የተጠበቁ ክፍያዎች ተቀባይነት አላቸው።"
+        },
+        "crypto": {
+          "title": "የ Crypto ቦርሳ (Wallet)",
+          "description": "ክሪፕቶክሪንሲን (cryptocurrency) በመጠቀም ይለግሱ",
+          "details": "የሚመርጡትን ክሪፕቶ ምንዛሬ ይምረጡ እና ለመቀጠል የ QR ኮድን ይቃኙ። BitCoin, LiteCoin, BNB, USDT, USDC, ETH, Solana በአሁኑ ጊዜ በ QR ምስል ይደገፋሉ።",
+          "options": {
+            "usdt": "USDT",
+            "btc": "Bitcoin",
+            "ltc": "Litecoin",
+            "usdc": "USDC",
+            "eth": "Ether",
+            "bnb": "BNB",
+            "sol": "Solana"
+          }
         }
-      }
-    },
-    "contributions": {
-      "title": "የ GitHub አስተዋጽኦዎች",
-      "description": "ሳንካዎችን (bugs) ሪፖርት በማድረግ፣ ማሻሻያዎችን በመጠቆም፣ ወይም አዳዲስ መሳሪያዎችን በማቅረብ FreeDevUtils ን ለማሻሻል ያግዙ። ሁሉም አስተዋጽኦዎች የሚጀምሩት በ GitHub ማከማቻችን (repository) ላይ ነው።",
-      "getStarted": "እንዴት እንደሚጀመር፡",
-      "visitGithub": "GitHub ን ይጎብኙ",
-      "reportBugs": {
-        "title": "ሳንካዎችን (Bugs) ሪፖርት ያድርጉ",
-        "description": "ያጋጠሙዎትን ማንኛውንም ሳንካዎች ሪፖርት በማድረግ FreeDevUtils ን እንድናሻሽል ያግዙን",
-        "steps": {
-          "0": "የእኛን የ GitHub ማከማቻ ይጎብኙ",
-          "1": "'Issues' (ችግሮች) ትር ላይ ጠቅ ያድርጉ",
-          "2": "የ 'New Issue' (አዲስ ችግር) ቁልፍን ጠቅ ያድርጉ",
-          "3": "ሳንካውን እንደገና ለማባዛት (reproduce) ግልጽ በሆኑ ደረጃዎች ይግለጹ",
-          "4": "የሚመለከተው ከሆነ ቅጽበታዊ ገጽ እይታዎችን ወይም የስህተት መልዕክቶችን ያካትቱ",
-          "5": "ለእኛ ግምገማ ችግሩን ያስገቡ"
+      },
+      "contributions": {
+        "title": "የ GitHub አስተዋጽኦዎች",
+        "description": "ሳንካዎችን (bugs) ሪፖርት በማድረግ፣ ማሻሻያዎችን በመጠቆም፣ ወይም አዳዲስ መሳሪያዎችን በማቅረብ FreeDevUtils ን ለማሻሻል ያግዙ። ሁሉም አስተዋጽኦዎች የሚጀምሩት በ GitHub ማከማቻችን (repository) ላይ ነው።",
+        "getStarted": "እንዴት እንደሚጀመር፡",
+        "visitGithub": "GitHub ን ይጎብኙ",
+        "reportBugs": {
+          "title": "ሳንካዎችን (Bugs) ሪፖርት ያድርጉ",
+          "description": "ያጋጠሙዎትን ማንኛውንም ሳንካዎች ሪፖርት በማድረግ FreeDevUtils ን እንድናሻሽል ያግዙን",
+          "steps": {
+            "0": "የእኛን የ GitHub ማከማቻ ይጎብኙ",
+            "1": "'Issues' (ችግሮች) ትር ላይ ጠቅ ያድርጉ",
+            "2": "የ 'New Issue' (አዲስ ችግር) ቁልፍን ጠቅ ያድርጉ",
+            "3": "ሳንካውን እንደገና ለማባዛት (reproduce) ግልጽ በሆኑ ደረጃዎች ይግለጹ",
+            "4": "የሚመለከተው ከሆነ ቅጽበታዊ ገጽ እይታዎችን ወይም የስህተት መልዕክቶችን ያካትቱ",
+            "5": "ለእኛ ግምገማ ችግሩን ያስገቡ"
+          }
+        },
+        "suggestImprovements": {
+          "title": "ማሻሻያዎችን ይጠቁሙ",
+          "description": "ነባር መሳሪያዎችን ለማሻሻል ሀሳቦች አሉዎት? ልንሰማቸው እንወዳለን!",
+          "steps": {
+            "0": "ወደ የ GitHub ማከማቻችን ይሂዱ",
+            "1": "ወደ 'Issues' (ችግሮች) ትር ያስሱ",
+            "2": "ተመሳሳይ አስተያየት አስቀድሞ መኖሩን ይፈልጉ",
+            "3": "የ 'enhancement' (ማሻሻያ) መለያ (label) ያለው አዲስ ችግር ይፍጠሩ",
+            "4": "ማሻሻያውን እና ለምን ጠቃሚ እንደሚሆን በግልፅ ይግለጹ",
+            "5": "ካሉዎት ማንኛውንም የንድፍ ሞካፕስ (mockups) ወይም የትግበራ ሀሳቦችን ያጋሩ"
+          }
+        },
+        "suggestNewTools": {
+          "title": "አዳዲስ መሳሪያዎችን ይጠቁሙ",
+          "description": "ጠቃሚ የሚሆን መሳሪያ ያውቃሉ? በ FreeDevUtils ውስጥ እንዲካተት ይጠቁሙት",
+          "steps": {
+            "0": "የእኛን የ GitHub ማከማቻ ይጎብኙ",
+            "1": "ወደ 'Discussions' (ውይይቶች) ወይም 'Issues' (ችግሮች) ክፍል ይሂዱ",
+            "2": "አዲሱን መሣሪያ እና የአጠቃቀም ጉዳዩን ይግለጹ",
+            "3": "ለምን ጠቃሚ እንደሚሆን ያስባሉ የሚለውን ያብራሩ",
+            "4": "ማንኛውንም ተዛማጅ አገናኞችን ወይም ማጣቀሻዎችን ያቅርቡ",
+            "5": "ቡድናችን አስተያየትዎን ይገመግማል እና ያስባል"
+          }
         }
       },
-      "suggestImprovements": {
-        "title": "ማሻሻያዎችን ይጠቁሙ",
-        "description": "ነባር መሳሪያዎችን ለማሻሻል ሀሳቦች አሉዎት? ልንሰማቸው እንወዳለን!",
-        "steps": {
-          "0": "ወደ የ GitHub ማከማቻችን ይሂዱ",
-          "1": "ወደ 'Issues' (ችግሮች) ትር ያስሱ",
-          "2": "ተመሳሳይ አስተያየት አስቀድሞ መኖሩን ይፈልጉ",
-          "3": "የ 'enhancement' (ማሻሻያ) መለያ (label) ያለው አዲስ ችግር ይፍጠሩ",
-          "4": "ማሻሻያውን እና ለምን ጠቃሚ እንደሚሆን በግልፅ ይግለጹ",
-          "5": "ካሉዎት ማንኛውንም የንድፍ ሞካፕስ (mockups) ወይም የትግበራ ሀሳቦችን ያጋሩ"
+      "thankYou": {
+        "title": "እናመሰግናለን!",
+        "description1": "እያንዳንዱ አስተዋፅዖ FreeDevUtils እንዲያድግ እና የገንቢውን ማህበረሰብ በተሻለ ሁኔታ እንዲያገለግል ይረዳል። ልገሳም ይሁን የሳንካ ሪፖርት፣ አስተያየት ወይም አዲስ የመሳሪያ ሀሳብ፣ የእርስዎን ግብዓት ዋጋ እንሰጠዋለን።",
+        "description2": "ስለ ፕሮጀክቱ ተጨማሪ መረጃ ለማግኘት የእኛን",
+        "repository": "ማከማቻ (repository)",
+        "or": "ይጎብኙ ወይም የእኛን",
+        "aboutPage": "ስለ ገጽ",
+        "question": "ለምን ሁሉም ነገር ነፃ ሆነ?",
+        "quote": "የሚሰጡ መስጠታቸውን አያቁሙ፣ የሚቀበሉ መቀበላቸውን አያቁሙ፣ ሲቀበሉ ሲቀበሉ ግን አንድ ቀን ተቀባዩ ራሱ ሰጪ ለመሆን ማደግ አለበት።",
+        "quoteTranslation": "Those who give should never stop giving. Those who receive should keep receiving. But in the process of receiving, one day the receiver must grow enough to become a giver themselves.",
+        "happyContributing": "መልካም አስተዋጽኦ ማድረግ!"
+      },
+      "dialog": {
+        "title": "በ {{ method }} ይለግሱ",
+        "chooseCrypto": "ክሪፕቶ ይምረጡ",
+        "selectedCurrency": "የተመረጠ ምንዛሬ፡",
+        "qrUnavailable": "የ QR ኮድ ለ {{ currency }} አይገኝም። የሚገኝ ከሆነ ከታች ያለውን የኪስ ቦርሳ (wallet) አድራሻ ይጠቀሙ።",
+        "scanPrompt": "ለመቀጠል የ QR ኮዱን ይቃኙ"
+      }
+    },
+    "about": {
+      "title": "ስለ አዘጋጅ",
+      "profileName": "Pranay Sanjay Mokal",
+      "profileTitle": "ሲኒየር የሶፍትዌር ገንቢ (Senior Software Developer)",
+      "downloadResume": "ሲቪ (Resume) አውርድ",
+      "connectLinkedIn": "በ LinkedIn ይገናኙ",
+      "connectGithub": "ከ Github ጋር ይገናኙ",
+      "connectInstagram": "በ Instagram ይገናኙ",
+      "connectX": "በ X (Twitter) ይገናኙ",
+      "professionalSummary": "ሙያዊ ማጠቃለያ",
+      "summary": {
+        "paragraph1": "እኔ ሊሰፉ የሚችሉ የአገልጋይ-ጎን (server-side) መተግበሪያዎችን፣ የ RESTful አገልግሎቶችን፣ እና ዘመናዊ የ cloud-native መፍትሄዎችን በመገንባት ከ11 ዓመታት በላይ ልምድ ያለኝ ሲኒየር የሶፍትዌር ገንቢ ነኝ።",
+        "paragraph2": "የእኔ ቴክኒካዊ መሰረት በ Java እና Spring (Spring Boot, JAX-RS) እንዲሁም ጠንካራ የውሂብ ማስቀመጫ ስልቶች (JPA/Hibernate, JDBC) ላይ የተመሰረተ ነው። እንደ Apache Spark እና Databricks ካሉ የ big data መሳሪያዎች ጋር በመስራት እና Microsoft Azure እና AWS ን ጨምሮ በዋና የክላውድ መድረኮች (cloud platforms) ላይ መተግበሪያዎችን በማሰማራት ሰፊ ልምድ አለኝ።",
+        "paragraph3": "በሙያዬ ውስጥ ትልቅ ትኩረት የነበረው ውስብስብ የ Single Sign-On (SSO) እና የማንነት አስተዳደር (Identity Management) መፍትሄዎችን (Keycloak, Azure AD, PingFederate, Okta, RHBK) ማዋሃድ ነው። እንደ MS SQL, MySQL, Oracle, እና MongoDB ያሉትን ሁለቱንም ተያያዥ (relational) እና NoSQL የውሂብ ጎታዎችን በመጠቀም — የጤና እንክብካቤ፣ ማከማቻ፣ ኢንሹራንስ፣ እና ኢ-አስተዳደርን (e-governance) ጨምሮ በተለያዩ ዘርፎች መፍትሄዎችን በተሳካ ሁኔታ አቅርቤያለሁ።",
+        "paragraph4": "Angular እና Angular Material ለበርካታ ዓመታት የሕይወቴ አካል ነበሩ፣ እንደ የትርፍ ጊዜ ማሳለፊያ ፕሮጀክት አብረን የተሳካ መተግበሪያ ለመገንባት ብዙ ያልተሳኩ ሙከራዎችን አድርገናል። በመጨረሻም ያንን ጉልበት በመጠቀም ለቀጣዩ ትውልድ እና ለህብረተሰቡ በቀጥታም ሆነ በተዘዋዋሪ ጠቃሚ የሚሆን ነገር ለመገንባት ወሰንኩ። እነዚህ መሳሪያዎች ለትርፍ ያልተቋቋመ ስራ (non-profit venture) እንደመሆናቸው ለማንኛውም ሰው እንዲጠቀሙበት ክፍት ይሆናሉ።"
+      },
+      "coreExpertise": "ዋና የባለሙያነት ዘርፎች (Core Expertise)",
+      "expertise": {
+        "backend": "Backend እና API (Spring Boot, JAX-RS)",
+        "frontend": "Frontend (Angular)",
+        "cloud": "Cloud እና DevOps (Azure, AWS)",
+        "data": "ውሂብ እና ETL (JPA, Spark, SQL/NoSQL)",
+        "security": "ማንነት እና መዳረሻ አስተዳደር (SSO, OAuth, OIDC, Azure AD, PingFederate, RHBK, Keycloak)",
+        "database": "MSSQL Server, MongoDB, MySQL, Oracle"
+      }
+    },
+    "credits": {
+      "title": "ምስጋናዎች - ስለ FreeDevUtils",
+      "aboutHeader": {
+        "title": "ስለ FreeDevUtils",
+        "description1": "FreeDevUtils የተነደፈው፣ የተፃፈው፣ እና የተገነባው በ",
+        "description2": "በ GitHub Copilot እገዛ ነው።",
+        "description3": "FreeDevUtils የተገነባው በአስገራሚ ክፍት-ምንጭ (open-source) ቴክኖሎጂዎች እና ቤተ-መጻሕፍት ላይ ነው። ይህ ገጽ ይህንን ድህረ-ገጽ እውን ለማድረግ የሚረዱትን ፕሮጀክቶች እውቅና ይሰጣል እና ያመሰግናል። ሁሉም የተዘረዘሩ ቤተ-መጻሕፍት የየራሳቸው ደራሲዎች ንብረት ሆነው የሚቀጥሉ ሲሆን በሚመለከታቸው ክፍት-ምንጭ ፈቃዶች መሰረት ጥቅም ላይ ይውላሉ። እነዚህን ፕሮጀክቶች ለሚንከባከቡ ገንቢዎች እና ማህበረሰቦች አመስጋኞች ነን።",
+        "description4": "ማንኛውም እውቅና ትክክል አይደለም ወይም ያልተሟላ ነው ብለው ካመኑ፣ ወይም እርስዎ የመብቱ ባለቤት ከሆኑ እና ዝርዝርን እንድንገመግም ከፈለጉ፣ ወይም በዚህ ፕሮጀክት ውስጥ ጥቅም ላይ የዋለ ቤተ-መጽሐፍት ደራሲ ከሆኑ እና እዚህ እውቅና እንዲሰጥዎት ከፈለጉ፣ ወይም በዚህ ፕሮጀክት ውስጥ ቤተ-መጻሕፍትን መጠቀምን በተመለከተ ተቃውሞ ካለዎት፣ እባክዎን በ",
+        "contactEmail": "pranay.mokal@gmail.com",
+        "description5": " ያግኙኝ። ያንን ቤተ-መጽሐፍት ከፕሮጀክቱ ሙሉ በሙሉ አስወግደዋለሁ። የሁሉንም ደራሲያን/ፈጣሪዎች መብቶች ለማክበር ቁርጠኞች ነን እና ማንኛውንም የተነሱ ስጋቶችን በፍጥነት እንፈታለን።",
+        "viewLicense": "ፈቃድ (License) ይመልከቱ"
+      },
+      "coreFramework": {
+        "title": "ዋና ማዕቀፍ (Core Framework)",
+        "angular": {
+          "name": "Angular",
+          "version": "^19.2.0",
+          "description": "ተለዋዋጭ ነጠላ ገጽ መተግበሪያዎችን ለመገንባት በ TypeScript ላይ የተመሰረተ ክፍት-ምንጭ (open-source) የድር መተግበሪያ ማዕቀፍ።",
+          "license": "MIT"
+        },
+        "angularMaterial": {
+          "name": "Angular Material",
+          "version": "^19.2.19",
+          "description": "የ Material Design ክፍሎች ለ Angular። አስቀድመው የተገነቡ፣ የተሞከሩ እና ተደራሽ የሆኑ የ UI ክፍሎችን ያቀርባል።",
+          "license": "MIT"
+        },
+        "angularCDK": {
+          "name": "Angular CDK",
+          "version": "^19.2.19",
+          "description": "Component Dev Kit (የክፍል ማበልጸጊያ ኪት) ብጁ ክፍሎችን ለመገንባት ዝቅተኛ ደረጃ መሳሪያዎችን እና መገልገያዎችን ያቀርባል።",
+          "license": "MIT"
+        },
+        "rxjs": {
+          "name": "RxJS",
+          "version": "~7.8.0",
+          "description": "የሚታዘቡ ቅደም ተከተሎችን (observable sequences) በመጠቀም ያልተመሳሰሉ (asynchronous) እና ክስተት-ተኮር ፕሮግራሞችን ለማዘጋጀት ቤተ-መጽሐፍት።",
+          "license": "Apache 2.0"
+        },
+        "zonejs": {
+          "name": "Zone.js",
+          "version": "~0.15.0",
+          "description": "ለ JavaScript Zones ይተገብራል፣ ይህም በ Angular ውስጥ ለለውጥ ፍለጋ (change detection) የአፈፃፀም አውድ (execution context) ያቀርባል።",
+          "license": "Apache 2.0"
+        },
+        "typescript": {
+          "name": "TypeScript",
+          "version": "~5.7.2",
+          "description": "ወደ ንጹህ JavaScript የሚቀየር የ JavaScript ዓይነት-ተኮር (typed superset) ቅጥያ።",
+          "license": "Apache 2.0"
+        },
+        "angularSSR": {
+          "name": "Angular SSR",
+          "version": "^19.2.0",
+          "description": "ለ Angular መተግበሪያዎች የአገልጋይ-ጎን (server-side rendering) ችሎታዎችን ያቀርባል፣ ይህም የመጀመሪያ የመጫኛ አፈፃፀም እና SEO ን ያሻሽላል።",
+          "license": "MIT"
         }
       },
-      "suggestNewTools": {
-        "title": "አዳዲስ መሳሪያዎችን ይጠቁሙ",
-        "description": "ጠቃሚ የሚሆን መሳሪያ ያውቃሉ? በ FreeDevUtils ውስጥ እንዲካተት ይጠቁሙት",
-        "steps": {
-          "0": "የእኛን የ GitHub ማከማቻ ይጎብኙ",
-          "1": "ወደ 'Discussions' (ውይይቶች) ወይም 'Issues' (ችግሮች) ክፍል ይሂዱ",
-          "2": "አዲሱን መሣሪያ እና የአጠቃቀም ጉዳዩን ይግለጹ",
-          "3": "ለምን ጠቃሚ እንደሚሆን ያስባሉ የሚለውን ያብራሩ",
-          "4": "ማንኛውንም ተዛማጅ አገናኞችን ወይም ማጣቀሻዎችን ያቅርቡ",
-          "5": "ቡድናችን አስተያየትዎን ይገመግማል እና ያስባል"
+      "utilityLibraries": {
+        "title": "የመገልገያ ቤተ-መጻሕፍት (Utility Libraries)",
+        "jspdf": {
+          "name": "jsPDF",
+          "version": "^4.2.0",
+          "description": "ሙሉ በሙሉ በ JavaScript የ PDF ሰነዶችን ለማመንጨት ቤተ-መጽሐፍት። ለ PDF ማመንጫ መሳሪያዎች ጥቅም ላይ ይውላል።",
+          "license": "MIT"
+        },
+        "jszip": {
+          "name": "jszip",
+          "version": "^3.10.1",
+          "description": "የ ZIP ፋይሎችን ለመፍጠር፣ ለማንበብ፣ እና ለማረም ቤተ-መጽሐፍት። ለ zip/unzip መገልገያዎች ጥቅም ላይ ይውላል።",
+          "license": "MIT ወይም GPLv3"
+        },
+        "html2canvas": {
+          "name": "html2canvas",
+          "version": "^1.4.1",
+          "description": "የ HTML5 canvas አካልን በመጠቀም የድር ገጾችን ቅጽበታዊ ገጽ እይታዎች (screenshots) ይወስዳል። ለቅጽበታዊ ገጽ እይታ ማብራሪያ መሳሪያዎች ጥቅም ላይ ይውላል።",
+          "license": "MIT"
+        },
+        "jsqr": {
+          "name": "jsQR",
+          "version": "^1.4.0",
+          "description": "የ QR ኮድ ንባብ የ JavaScript ትግበራ። ለ QR ኮድ ስካነር መሳሪያ ጥቅም ላይ ይውላል።",
+          "license": "Apache 2.0"
+        },
+        "diff": {
+          "name": "diff",
+          "version": "^8.0.3",
+          "description": "በጽሑፍ ሐረጎች (text strings) መካከል ያለውን ልዩነት ለማስላት የ JavaScript ቤተ-መጽሐፍት። ለፋይል ንጽጽር ጥቅም ላይ ይውላል።",
+          "license": "BSD"
+        },
+        "fastXmlParser": {
+          "name": "fast-xml-parser",
+          "version": "^5.3.3",
+          "description": "ለ JavaScript ፈጣን የ XML ተንታኝ (parser)። ለ XML መተንተን እና ማሳመሪያ መሳሪያዎች ጥቅም ላይ ይውላል።",
+          "license": "MIT"
+        },
+        "docx": {
+          "name": "docx",
+          "version": "^9.5.1",
+          "description": "በፕሮግራም የ .docx (Microsoft Word) ሰነዶችን ለማመንጨት የ JavaScript ቤተ-መጽሐፍት።",
+          "license": "MIT"
+        },
+        "gifjs": {
+          "name": "gif.js",
+          "version": "0.2.0",
+          "description": "በፕሮግራም የ .gif ምስሎችን ለማመንጨት የ JavaScript ቤተ-መጽሐፍት።",
+          "license": "MIT"
+        },
+        "jsbarcode": {
+          "name": "jsbarcode",
+          "version": "^3.12.3",
+          "description": "በፕሮግራም ባርኮዶችን ለማመንጨት የ JavaScript ቤተ-መጽሐፍት።",
+          "license": "MIT"
+        },
+        "angularxQrcode": {
+          "name": "angularx-qrcode",
+          "version": "^19.0.0",
+          "description": "በፕሮግራም የ QR ኮዶችን ለማመንጨት የ JavaScript ቤተ-መጽሐፍት።",
+          "license": "MIT"
+        },
+        "jsYaml": {
+          "name": "js-yaml",
+          "version": "^4.0.9",
+          "description": "የ JavaScript YAML ተንታኝ (parser) እና ቆሻሻ መጣያ (dumper)። የ docker-compose YAML ፋይሎችን ለመተንተን ይጠቅማል።",
+          "license": "MIT"
+        },
+        "monacoEditor": {
+          "name": "monaco-editor",
+          "version": "^0.52.2",
+          "description": "የ VS Code ን የሚያንቀሳቅስ በአሳሽ (browser) ላይ የተመሰረተ የኮድ አርታዒ። የላቀ የ syntax ማድመቂያ እና ራስ-አጠናቃቂ (autocomplete) ያቀርባል።",
+          "license": "MIT"
+        },
+        "ngxMonacoEditorV2": {
+          "name": "ngx-monaco-editor-v2",
+          "version": "^19.0.2",
+          "description": "ለዘመናዊ Angular እና ለብቻቸው ለሚቆሙ (standalone) አካላት የተሻሻለ የ Monaco Editor የ Angular ማቀፊያ (wrapper)።",
+          "license": "MIT"
+        },
+        "sqlFormatter": {
+          "name": "sql-formatter",
+          "version": "^15.8.0",
+          "description": "እንደ PostgreSQL, MySQL, እና መደበኛ SQL ያሉ የተለያዩ ዘዬዎችን የሚደግፍ የ SQL መግለጫዎችን ለመቅረጽ እና ለማስዋብ ጠንካራ የ JavaScript ቤተ-መጽሐፍት።",
+          "license": "MIT"
+        },
+        "cryptoJs": {
+          "name": "crypto-js",
+          "version": "^4.2.0",
+          "description": "ለክሪፕቶግራፊክ ስራዎች የ JavaScript ቤተ-መጽሐፍት። ለማስመስጠር (encryption) እና ለመፍታት (decryption) መገልገያዎች ጥቅም ላይ ይውላል።",
+          "license": "MIT"
+        },
+        "pako": {
+          "name": "pako",
+          "version": "^2.1.0",
+          "description": "የ zlib ከፍተኛ-ፍጥነት JavaScript ወደብ (port)። በአሳሽ ውስጥ ለ GZIP እና DEFLATE ማህደር መጭመቅ እና ማውጣት በፍጥነት ጥቅም ላይ ይውላል።",
+          "license": "MIT / Zlib"
         }
+      },
+      "aiTools": {
+        "title": "የ AI መሳሪያዎች እና ረዳቶች",
+        "githubCopilot": {
+          "name": "GitHub Copilot",
+          "version": "የቅርብ ጊዜ",
+          "description": "ኮድን በብቃት ለመጻፍ የሚረዳ በ AI-የተጎለበተ የኮድ ማጠናቀቂያ ረዳት። GitHub Copilot በዚህ ፕሮጀክት ውስጥ የልማት ስራን ለማፋጠን እና የኮድ ጥራትን ለማሻሻል ትልቅ አስተዋጽኦ አድርጓል።"
+        },
+        "googleGemini": {
+          "name": "Google Gemini Pro",
+          "version": "የቅርብ ጊዜ",
+          "description": "በፕሮጀክቱ ውስጥ የ UI አቀማመጦችን (layouts)፣ የ CSS አርክቴክቸር፣ እና የክፍል ቅጥን (styling) በመንደፍ፣ በማዋቀር እና በማጥራት ላይ የተባበረ የ Google AI ረዳት።"
+        },
+        "chatgpt": {
+          "name": "ChatGPT",
+          "version": "የቅርብ ጊዜ",
+          "description": "በበርካታ የፕሮጀክቱ ክፍሎች ውስጥ ለአርክቴክቸር መመሪያ፣ prompt ማሻሻል፣ ቴክኒካዊ ማብራሪያዎች፣ የውጤት ማረጋገጫዎች እና እርዳታዎች የሚያገለግል የ AI ረዳት።"
+        }
+      },
+      "devDependencies": {
+        "title": "የልማት መሳሪያዎች (Development Tools)"
+      },
+      "thirdPartyLicenses": {
+        "title": "የሶስተኛ ወገን (Third-Party) የፈቃድ መረጃ",
+        "description1": "በ freedevutils ውስጥ ጥቅም ላይ የዋሉ ሁሉም ቤተ-መጻሕፍት MIT፣ Apache 2.0 እና BSD ን ጨምሮ ይፋ-ተኮር ክፍት-ምንጭ ፈቃዶች (permissive open-source licenses) ስር ይገኛሉ። ለዝርዝር የፈቃድ መረጃ እባክዎ የግለሰብ ፕሮጀክት ገጾችን ይጎብኙ።",
+        "description2": "Freedevutils የተሰራው ነፃ እና ክፍት-ምንጭ (open-source) የገንቢ መገልገያዎችን ለማቅረብ ነው። የክፍት-ምንጭ ማህበረሰቡን ስራ ለማክበር እና እውቅና ለመስጠት ቁርጠኞች ነን።",
+        "viewThirdPartyLicenses": "የ 3ኛ ወገን ፈቃዶችን ይመልከቱ",
+        "learnMore": "የበለጠ ይወቁ"
       }
     },
-    "thankYou": {
-      "title": "እናመሰግናለን!",
-      "description1": "እያንዳንዱ አስተዋፅዖ FreeDevUtils እንዲያድግ እና የገንቢውን ማህበረሰብ በተሻለ ሁኔታ እንዲያገለግል ይረዳል። ልገሳም ይሁን የሳንካ ሪፖርት፣ አስተያየት ወይም አዲስ የመሳሪያ ሀሳብ፣ የእርስዎን ግብዓት ዋጋ እንሰጠዋለን።",
-      "description2": "ስለ ፕሮጀክቱ ተጨማሪ መረጃ ለማግኘት የእኛን",
-      "repository": "ማከማቻ (repository)",
-      "or": "ይጎብኙ ወይም የእኛን",
-      "aboutPage": "ስለ ገጽ",
-      "question": "ለምን ሁሉም ነገር ነፃ ሆነ?",
-      "quote": "የሚሰጡ መስጠታቸውን አያቁሙ፣ የሚቀበሉ መቀበላቸውን አያቁሙ፣ ሲቀበሉ ሲቀበሉ ግን አንድ ቀን ተቀባዩ ራሱ ሰጪ ለመሆን ማደግ አለበት።",
-      "quoteTranslation": "Those who give should never stop giving. Those who receive should keep receiving. But in the process of receiving, one day the receiver must grow enough to become a giver themselves.",
-      "happyContributing": "መልካም አስተዋጽኦ ማድረግ!"
-    },
-    "dialog": {
-      "title": "በ {{ method }} ይለግሱ",
-      "chooseCrypto": "ክሪፕቶ ይምረጡ",
-      "selectedCurrency": "የተመረጠ ምንዛሬ፡",
-      "qrUnavailable": "የ QR ኮድ ለ {{ currency }} አይገኝም። የሚገኝ ከሆነ ከታች ያለውን የኪስ ቦርሳ (wallet) አድራሻ ይጠቀሙ።",
-      "scanPrompt": "ለመቀጠል የ QR ኮዱን ይቃኙ"
-    }
-  },
-  "about": {
-    "title": "ስለ አዘጋጅ",
-    "profileName": "Pranay Sanjay Mokal",
-    "profileTitle": "ሲኒየር የሶፍትዌር ገንቢ (Senior Software Developer)",
-    "downloadResume": "ሲቪ (Resume) አውርድ",
-    "connectLinkedIn": "በ LinkedIn ይገናኙ",
-    "connectGithub": "ከ Github ጋር ይገናኙ",
-    "connectInstagram": "በ Instagram ይገናኙ",
-    "connectX": "በ X (Twitter) ይገናኙ",
-    "professionalSummary": "ሙያዊ ማጠቃለያ",
-    "summary": {
-      "paragraph1": "እኔ ሊሰፉ የሚችሉ የአገልጋይ-ጎን (server-side) መተግበሪያዎችን፣ የ RESTful አገልግሎቶችን፣ እና ዘመናዊ የ cloud-native መፍትሄዎችን በመገንባት ከ11 ዓመታት በላይ ልምድ ያለኝ ሲኒየር የሶፍትዌር ገንቢ ነኝ።",
-      "paragraph2": "የእኔ ቴክኒካዊ መሰረት በ Java እና Spring (Spring Boot, JAX-RS) እንዲሁም ጠንካራ የውሂብ ማስቀመጫ ስልቶች (JPA/Hibernate, JDBC) ላይ የተመሰረተ ነው። እንደ Apache Spark እና Databricks ካሉ የ big data መሳሪያዎች ጋር በመስራት እና Microsoft Azure እና AWS ን ጨምሮ በዋና የክላውድ መድረኮች (cloud platforms) ላይ መተግበሪያዎችን በማሰማራት ሰፊ ልምድ አለኝ።",
-      "paragraph3": "በሙያዬ ውስጥ ትልቅ ትኩረት የነበረው ውስብስብ የ Single Sign-On (SSO) እና የማንነት አስተዳደር (Identity Management) መፍትሄዎችን (Keycloak, Azure AD, PingFederate, Okta, RHBK) ማዋሃድ ነው። እንደ MS SQL, MySQL, Oracle, እና MongoDB ያሉትን ሁለቱንም ተያያዥ (relational) እና NoSQL የውሂብ ጎታዎችን በመጠቀም — የጤና እንክብካቤ፣ ማከማቻ፣ ኢንሹራንስ፣ እና ኢ-አስተዳደርን (e-governance) ጨምሮ በተለያዩ ዘርፎች መፍትሄዎችን በተሳካ ሁኔታ አቅርቤያለሁ።",
-      "paragraph4": "Angular እና Angular Material ለበርካታ ዓመታት የሕይወቴ አካል ነበሩ፣ እንደ የትርፍ ጊዜ ማሳለፊያ ፕሮጀክት አብረን የተሳካ መተግበሪያ ለመገንባት ብዙ ያልተሳኩ ሙከራዎችን አድርገናል። በመጨረሻም ያንን ጉልበት በመጠቀም ለቀጣዩ ትውልድ እና ለህብረተሰቡ በቀጥታም ሆነ በተዘዋዋሪ ጠቃሚ የሚሆን ነገር ለመገንባት ወሰንኩ። እነዚህ መሳሪያዎች ለትርፍ ያልተቋቋመ ስራ (non-profit venture) እንደመሆናቸው ለማንኛውም ሰው እንዲጠቀሙበት ክፍት ይሆናሉ።"
-    },
-    "coreExpertise": "ዋና የባለሙያነት ዘርፎች (Core Expertise)",
-    "expertise": {
-      "backend": "Backend እና API (Spring Boot, JAX-RS)",
-      "frontend": "Frontend (Angular)",
-      "cloud": "Cloud እና DevOps (Azure, AWS)",
-      "data": "ውሂብ እና ETL (JPA, Spark, SQL/NoSQL)",
-      "security": "ማንነት እና መዳረሻ አስተዳደር (SSO, OAuth, OIDC, Azure AD, PingFederate, RHBK, Keycloak)",
-      "database": "MSSQL Server, MongoDB, MySQL, Oracle"
-    }
-  },
-  "credits": {
-    "title": "ምስጋናዎች - ስለ FreeDevUtils",
-    "aboutHeader": {
-      "title": "ስለ FreeDevUtils",
-      "description1": "FreeDevUtils የተነደፈው፣ የተፃፈው፣ እና የተገነባው በ",
-      "description2": "በ GitHub Copilot እገዛ ነው።",
-      "description3": "FreeDevUtils የተገነባው በአስገራሚ ክፍት-ምንጭ (open-source) ቴክኖሎጂዎች እና ቤተ-መጻሕፍት ላይ ነው። ይህ ገጽ ይህንን ድህረ-ገጽ እውን ለማድረግ የሚረዱትን ፕሮጀክቶች እውቅና ይሰጣል እና ያመሰግናል። ሁሉም የተዘረዘሩ ቤተ-መጻሕፍት የየራሳቸው ደራሲዎች ንብረት ሆነው የሚቀጥሉ ሲሆን በሚመለከታቸው ክፍት-ምንጭ ፈቃዶች መሰረት ጥቅም ላይ ይውላሉ። እነዚህን ፕሮጀክቶች ለሚንከባከቡ ገንቢዎች እና ማህበረሰቦች አመስጋኞች ነን።",
-      "description4": "ማንኛውም እውቅና ትክክል አይደለም ወይም ያልተሟላ ነው ብለው ካመኑ፣ ወይም እርስዎ የመብቱ ባለቤት ከሆኑ እና ዝርዝርን እንድንገመግም ከፈለጉ፣ ወይም በዚህ ፕሮጀክት ውስጥ ጥቅም ላይ የዋለ ቤተ-መጽሐፍት ደራሲ ከሆኑ እና እዚህ እውቅና እንዲሰጥዎት ከፈለጉ፣ ወይም በዚህ ፕሮጀክት ውስጥ ቤተ-መጻሕፍትን መጠቀምን በተመለከተ ተቃውሞ ካለዎት፣ እባክዎን በ",
-      "contactEmail": "pranay.mokal@gmail.com",
-      "description5": " ያግኙኝ። ያንን ቤተ-መጽሐፍት ከፕሮጀክቱ ሙሉ በሙሉ አስወግደዋለሁ። የሁሉንም ደራሲያን/ፈጣሪዎች መብቶች ለማክበር ቁርጠኞች ነን እና ማንኛውንም የተነሱ ስጋቶችን በፍጥነት እንፈታለን።",
-      "viewLicense": "ፈቃድ (License) ይመልከቱ"
-    },
-    "coreFramework": {
-      "title": "ዋና ማዕቀፍ (Core Framework)",
-      "angular": {
-        "name": "Angular",
-        "version": "^19.2.0",
-        "description": "ተለዋዋጭ ነጠላ ገጽ መተግበሪያዎችን ለመገንባት በ TypeScript ላይ የተመሰረተ ክፍት-ምንጭ (open-source) የድር መተግበሪያ ማዕቀፍ።",
-        "license": "MIT"
+    "releaseNotes": {
+      "title": "የስሪት ማስታወሻዎች እና ፍኖተ ካርታ (Roadmap)",
+      "changeLog": "የለውጥ ማስታወሻ (Change Log)",
+      "todoRoadmap": "የሚሰሩ (Todo) / ፍኖተ ካርታ",
+      "emptyState": "ምንም የስሪት ማስታወሻዎች አይገኙም።",
+      "latest": "የቅርብ ጊዜ",
+      "status": {
+        "planned": "የታቀደ",
+        "inProgress": "በሂደት ላይ",
+        "completed": "ተጠናቅቋል"
       },
-      "angularMaterial": {
-        "name": "Angular Material",
-        "version": "^19.2.19",
-        "description": "የ Material Design ክፍሎች ለ Angular። አስቀድመው የተገነቡ፣ የተሞከሩ እና ተደራሽ የሆኑ የ UI ክፍሎችን ያቀርባል።",
-        "license": "MIT"
+      "todos": {
+        "multilingual": "ባለብዙ ቋንቋ ድጋፍ ማከል",
+        "lightTheme": "የብርሃን ገጽታ (Light theme) ድጋፍ አክል",
+        "seo": "ለመሳሪያዎች የ SEO ማሻሻያዎችን እና ድጋፍን አክል",
+        "darkMode": "በመተግበሪያው ውስጥ የጨለማ ሁነታን (Dark mode) ይተግብሩ",
+        "design": "መተግበሪያውን ከ dev utils ጋር ዲዛይን ያድርጉ"
       },
-      "angularCDK": {
-        "name": "Angular CDK",
-        "version": "^19.2.19",
-        "description": "Component Dev Kit (የክፍል ማበልጸጊያ ኪት) ብጁ ክፍሎችን ለመገንባት ዝቅተኛ ደረጃ መሳሪያዎችን እና መገልገያዎችን ያቀርባል።",
-        "license": "MIT"
-      },
-      "rxjs": {
-        "name": "RxJS",
-        "version": "~7.8.0",
-        "description": "የሚታዘቡ ቅደም ተከተሎችን (observable sequences) በመጠቀም ያልተመሳሰሉ (asynchronous) እና ክስተት-ተኮር ፕሮግራሞችን ለማዘጋጀት ቤተ-መጽሐፍት።",
-        "license": "Apache 2.0"
-      },
-      "zonejs": {
-        "name": "Zone.js",
-        "version": "~0.15.0",
-        "description": "ለ JavaScript Zones ይተገብራል፣ ይህም በ Angular ውስጥ ለለውጥ ፍለጋ (change detection) የአፈፃፀም አውድ (execution context) ያቀርባል።",
-        "license": "Apache 2.0"
-      },
-      "typescript": {
-        "name": "TypeScript",
-        "version": "~5.7.2",
-        "description": "ወደ ንጹህ JavaScript የሚቀየር የ JavaScript ዓይነት-ተኮር (typed superset) ቅጥያ።",
-        "license": "Apache 2.0"
-      },
-      "angularSSR": {
-        "name": "Angular SSR",
-        "version": "^19.2.0",
-        "description": "ለ Angular መተግበሪያዎች የአገልጋይ-ጎን (server-side rendering) ችሎታዎችን ያቀርባል፣ ይህም የመጀመሪያ የመጫኛ አፈፃፀም እና SEO ን ያሻሽላል።",
-        "license": "MIT"
-      }
-    },
-    "utilityLibraries": {
-      "title": "የመገልገያ ቤተ-መጻሕፍት (Utility Libraries)",
-      "jspdf": {
-        "name": "jsPDF",
-        "version": "^4.2.0",
-        "description": "ሙሉ በሙሉ በ JavaScript የ PDF ሰነዶችን ለማመንጨት ቤተ-መጽሐፍት። ለ PDF ማመንጫ መሳሪያዎች ጥቅም ላይ ይውላል።",
-        "license": "MIT"
-      },
-      "jszip": {
-        "name": "jszip",
-        "version": "^3.10.1",
-        "description": "የ ZIP ፋይሎችን ለመፍጠር፣ ለማንበብ፣ እና ለማረም ቤተ-መጽሐፍት። ለ zip/unzip መገልገያዎች ጥቅም ላይ ይውላል።",
-        "license": "MIT ወይም GPLv3"
-      },
-      "html2canvas": {
-        "name": "html2canvas",
-        "version": "^1.4.1",
-        "description": "የ HTML5 canvas አካልን በመጠቀም የድር ገጾችን ቅጽበታዊ ገጽ እይታዎች (screenshots) ይወስዳል። ለቅጽበታዊ ገጽ እይታ ማብራሪያ መሳሪያዎች ጥቅም ላይ ይውላል።",
-        "license": "MIT"
-      },
-      "jsqr": {
-        "name": "jsQR",
-        "version": "^1.4.0",
-        "description": "የ QR ኮድ ንባብ የ JavaScript ትግበራ። ለ QR ኮድ ስካነር መሳሪያ ጥቅም ላይ ይውላል።",
-        "license": "Apache 2.0"
-      },
-      "diff": {
-        "name": "diff",
-        "version": "^8.0.3",
-        "description": "በጽሑፍ ሐረጎች (text strings) መካከል ያለውን ልዩነት ለማስላት የ JavaScript ቤተ-መጽሐፍት። ለፋይል ንጽጽር ጥቅም ላይ ይውላል።",
-        "license": "BSD"
-      },
-      "fastXmlParser": {
-        "name": "fast-xml-parser",
-        "version": "^5.3.3",
-        "description": "ለ JavaScript ፈጣን የ XML ተንታኝ (parser)። ለ XML መተንተን እና ማሳመሪያ መሳሪያዎች ጥቅም ላይ ይውላል።",
-        "license": "MIT"
-      },
-      "docx": {
-        "name": "docx",
-        "version": "^9.5.1",
-        "description": "በፕሮግራም የ .docx (Microsoft Word) ሰነዶችን ለማመንጨት የ JavaScript ቤተ-መጽሐፍት።",
-        "license": "MIT"
-      },
-      "gifjs": {
-        "name": "gif.js",
-        "version": "0.2.0",
-        "description": "በፕሮግራም የ .gif ምስሎችን ለማመንጨት የ JavaScript ቤተ-መጽሐፍት።",
-        "license": "MIT"
-      },
-      "jsbarcode": {
-        "name": "jsbarcode",
-        "version": "^3.12.3",
-        "description": "በፕሮግራም ባርኮዶችን ለማመንጨት የ JavaScript ቤተ-መጽሐፍት።",
-        "license": "MIT"
-      },
-      "angularxQrcode": {
-        "name": "angularx-qrcode",
-        "version": "^19.0.0",
-        "description": "በፕሮግራም የ QR ኮዶችን ለማመንጨት የ JavaScript ቤተ-መጽሐፍት።",
-        "license": "MIT"
-      },
-      "jsYaml": {
-        "name": "js-yaml",
-        "version": "^4.0.9",
-        "description": "የ JavaScript YAML ተንታኝ (parser) እና ቆሻሻ መጣያ (dumper)። የ docker-compose YAML ፋይሎችን ለመተንተን ይጠቅማል።",
-        "license": "MIT"
-      },
-      "monacoEditor": {
-        "name": "monaco-editor",
-        "version": "^0.52.2",
-        "description": "የ VS Code ን የሚያንቀሳቅስ በአሳሽ (browser) ላይ የተመሰረተ የኮድ አርታዒ። የላቀ የ syntax ማድመቂያ እና ራስ-አጠናቃቂ (autocomplete) ያቀርባል።",
-        "license": "MIT"
-      },
-      "ngxMonacoEditorV2": {
-        "name": "ngx-monaco-editor-v2",
-        "version": "^19.0.2",
-        "description": "ለዘመናዊ Angular እና ለብቻቸው ለሚቆሙ (standalone) አካላት የተሻሻለ የ Monaco Editor የ Angular ማቀፊያ (wrapper)።",
-        "license": "MIT"
-      },
-      "sqlFormatter": {
-        "name": "sql-formatter",
-        "version": "^15.8.0",
-        "description": "እንደ PostgreSQL, MySQL, እና መደበኛ SQL ያሉ የተለያዩ ዘዬዎችን የሚደግፍ የ SQL መግለጫዎችን ለመቅረጽ እና ለማስዋብ ጠንካራ የ JavaScript ቤተ-መጽሐፍት።",
-        "license": "MIT"
-      },
-      "cryptoJs": {
-        "name": "crypto-js",
-        "version": "^4.2.0",
-        "description": "ለክሪፕቶግራፊክ ስራዎች የ JavaScript ቤተ-መጽሐፍት። ለማስመስጠር (encryption) እና ለመፍታት (decryption) መገልገያዎች ጥቅም ላይ ይውላል።",
-        "license": "MIT"
-      },
-      "pako": {
-        "name": "pako",
-        "version": "^2.1.0",
-        "description": "የ zlib ከፍተኛ-ፍጥነት JavaScript ወደብ (port)። በአሳሽ ውስጥ ለ GZIP እና DEFLATE ማህደር መጭመቅ እና ማውጣት በፍጥነት ጥቅም ላይ ይውላል።",
-        "license": "MIT / Zlib"
-      }
-    },
-    "aiTools": {
-      "title": "የ AI መሳሪያዎች እና ረዳቶች",
-      "githubCopilot": {
-        "name": "GitHub Copilot",
-        "version": "የቅርብ ጊዜ",
-        "description": "ኮድን በብቃት ለመጻፍ የሚረዳ በ AI-የተጎለበተ የኮድ ማጠናቀቂያ ረዳት። GitHub Copilot በዚህ ፕሮጀክት ውስጥ የልማት ስራን ለማፋጠን እና የኮድ ጥራትን ለማሻሻል ትልቅ አስተዋጽኦ አድርጓል።"
-      },
-      "googleGemini": {
-        "name": "Google Gemini Pro",
-        "version": "የቅርብ ጊዜ",
-        "description": "በፕሮጀክቱ ውስጥ የ UI አቀማመጦችን (layouts)፣ የ CSS አርክቴክቸር፣ እና የክፍል ቅጥን (styling) በመንደፍ፣ በማዋቀር እና በማጥራት ላይ የተባበረ የ Google AI ረዳት።"
-      },
-      "chatgpt": {
-        "name": "ChatGPT",
-        "version": "የቅርብ ጊዜ",
-        "description": "በበርካታ የፕሮጀክቱ ክፍሎች ውስጥ ለአርክቴክቸር መመሪያ፣ prompt ማሻሻል፣ ቴክኒካዊ ማብራሪያዎች፣ የውጤት ማረጋገጫዎች እና እርዳታዎች የሚያገለግል የ AI ረዳት።"
-      }
-    },
-    "devDependencies": {
-      "title": "የልማት መሳሪያዎች (Development Tools)"
-    },
-    "thirdPartyLicenses": {
-      "title": "የሶስተኛ ወገን (Third-Party) የፈቃድ መረጃ",
-      "description1": "በ freedevutils ውስጥ ጥቅም ላይ የዋሉ ሁሉም ቤተ-መጻሕፍት MIT፣ Apache 2.0 እና BSD ን ጨምሮ ይፋ-ተኮር ክፍት-ምንጭ ፈቃዶች (permissive open-source licenses) ስር ይገኛሉ። ለዝርዝር የፈቃድ መረጃ እባክዎ የግለሰብ ፕሮጀክት ገጾችን ይጎብኙ።",
-      "description2": "Freedevutils የተሰራው ነፃ እና ክፍት-ምንጭ (open-source) የገንቢ መገልገያዎችን ለማቅረብ ነው። የክፍት-ምንጭ ማህበረሰቡን ስራ ለማክበር እና እውቅና ለመስጠት ቁርጠኞች ነን።",
-      "viewThirdPartyLicenses": "የ 3ኛ ወገን ፈቃዶችን ይመልከቱ",
-      "learnMore": "የበለጠ ይወቁ"
-    }
-  },
-  "releaseNotes": {
-    "title": "የስሪት ማስታወሻዎች እና ፍኖተ ካርታ (Roadmap)",
-    "changeLog": "የለውጥ ማስታወሻ (Change Log)",
-    "todoRoadmap": "የሚሰሩ (Todo) / ፍኖተ ካርታ",
-    "emptyState": "ምንም የስሪት ማስታወሻዎች አይገኙም።",
-    "latest": "የቅርብ ጊዜ",
-    "status": {
-      "planned": "የታቀደ",
-      "inProgress": "በሂደት ላይ",
-      "completed": "ተጠናቅቋል"
-    },
-    "todos": {
-      "multilingual": "ባለብዙ ቋንቋ ድጋፍ ማከል",
-      "lightTheme": "የብርሃን ገጽታ (Light theme) ድጋፍ አክል",
-      "seo": "ለመሳሪያዎች የ SEO ማሻሻያዎችን እና ድጋፍን አክል",
-      "darkMode": "በመተግበሪያው ውስጥ የጨለማ ሁነታን (Dark mode) ይተግብሩ",
-      "design": "መተግበሪያውን ከ dev utils ጋር ዲዛይን ያድርጉ"
-    },
-    "versions": {
-      "v2_1_0": {
-      "changes": {
-        "0": "የተለያዩ ወደ ውጪ መላኪያ አማራጮች ያሉት AI ዝግጁ Use Case Diagram ንድፍ አውጪ ታክሏል።",
-        "1": "ለ PDF ፋይሎች ሁሉንም ያካተቱ መገልገያዎች ያሉት PDF ስቱዲዮ ታክሏል።"
-      },
-      "quote": "አንድ ብልጭታ ጥቂት ያሞቃል። ሺህ ብልጭታዎች በመላው ጋላክሲ የሚታይ የብርሃን ማማ ይሆናሉ.."
-      },
-       "v2_0_1": {
-        "changes": {
-          "0": "የተለያዩ የፋይል ቅርጸቶችን ከነመስመር ቁጥሮች፣ ፈልጎ የመተካት እና የማወዳደር ተግባር ጋር ማየት የሚያስችል፣ Notebook++ የተባለ የመስመር ላይ የጽሑፍ ፋይሎች መመልከቻ ታክሏል።"
+      "versions": {
+        "v2_2_0": {
+          "changes": {
+            "0": "ምንም እንኳን የብዙ ቋንቋ ድጋፍ በመጠባበቅ ላይ ቢሆንም የ AI ቶከን ፍጆታን ለመቆጠብ የ OCR (Optical Character Recognition) Studio ተጨምሯል። ለፕሮጀክቱ የብርሃን ጭብጥ ምዕራፍ ተጠናቋል።"
+          },
+          "quote": "ሌላ ሰው ተስፋ እንዲያመጣ አትጠብቁ። ሌሎች የጠበቁት ተስፋ እርስዎ ይሁኑ።"
         },
-        "quote": "ሺህ ጠላቶችን ልታሸንፍ ትችላለህ፣ ራስህን አሸንፍ እና አንድም ጠላት አይቀርም።"
-      },
-      "v2_0_0": {
-        "changes": {
-          "0": "በዓለም ላይ ላሉ 20 ቋንቋዎች ባለብዙ ቋንቋ ድጋፍ ተጨምሯል",
-          "1": "ከባለብዙ መስመር ወደ አንድ መስመር ቀያሪ ተጨምሯል",
-          "2": "በብዙ የጎደሉ መገልገያዎች ላይ የሰቀላ (upload) ባህሪ ተጨምሯል"
+        "v2_1_0": {
+          "changes": {
+            "0": "የተለያዩ ወደ ውጪ መላኪያ አማራጮች ያሉት AI ዝግጁ Use Case Diagram ንድፍ አውጪ ታክሏል።",
+            "1": "ለ PDF ፋይሎች ሁሉንም ያካተቱ መገልገያዎች ያሉት PDF ስቱዲዮ ታክሏል።"
+          },
+          "quote": "አንድ ብልጭታ ጥቂት ያሞቃል። ሺህ ብልጭታዎች በመላው ጋላክሲ የሚታይ የብርሃን ማማ ይሆናሉ.."
         },
-        "quote": "ወንዝ ጽኑ ነው። በጠንካራው ድንጋይ ውስጥ እንኳን መንገዱን ይቀርጻል። በጥንካሬ ሳይሆን፣ ማቆምን ባለመቀበል ነው። (Persistent, the river is. Through the hardest stone, a path it carves. Not by the strength, but by refusing to stop)"
-      },
-      "v1_2_3": {
-        "changes": {
-          "0": "ከ CSS ወደ SCSS እና ከ SCSS ወደ CSS ቀያሪ መሳሪያ ተጨምሯል",
-          "1": "ተጠቃሚዎች ውሂባቸውን ለ AI አጠቃቀም ደህንነቱ የተጠበቀ ለማድረግ ሚስጥራዊነት ያለውን ውሂብ በአሳሻቸው (browser) ውስጥ አካባቢያዊ በሆነ መንገድ እንዲለዩ (pseudonymize) የውሂብ Pseudonymization ስቱዲዮ ተጨምሯል",
-          "2": "መገልገያዎችን በፍጥነት ለመድረስ እና የተሻለ የተጠቃሚ ተሞክሮ ለማግኘት ምድቦች (Categories) እና አቋራጮች (Shortcuts) ተጨምረዋል"
+        "v2_0_1": {
+          "changes": {
+            "0": "የተለያዩ የፋይል ቅርጸቶችን ከነመስመር ቁጥሮች፣ ፈልጎ የመተካት እና የማወዳደር ተግባር ጋር ማየት የሚያስችል፣ Notebook++ የተባለ የመስመር ላይ የጽሑፍ ፋይሎች መመልከቻ ታክሏል።"
+          },
+          "quote": "ሺህ ጠላቶችን ልታሸንፍ ትችላለህ፣ ራስህን አሸንፍ እና አንድም ጠላት አይቀርም።"
         },
-        "quote": "ቤተመንግስቱ ድንጋይ በድንጋይ ይወለዳል። ትዕግስት መሰረቱ ነው፤ እምነት ምሽጉ ይሆናል።"
-      },
-      "v1_2_2": {
-        "changes": {
-          "0": "በጣም ሲጠበቅ የነበረው የ jasypt መደበቂያ እና መፍቻ መሳሪያ በአሮጌ እና በላቁ ስልተ ቀመሮች (algorithms) ተጨምሯል",
-          "1": "የላቀ የ zip unzip መሳሪያ ተጨምሯል፣ Archive maker ለ tar፣ gzip መጭመቅ እና መፍታት በአሳሽ ውስጥ ተጨምሯል"
+        "v2_0_0": {
+          "changes": {
+            "0": "በዓለም ላይ ላሉ 20 ቋንቋዎች ባለብዙ ቋንቋ ድጋፍ ተጨምሯል",
+            "1": "ከባለብዙ መስመር ወደ አንድ መስመር ቀያሪ ተጨምሯል",
+            "2": "በብዙ የጎደሉ መገልገያዎች ላይ የሰቀላ (upload) ባህሪ ተጨምሯል"
+          },
+          "quote": "ወንዝ ጽኑ ነው። በጠንካራው ድንጋይ ውስጥ እንኳን መንገዱን ይቀርጻል። በጥንካሬ ሳይሆን፣ ማቆምን ባለመቀበል ነው። (Persistent, the river is. Through the hardest stone, a path it carves. Not by the strength, but by refusing to stop)"
         },
-        "quote": "ነፋሱን መታገል ትችላለህ። ከእሱ ተማር፣ ጠቢብ ትሆናለህ። ማዕበሉ ለምን እንዳገኘህ አትጠይቅ። ምን ትምህርት እንደያዘ ጠይቅ።"
-      },
-      "v1_2_1": {
-        "changes": {
-          "0": "የ ER ዲያግራም ገንቢ ተጨምሯል እና የ SQL አስዋቢ ተሻሽሏል",
-          "1": "አርታዒዎች በ syntax ማድመቂያ እና የመስመር ቁጥሮች ተሻሽለዋል።",
-          "2": "የፋይል ሰቀላ ድጋፍ ወደ JSON, XML, CSV, እና Log መገልገያዎች ተጨምሯል።",
-          "3": "የኮድ መጫወቻ ሜዳ በኮድ እገዛ እና በ syntax ማድመቂያ ተሻሽሏል።",
-          "4": "JSON አሳናሽ ከ JSON አስዋቢ/አሳናሽ ጋር ተዋህዷል። የ FreeDevUtils SEO ተስማሚ ድጋፍ ተጨምሯል።"
+        "v1_2_3": {
+          "changes": {
+            "0": "ከ CSS ወደ SCSS እና ከ SCSS ወደ CSS ቀያሪ መሳሪያ ተጨምሯል",
+            "1": "ተጠቃሚዎች ውሂባቸውን ለ AI አጠቃቀም ደህንነቱ የተጠበቀ ለማድረግ ሚስጥራዊነት ያለውን ውሂብ በአሳሻቸው (browser) ውስጥ አካባቢያዊ በሆነ መንገድ እንዲለዩ (pseudonymize) የውሂብ Pseudonymization ስቱዲዮ ተጨምሯል",
+            "2": "መገልገያዎችን በፍጥነት ለመድረስ እና የተሻለ የተጠቃሚ ተሞክሮ ለማግኘት ምድቦች (Categories) እና አቋራጮች (Shortcuts) ተጨምረዋል"
+          },
+          "quote": "ቤተመንግስቱ ድንጋይ በድንጋይ ይወለዳል። ትዕግስት መሰረቱ ነው፤ እምነት ምሽጉ ይሆናል።"
         },
-        "quote": "ችግኙን በቁመቱ አትፍረዱ። በጊዜ ሂደት ለሙሉ ጫካ መጠለያ ሊሰጥ ይችላል።"
-      },
-      "v1_2_0": {
-        "changes": {
-          "0": "የላቀ የ IPv4 እና IPv6 Subnet ማስያ፣ የላቀ የ UML ክፍል ዲያግራም ነዳፊ ተጨምረዋል።",
-          "1": "የአርክቴክቸር ዲያግራም ገንቢ ተጨማሪ ክፍሎችን እንዲያካትት ተሻሽሏል እና ዲያግራም የማስገባት ባህሪ ተጨምሯል፣",
-          "2": "የላቀ የፍሰት ገበታ (flow chart) ገንቢ ተጨምሯል። ከ CSV ወደ SQL ማመንጨት ስክሪፕቱን ለመቀየር (alter) እና ለመሰረዝ (delete) በሚያስችሉ አማራጮች ተሻሽሏል"
+        "v1_2_2": {
+          "changes": {
+            "0": "በጣም ሲጠበቅ የነበረው የ jasypt መደበቂያ እና መፍቻ መሳሪያ በአሮጌ እና በላቁ ስልተ ቀመሮች (algorithms) ተጨምሯል",
+            "1": "የላቀ የ zip unzip መሳሪያ ተጨምሯል፣ Archive maker ለ tar፣ gzip መጭመቅ እና መፍታት በአሳሽ ውስጥ ተጨምሯል"
+          },
+          "quote": "ነፋሱን መታገል ትችላለህ። ከእሱ ተማር፣ ጠቢብ ትሆናለህ። ማዕበሉ ለምን እንዳገኘህ አትጠይቅ። ምን ትምህርት እንደያዘ ጠይቅ።"
         },
-        "quote": "ብቻህን ማደግ ትችላለህ። አብራችሁ ስታድጉ፣ ጉዞው እጅግ የላቀ ይሆናል።"
-      },
-      "v1_1_0": {
-        "changes": {
-          "0": "100% ደህንነቱ የተጠበቀ የ client side ውሂብ ሂደት በእራሳቸው አሳሽ ውስጥ ለማረጋገጥ ባለው ቁርጠኝነት መሰረት፣ በውጫዊ APIs ላይ ሳይደገፉ አብሮ የተሰሩ የ QR ኮድ እና ባርኮድ ማመንጫ ትግበራዎች ተጨምረዋል።",
-          "1": "የአርክቴክቸር ዲያግራም ገንቢ፣ Log ተንታኝ እና መርማሪ፣ AI Prompt ገንቢ፣ የ Spring boot ንብረት (property) ወደ yaml ቀያሪ ተጨምረዋል",
-          "2": "የ Gif አኒሜሽን ማመንጫ፣ Docker Compose እይታ፣ የማይታይ ቁምፊ ተመልካች፣ የ Unicode መርማሪ ተጨምረዋል"
+        "v1_2_1": {
+          "changes": {
+            "0": "የ ER ዲያግራም ገንቢ ተጨምሯል እና የ SQL አስዋቢ ተሻሽሏል",
+            "1": "አርታዒዎች በ syntax ማድመቂያ እና የመስመር ቁጥሮች ተሻሽለዋል።",
+            "2": "የፋይል ሰቀላ ድጋፍ ወደ JSON, XML, CSV, እና Log መገልገያዎች ተጨምሯል።",
+            "3": "የኮድ መጫወቻ ሜዳ በኮድ እገዛ እና በ syntax ማድመቂያ ተሻሽሏል።",
+            "4": "JSON አሳናሽ ከ JSON አስዋቢ/አሳናሽ ጋር ተዋህዷል። የ FreeDevUtils SEO ተስማሚ ድጋፍ ተጨምሯል።"
+          },
+          "quote": "ችግኙን በቁመቱ አትፍረዱ። በጊዜ ሂደት ለሙሉ ጫካ መጠለያ ሊሰጥ ይችላል።"
         },
-        "quote": "ከዋክብትን ተመልከት እና ተማር። በጨለማ ውስጥ ይወለዳሉ፣ ነገር ግን ጨለማውን አይሆኑም።"
-      },
-      "v1_0_0": {
-        "changes": {
-          "0": "ትክክለኛው ስራ ተጀምሯል",
-          "1": "Google analytics ወደ መተግበሪያው ታክሏል",
-          "2": "አስተዋጽኦ ያድርጉ (Contribute)፣ ምስጋናዎች (Credits) እና የስሪት ማስታወሻዎች (Release Notes) ገጾች ገብተዋል",
-          "3": "ለተሻለ የተጠቃሚ ተሞክሮ የጨለማ ገጽታ (dark theme) ተሻሽሏል",
-          "4": "የጨለማ ሁነታ ነባሪ ሆኗል፣ የብርሃን ሁነታ (light mode) በ Todo ዝርዝር ውስጥ ተጨምሯል እና ወደፊት በሚወጡ ስሪቶች ውስጥ ይገኛል"
+        "v1_2_0": {
+          "changes": {
+            "0": "የላቀ የ IPv4 እና IPv6 Subnet ማስያ፣ የላቀ የ UML ክፍል ዲያግራም ነዳፊ ተጨምረዋል።",
+            "1": "የአርክቴክቸር ዲያግራም ገንቢ ተጨማሪ ክፍሎችን እንዲያካትት ተሻሽሏል እና ዲያግራም የማስገባት ባህሪ ተጨምሯል፣",
+            "2": "የላቀ የፍሰት ገበታ (flow chart) ገንቢ ተጨምሯል። ከ CSV ወደ SQL ማመንጨት ስክሪፕቱን ለመቀየር (alter) እና ለመሰረዝ (delete) በሚያስችሉ አማራጮች ተሻሽሏል"
+          },
+          "quote": "ብቻህን ማደግ ትችላለህ። አብራችሁ ስታድጉ፣ ጉዞው እጅግ የላቀ ይሆናል።"
         },
-        "quote": "ተወልደው ጠፍተዋል፣ ስፍር ቁጥር የሌላቸው ከዋክብት ኖረዋል። ጋላክሲው ስማቸውን አያስታውስም ያካፈሉትን ብርሃን ብቻ እንጂ።"
-      },
-      "v0_1_0": {
-        "changes": {
-          "0": "ከኃይሉ (Force) ባገኘው ጥበብ እየተመራ፣ ህብረቱ (Alliance) መሳሪያዎቹን ለመላው የገንቢ ማህበረሰብ ለማካፈል መርጧል። ከpranay's <a style='color:white;background-color:white;' href='https://pranaymokal.github.io/#/devtools'>DevTools</a> መሰረት የተወለደ እና ወደ FreeDevUtils ያደገ።"
+        "v1_1_0": {
+          "changes": {
+            "0": "100% ደህንነቱ የተጠበቀ የ client side ውሂብ ሂደት በእራሳቸው አሳሽ ውስጥ ለማረጋገጥ ባለው ቁርጠኝነት መሰረት፣ በውጫዊ APIs ላይ ሳይደገፉ አብሮ የተሰሩ የ QR ኮድ እና ባርኮድ ማመንጫ ትግበራዎች ተጨምረዋል።",
+            "1": "የአርክቴክቸር ዲያግራም ገንቢ፣ Log ተንታኝ እና መርማሪ፣ AI Prompt ገንቢ፣ የ Spring boot ንብረት (property) ወደ yaml ቀያሪ ተጨምረዋል",
+            "2": "የ Gif አኒሜሽን ማመንጫ፣ Docker Compose እይታ፣ የማይታይ ቁምፊ ተመልካች፣ የ Unicode መርማሪ ተጨምረዋል"
+          },
+          "quote": "ከዋክብትን ተመልከት እና ተማር። በጨለማ ውስጥ ይወለዳሉ፣ ነገር ግን ጨለማውን አይሆኑም።"
         },
-        "quote": "እውቀት እና ሀብቶች፣ ከሁሉም ጋር ሲካፈሉ በጣም ጠንካራ ናቸው። ለራስ ብቻ ከተቀመጡ፣ ትንሽ ዋጋ ይኖራቸዋል።"
-      },
-      "v0_0_1": {
-        "changes": {
-          "0": "ከረጅም ጊዜ በፊት፣ ሩቅ ሩቅ በሆነ ጋላክሲ ውስጥ፣ የገንቢውን ማህበረሰብ ከኢምፓየር (Empire) ለመጠበቅ የ DevTools ህብረት ተወለደ።"
+        "v1_0_0": {
+          "changes": {
+            "0": "ትክክለኛው ስራ ተጀምሯል",
+            "1": "Google analytics ወደ መተግበሪያው ታክሏል",
+            "2": "አስተዋጽኦ ያድርጉ (Contribute)፣ ምስጋናዎች (Credits) እና የስሪት ማስታወሻዎች (Release Notes) ገጾች ገብተዋል",
+            "3": "ለተሻለ የተጠቃሚ ተሞክሮ የጨለማ ገጽታ (dark theme) ተሻሽሏል",
+            "4": "የጨለማ ሁነታ ነባሪ ሆኗል፣ የብርሃን ሁነታ (light mode) በ Todo ዝርዝር ውስጥ ተጨምሯል እና ወደፊት በሚወጡ ስሪቶች ውስጥ ይገኛል"
+          },
+          "quote": "ተወልደው ጠፍተዋል፣ ስፍር ቁጥር የሌላቸው ከዋክብት ኖረዋል። ጋላክሲው ስማቸውን አያስታውስም ያካፈሉትን ብርሃን ብቻ እንጂ።"
         },
-        "quote": "ከግርግር (chaos) ውስጥ፣ ሁሉም ጅማሬዎች ይወጣሉ፣ መንገዱን ያጽዱ እና አላማው ራሱን ይገልጣል።"
+        "v0_1_0": {
+          "changes": {
+            "0": "ከኃይሉ (Force) ባገኘው ጥበብ እየተመራ፣ ህብረቱ (Alliance) መሳሪያዎቹን ለመላው የገንቢ ማህበረሰብ ለማካፈል መርጧል። ከpranay's <a style='color:white;background-color:white;' href='https://pranaymokal.github.io/#/devtools'>DevTools</a> መሰረት የተወለደ እና ወደ FreeDevUtils ያደገ።"
+          },
+          "quote": "እውቀት እና ሀብቶች፣ ከሁሉም ጋር ሲካፈሉ በጣም ጠንካራ ናቸው። ለራስ ብቻ ከተቀመጡ፣ ትንሽ ዋጋ ይኖራቸዋል።"
+        },
+        "v0_0_1": {
+          "changes": {
+            "0": "ከረጅም ጊዜ በፊት፣ ሩቅ ሩቅ በሆነ ጋላክሲ ውስጥ፣ የገንቢውን ማህበረሰብ ከኢምፓየር (Empire) ለመጠበቅ የ DevTools ህብረት ተወለደ።"
+          },
+          "quote": "ከግርግር (chaos) ውስጥ፣ ሁሉም ጅማሬዎች ይወጣሉ፣ መንገዱን ያጽዱ እና አላማው ራሱን ይገልጣል።"
+        }
       }
     }
   }
-}

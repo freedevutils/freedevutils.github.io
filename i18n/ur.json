@@ -1598,73 +1598,106 @@
         "result": "نتیجہ"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "کسی بھی فارمیٹ میں ٹیکسٹ فائلیں پڑھیں، ترمیم کریں اور محفوظ کریں",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "فائل",
-      "newFile": "نئی فائل",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "فائل کھولیں",
-      "openFileShortcut": "Ctrl+O",
-      "save": "محفوظ کریں",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "سب محفوظ کریں...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "باہر نکلیں",
-      "editMenu": "ترمیم",
-      "undo": "انڈو",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "ریڈو",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "کٹ",
-      "copy": "کاپی",
-      "paste": "پیسٹ",
-      "searchMenu": "تلاش",
-      "find": "تلاش کریں",
-      "findShortcut": "Ctrl+F",
-      "replace": "تبدیل کریں",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "ٹولز",
-      "formatDocument": "دستاویز کی وضع کاری کریں",
-      "compareActiveWith": "فعال کا موازنہ کریں...",
-      "explorer": "ایکسپلورر",
-      "openEditors": "کھلے ایڈیٹرز",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "نئی فائل بنانے کے لیے Ctrl+N یا کھولنے کے لیے Ctrl+O دبائیں۔",
-      "ready": "تیار",
-      "lineCol": "لائن {{line}}، کالم {{col}}",
-      "lines": "لائنیں: {{count}}",
-      "chars": "حروف: {{count}}",
-      "noFileOpened": "کوئی فائل نہیں کھلی",
-      "zoom": "زوم: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "یوز کیس ڈایاگرام ڈیزائنر (Use Case Diagram Designer)",
-      "description": "یوز کیس ڈایاگرام ڈیزائن کریں اور AI ریڈی JSON ماڈل، Markdown Doc، SVG اور PNG کے ساتھ ایکسپورٹ کریں",
-      "import-json": "JSON امپورٹ کریں",
-      "export": "ایکسپورٹ",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "AI JSON ماڈل",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF سٹوڈیو",
-      "description": "PDF دستاویزات کے لیے آل ان ون یوٹیلیٹیز",
-      "open": "کھولیں",
-      "save": "محفوظ کریں",
-      "save-as": "محفوظ کریں بطور (Save As)",
-      "print": "پرنٹ کریں",
-      "studio-utilities": "سٹوڈیو یوٹیلیٹیز",
-      "document-viewer": "دستاویز ویور",
-      "metadata-editor": "میٹا ڈیٹا ایڈیٹر",
-      "merge-pdf": "PDF مرج کریں",
-      "split-pdf": "PDF سپلٹ کریں",
-      "extract-images": "تصاویر نکالیں (Extract Images)",
-      "compress": "کمپریس کریں (آپٹیمائز)",
-      "browse-file": "فائل براؤز کریں",
-      "browse-message": "ایڈیٹنگ شروع کرنے کے لیے PDF منتخب کریں یا ڈریگ کریں"
-    }
+        "title": "Notebook ++",
+        "description": "کسی بھی فارمیٹ میں ٹیکسٹ فائلیں پڑھیں، ترمیم کریں اور محفوظ کریں",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "فائل",
+        "newFile": "نئی فائل",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "فائل کھولیں",
+        "openFileShortcut": "Ctrl+O",
+        "save": "محفوظ کریں",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "سب محفوظ کریں...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "باہر نکلیں",
+        "editMenu": "ترمیم",
+        "undo": "انڈو",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "ریڈو",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "کٹ",
+        "copy": "کاپی",
+        "paste": "پیسٹ",
+        "searchMenu": "تلاش",
+        "find": "تلاش کریں",
+        "findShortcut": "Ctrl+F",
+        "replace": "تبدیل کریں",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "ٹولز",
+        "formatDocument": "دستاویز کی وضع کاری کریں",
+        "compareActiveWith": "فعال کا موازنہ کریں...",
+        "explorer": "ایکسپلورر",
+        "openEditors": "کھلے ایڈیٹرز",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "نئی فائل بنانے کے لیے Ctrl+N یا کھولنے کے لیے Ctrl+O دبائیں۔",
+        "ready": "تیار",
+        "lineCol": "لائن {{line}}، کالم {{col}}",
+        "lines": "لائنیں: {{count}}",
+        "chars": "حروف: {{count}}",
+        "noFileOpened": "کوئی فائل نہیں کھلی",
+        "zoom": "زوم: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "یوز کیس ڈایاگرام ڈیزائنر (Use Case Diagram Designer)",
+        "description": "یوز کیس ڈایاگرام ڈیزائن کریں اور AI ریڈی JSON ماڈل، Markdown Doc، SVG اور PNG کے ساتھ ایکسپورٹ کریں",
+        "import-json": "JSON امپورٹ کریں",
+        "export": "ایکسپورٹ",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON ماڈل",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF سٹوڈیو",
+        "description": "PDF دستاویزات کے لیے آل ان ون یوٹیلیٹیز",
+        "open": "کھولیں",
+        "save": "محفوظ کریں",
+        "save-as": "محفوظ کریں بطور (Save As)",
+        "print": "پرنٹ کریں",
+        "studio-utilities": "سٹوڈیو یوٹیلیٹیز",
+        "document-viewer": "دستاویز ویور",
+        "metadata-editor": "میٹا ڈیٹا ایڈیٹر",
+        "merge-pdf": "PDF مرج کریں",
+        "split-pdf": "PDF سپلٹ کریں",
+        "extract-images": "تصاویر نکالیں (Extract Images)",
+        "compress": "کمپریس کریں (آپٹیمائز)",
+        "browse-file": "فائل براؤز کریں",
+        "browse-message": "ایڈیٹنگ شروع کرنے کے لیے PDF منتخب کریں یا ڈریگ کریں"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "OCR Studio کا استعمال کرتے ہوئے تصاویر اور PDF سے متن، ٹیبلز اور سٹرکچرڈ ڈیٹا نکالیں۔ AI کی دنیا میں تصاویر کو براہ راست اپ لوڈ کرنے کے بجائے ان سے متن نکال کر ٹوکن بچانے کے لیے مفید ہے۔",
+        "upload-or-paste-image": "تصویر اپ لوڈ کریں یا پیسٹ کریں",
+        "paste-image-url": "تصویر کا URL پیسٹ کریں",
+        "supported-formats": "تائید شدہ فارمیٹس: JPG, PNG, WEBP, BMP, PDF",
+        "options": "اختیارات",
+        "ocr-mode": "OCR موڈ",
+        "ocr-mode-description": "نکالنے کی وہ قسم منتخب کریں جو آپ انجام دینا چاہتے ہیں۔",
+        "ocr-languages": "OCR زبانیں",
+        "ocr-languages-description": "تصویر میں پہچاننے کے لیے زبانیں منتخب کریں۔",
+        "ocr-output": "OCR آؤٹ پٹ",
+        "extract-text": "متن نکالیں",
+        "extract-tables": "ٹیبلز نکالیں",
+        "extract-text-and-tables": "متن اور ٹیبلز نکالیں",
+        "export": "ایکسپورٹ کریں",
+        "clear": "صاف کریں",
+        "download-json": "JSON ڈاؤن لوڈ کریں",
+        "download-text": "متن ڈاؤن لوڈ کریں",
+        "no-file-selected": "کوئی فائل منتخب نہیں کی گئی",
+        "preview": "پیش نظارہ",
+        "ocr-scanning": "OCR اسکین ہو رہا ہے...",
+        "ocr-processing-please-wait": "OCR پروسیسنگ جاری ہے... براہ کرم انتظار کریں۔",
+        "no-text-extracted": "کوئی متن نہیں نکالا گیا",
+        "no-tables-extracted": "کوئی ٹیبل نہیں نکالا گیا",
+        "text": "متن",
+        "tables": "ٹیبلز",
+        "rows": "قطاریں",
+        "columns": "کالمز",
+        "cell": "سیل",
+        "select-file": "ایک فائل منتخب کریں",
+        "drag-and-drop-here": "اپنی تصویر یا PDF یہاں ڈریگ اور ڈراپ کریں"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "dev utils کے ساتھ ایپلیکیشن ڈیزائن کریں"
     },
     "versions": {
-      "v2_1_0": {
-      "changes": {
-        "0": "مختلف ایکسپورٹ آپشنز کے ساتھ AI ریڈی یوز کیس ڈایاگرام ڈیزائنر شامل کیا گیا۔",
-        "1": "PDF فائلوں کے لیے آل ان ون یوٹیلیٹیز کے ساتھ PDF سٹوڈیو شامل کیا گیا۔"
+      "v2_2_0": {
+        "changes": {
+          "0": "اگرچہ کثیر لسانی تعاون زیر التوا ہے، AI ٹوکن کی کھپت کو بچانے کے لیے OCR (Optical Character Recognition) Studio شامل کر دیا گیا۔ پروجیکٹ کے لیے لائٹ تھیم کا سنگ میل مکمل ہو گیا۔"
+        },
+        "quote": "کسی اور کے امید لانے کا انتظار نہ کریں۔ وہ امید بنیں جس کا دوسروں کو انتظار تھا۔"
       },
-      "quote": "ایک چنگاری کم گرمی دیتی ہے۔ ہزار چنگاریاں مل کر ایک ایسا مینارہ بن جاتی ہیں جو پوری کہکشاں میں نظر آتا ہے۔"
-    },
-       "v2_0_1": {
+      "v2_1_0": {
+        "changes": {
+          "0": "مختلف ایکسپورٹ آپشنز کے ساتھ AI ریڈی یوز کیس ڈایاگرام ڈیزائنر شامل کیا گیا۔",
+          "1": "PDF فائلوں کے لیے آل ان ون یوٹیلیٹیز کے ساتھ PDF سٹوڈیو شامل کیا گیا۔"
+        },
+        "quote": "ایک چنگاری کم گرمی دیتی ہے۔ ہزار چنگاریاں مل کر ایک ایسا مینارہ بن جاتی ہیں جو پوری کہکشاں میں نظر آتا ہے۔"
+      },
+      "v2_0_1": {
         "changes": {
           "0": "مختلف فائل فارمیٹس کے لیے سنٹیکس ہائی لائٹر، لائن نمبرز، تلاش اور تبدیل (find and replace) اور موازنہ کرنے کی خصوصیات کے ساتھ ایک آن لائن ٹیکسٹ فائل ویور Notebook++ شامل کیا گیا ہے۔"
         },
-        "quote":"تم ہزار دشمنوں کو فتح کر سکتے ہو، لیکن خود کو فتح کرو اور کوئی دشمن باقی نہیں رہے گا۔"
+        "quote": "تم ہزار دشمنوں کو فتح کر سکتے ہو، لیکن خود کو فتح کرو اور کوئی دشمن باقی نہیں رہے گا۔"
       },
       "v2_0_0": {
         "changes": {

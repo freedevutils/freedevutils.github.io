@@ -1598,73 +1598,106 @@
         "result": "Hasil"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Baca, Edit, Simpan file teks dalam format apa pun",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Berkas",
-      "newFile": "Berkas Baru",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Buka Berkas",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Simpan",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Simpan Semua...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Keluar",
-      "editMenu": "Edit",
-      "undo": "Urungkan",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Ulangi",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Potong",
-      "copy": "Salin",
-      "paste": "Tempel",
-      "searchMenu": "Cari",
-      "find": "Temukan",
-      "findShortcut": "Ctrl+F",
-      "replace": "Ganti",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Alat",
-      "formatDocument": "Format Dokumen",
-      "compareActiveWith": "Bandingkan yang Aktif dengan...",
-      "explorer": "Penjelajah",
-      "openEditors": "Editor Terbuka",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Tekan Ctrl+N untuk membuat berkas baru atau Ctrl+O untuk membuka.",
-      "ready": "Siap",
-      "lineCol": "Brs {{line}}, Kol {{col}}",
-      "lines": "Baris: {{count}}",
-      "chars": "Karakter: {{count}}",
-      "noFileOpened": "Tidak Ada Berkas yang Terbuka",
-      "zoom": "Perbesaran: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Desainer Use Case Diagram",
-      "description": "Desain Use Case Diagram dan ekspor dengan model JSON AI Ready, Dokumen Markdown, SVG, dan PNG",
-      "import-json": "Impor JSON",
-      "export": "Ekspor",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Model AI JSON",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Utilitas Semua dalam Satu untuk Dokumen PDF",
-      "open": "Buka",
-      "save": "Simpan",
-      "save-as": "Simpan Sebagai",
-      "print": "Cetak",
-      "studio-utilities": "Utilitas Studio",
-      "document-viewer": "Penampil Dokumen",
-      "metadata-editor": "Editor Metadata",
-      "merge-pdf": "Gabungkan PDF",
-      "split-pdf": "Pisahkan PDF",
-      "extract-images": "Ekstrak Gambar",
-      "compress": "Kompres (Optimalkan)",
-      "browse-file": "Telusuri File",
-      "browse-message": "Pilih atau seret PDF untuk mulai mengedit"
-    }
+        "title": "Notebook ++",
+        "description": "Baca, Edit, Simpan file teks dalam format apa pun",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Berkas",
+        "newFile": "Berkas Baru",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Buka Berkas",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Simpan",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Simpan Semua...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Keluar",
+        "editMenu": "Edit",
+        "undo": "Urungkan",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Ulangi",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Potong",
+        "copy": "Salin",
+        "paste": "Tempel",
+        "searchMenu": "Cari",
+        "find": "Temukan",
+        "findShortcut": "Ctrl+F",
+        "replace": "Ganti",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Alat",
+        "formatDocument": "Format Dokumen",
+        "compareActiveWith": "Bandingkan yang Aktif dengan...",
+        "explorer": "Penjelajah",
+        "openEditors": "Editor Terbuka",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Tekan Ctrl+N untuk membuat berkas baru atau Ctrl+O untuk membuka.",
+        "ready": "Siap",
+        "lineCol": "Brs {{line}}, Kol {{col}}",
+        "lines": "Baris: {{count}}",
+        "chars": "Karakter: {{count}}",
+        "noFileOpened": "Tidak Ada Berkas yang Terbuka",
+        "zoom": "Perbesaran: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Desainer Use Case Diagram",
+        "description": "Desain Use Case Diagram dan ekspor dengan model JSON AI Ready, Dokumen Markdown, SVG, dan PNG",
+        "import-json": "Impor JSON",
+        "export": "Ekspor",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Model AI JSON",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Utilitas Semua dalam Satu untuk Dokumen PDF",
+        "open": "Buka",
+        "save": "Simpan",
+        "save-as": "Simpan Sebagai",
+        "print": "Cetak",
+        "studio-utilities": "Utilitas Studio",
+        "document-viewer": "Penampil Dokumen",
+        "metadata-editor": "Editor Metadata",
+        "merge-pdf": "Gabungkan PDF",
+        "split-pdf": "Pisahkan PDF",
+        "extract-images": "Ekstrak Gambar",
+        "compress": "Kompres (Optimalkan)",
+        "browse-file": "Telusuri File",
+        "browse-message": "Pilih atau seret PDF untuk mulai mengedit"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Ekstrak teks, tabel, dan data terstruktur dari gambar dan PDF menggunakan OCR Studio. Berguna di dunia AI untuk menghemat token dengan mengekstrak teks dari gambar alih-alih mengunggah gambar secara langsung.",
+        "upload-or-paste-image": "Unggah atau Tempel Gambar",
+        "paste-image-url": "Tempel URL Gambar",
+        "supported-formats": "Format yang Didukung: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Opsi",
+        "ocr-mode": "Mode OCR",
+        "ocr-mode-description": "Pilih jenis ekstraksi yang ingin Anda lakukan.",
+        "ocr-languages": "Bahasa OCR",
+        "ocr-languages-description": "Pilih bahasa yang akan dideteksi pada gambar.",
+        "ocr-output": "Keluaran OCR",
+        "extract-text": "Ekstrak Teks",
+        "extract-tables": "Ekstrak Tabel",
+        "extract-text-and-tables": "Ekstrak Teks dan Tabel",
+        "export": "Ekspor",
+        "clear": "Bersihkan",
+        "download-json": "Unduh JSON",
+        "download-text": "Unduh Teks",
+        "no-file-selected": "Tidak ada file yang dipilih",
+        "preview": "Pratinjau",
+        "ocr-scanning": "Memindai OCR...",
+        "ocr-processing-please-wait": "Memproses OCR... Harap tunggu.",
+        "no-text-extracted": "Tidak ada teks yang diekstrak",
+        "no-tables-extracted": "Tidak ada tabel yang diekstrak",
+        "text": "Teks",
+        "tables": "Tabel",
+        "rows": "Baris",
+        "columns": "Kolom",
+        "cell": "Sel",
+        "select-file": "Pilih File",
+        "drag-and-drop-here": "Seret dan letakkan gambar atau PDF Anda di sini"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Mendesain aplikasi dengan utilitas pengembang"
     },
     "versions": {
-      "v2_1_0": {
-      "changes": {
-        "0": "Ditambahkan Desainer Use Case Diagram AI Ready dengan berbagai pilihan ekspor.",
-        "1": "Ditambahkan PDF Studio dengan utilitas semua dalam satu untuk file PDF"
+      "v2_2_0": {
+        "changes": {
+          "0": "Menambahkan OCR (Optical Character Recognition) Studio untuk menghemat konsumsi token AI meskipun dukungan multibahasa masih tertunda. Menyelesaikan Pencapaian Tema Terang (Light Theme) untuk proyek."
+        },
+        "quote": "Jangan menunggu orang lain untuk membawa harapan. Jadilah harapan yang selama ini ditunggu-tunggu oleh orang lain."
       },
-      "quote": "Satu percikan memberi sedikit kehangatan. Seribu percikan menjadi suar yang terlihat di seluruh galaksi.."
-    },
-       "v2_0_1": {
+      "v2_1_0": {
+        "changes": {
+          "0": "Ditambahkan Desainer Use Case Diagram AI Ready dengan berbagai pilihan ekspor.",
+          "1": "Ditambahkan PDF Studio dengan utilitas semua dalam satu untuk file PDF"
+        },
+        "quote": "Satu percikan memberi sedikit kehangatan. Seribu percikan menjadi suar yang terlihat di seluruh galaksi.."
+      },
+      "v2_0_1": {
         "changes": {
           "0": "Menambahkan Notebook++, penampil file teks online dengan sorotan sintaks untuk berbagai format file, dilengkapi nomor baris, fitur cari dan ganti, serta fungsionalitas perbandingan."
         },
-        "quote":"Anda mungkin bisa menaklukkan seribu musuh, tetapi taklukkan diri Anda sendiri dan tidak akan ada musuh yang tersisa."
+        "quote": "Anda mungkin bisa menaklukkan seribu musuh, tetapi taklukkan diri Anda sendiri dan tidak akan ada musuh yang tersisa."
       },
       "v2_0_0": {
         "changes": {

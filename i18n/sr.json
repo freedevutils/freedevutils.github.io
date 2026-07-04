@@ -1598,73 +1598,106 @@
         "result": "Rezultat"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Читајте, уређујте и чувајте текстуалне датотеке у било ком формату",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Датотека",
-      "newFile": "Нова датотека",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Отвори датотеку",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Сачувај",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Сачувај све...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Излаз",
-      "editMenu": "Уређивање",
-      "undo": "Опозови",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Понови",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Исеци",
-      "copy": "Копирај",
-      "paste": "Налепи",
-      "searchMenu": "Претрага",
-      "find": "Пронађи",
-      "findShortcut": "Ctrl+F",
-      "replace": "Замени",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Алатке",
-      "formatDocument": "Форматирај документ",
-      "compareActiveWith": "Упореди активно са...",
-      "explorer": "Истраживач",
-      "openEditors": "Отворени уређивачи",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Притисните Ctrl+N да бисте направили нову датотеку или Ctrl+O да бисте отворили.",
-      "ready": "Спремно",
-      "lineCol": "Ред {{line}}, Кол {{col}}",
-      "lines": "Редови: {{count}}",
-      "chars": "Знакови: {{count}}",
-      "noFileOpened": "Ниједна датотека није отворена",
-      "zoom": "Зумирање: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Дизајнер Use Case дијаграма",
-      "description": "Дизајнирајте Use Case дијаграм и извезите са AI-спремним JSON моделом, Markdown документом, SVG и PNG",
-      "import-json": "Увези JSON",
-      "export": "Извези",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "AI JSON модел",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Све-у-једном алати за PDF документе",
-      "open": "Отвори",
-      "save": "Сачувај",
-      "save-as": "Сачувај као",
-      "print": "Штампај",
-      "studio-utilities": "Studio алати",
-      "document-viewer": "Прегледач докумената",
-      "metadata-editor": "Уређивач метаподатака",
-      "merge-pdf": "Споји PDF-ове",
-      "split-pdf": "Подели PDF",
-      "extract-images": "Издвој слике",
-      "compress": "Компресуј (Оптимизуј)",
-      "browse-file": "Прегледај датотеку",
-      "browse-message": "Изаберите или превуците PDF да бисте започели уређивање"
-    }
+        "title": "Notebook ++",
+        "description": "Читајте, уређујте и чувајте текстуалне датотеке у било ком формату",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Датотека",
+        "newFile": "Нова датотека",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Отвори датотеку",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Сачувај",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Сачувај све...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Излаз",
+        "editMenu": "Уређивање",
+        "undo": "Опозови",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Понови",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Исеци",
+        "copy": "Копирај",
+        "paste": "Налепи",
+        "searchMenu": "Претрага",
+        "find": "Пронађи",
+        "findShortcut": "Ctrl+F",
+        "replace": "Замени",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Алатке",
+        "formatDocument": "Форматирај документ",
+        "compareActiveWith": "Упореди активно са...",
+        "explorer": "Истраживач",
+        "openEditors": "Отворени уређивачи",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Притисните Ctrl+N да бисте направили нову датотеку или Ctrl+O да бисте отворили.",
+        "ready": "Спремно",
+        "lineCol": "Ред {{line}}, Кол {{col}}",
+        "lines": "Редови: {{count}}",
+        "chars": "Знакови: {{count}}",
+        "noFileOpened": "Ниједна датотека није отворена",
+        "zoom": "Зумирање: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Дизајнер Use Case дијаграма",
+        "description": "Дизајнирајте Use Case дијаграм и извезите са AI-спремним JSON моделом, Markdown документом, SVG и PNG",
+        "import-json": "Увези JSON",
+        "export": "Извези",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON модел",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Све-у-једном алати за PDF документе",
+        "open": "Отвори",
+        "save": "Сачувај",
+        "save-as": "Сачувај као",
+        "print": "Штампај",
+        "studio-utilities": "Studio алати",
+        "document-viewer": "Прегледач докумената",
+        "metadata-editor": "Уређивач метаподатака",
+        "merge-pdf": "Споји PDF-ове",
+        "split-pdf": "Подели PDF",
+        "extract-images": "Издвој слике",
+        "compress": "Компресуј (Оптимизуј)",
+        "browse-file": "Прегледај датотеку",
+        "browse-message": "Изаберите или превуците PDF да бисте започели уређивање"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Izdvojite tekst, tabele i strukturisane podatke iz slika i PDF-ova koristeći OCR Studio. Korisno u svetu veštačke inteligencije za uštedu tokena izdvajanjem teksta iz slika umesto njihovog direktnog otpremanja.",
+        "upload-or-paste-image": "Otpremi ili nalepi sliku",
+        "paste-image-url": "Nalepi URL slike",
+        "supported-formats": "Podržani formati: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Opcije",
+        "ocr-mode": "OCR režim",
+        "ocr-mode-description": "Izaberite tip izdvajanja koji želite da izvršite.",
+        "ocr-languages": "OCR jezici",
+        "ocr-languages-description": "Izaberite jezike za prepoznavanje na slici.",
+        "ocr-output": "OCR izlaz",
+        "extract-text": "Izdvoji tekst",
+        "extract-tables": "Izdvoji tabele",
+        "extract-text-and-tables": "Izdvoji tekst i tabele",
+        "export": "Izvezi",
+        "clear": "Obriši",
+        "download-json": "Preuzmi JSON",
+        "download-text": "Preuzmi tekst",
+        "no-file-selected": "Nijedan fajl nije izabran",
+        "preview": "Pregled",
+        "ocr-scanning": "OCR skeniranje...",
+        "ocr-processing-please-wait": "OCR obrada... Molimo sačekajte.",
+        "no-text-extracted": "Tekst nije izdvojen",
+        "no-tables-extracted": "Tabele nisu izdvojene",
+        "text": "Tekst",
+        "tables": "Tabele",
+        "rows": "Redovi",
+        "columns": "Kolone",
+        "cell": "Ćelija",
+        "select-file": "Izaberi fajl",
+        "drag-and-drop-here": "Prevuci i pusti sliku ili PDF ovde"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Dizajniranje aplikacije sa dev alatima"
     },
     "versions": {
-      "v2_1_0": {
-      "changes": {
-        "0": "Додат AI-спреман дизајнер Use Case дијаграма са различитим опцијама извоза.",
-        "1": "Додат PDF Studio са Све-у-једном алатима за PDF датотеке."
+      "v2_2_0": {
+        "changes": {
+          "0": "Dodat je OCR (Optical Character Recognition) Studio radi uštede AI tokena, iako je višejezična podrška još na čekanju. Završena je faza svetle teme (Light Theme) za projekat."
+        },
+        "quote": "Ne čekaj da drugi donese nadu. Postani nada koju su drugi čekali."
       },
-      "quote": "Једна искра мало греје. Хиљаду искри постаје светионик који се види широм галаксије.."
-    },
-       "v2_0_1": {
+      "v2_1_0": {
+        "changes": {
+          "0": "Додат AI-спреман дизајнер Use Case дијаграма са различитим опцијама извоза.",
+          "1": "Додат PDF Studio са Све-у-једном алатима за PDF датотеке."
+        },
+        "quote": "Једна искра мало греје. Хиљаду искри постаје светионик који се види широм галаксије.."
+      },
+      "v2_0_1": {
         "changes": {
           "0": "Dodat je Notebook++, onlajn pregledač tekstualnih datoteka sa isticanjem sintakse za različite formate datoteka, brojevima linija, funkcijom za pretragu i zamenu, kao i opcijom poređenja."
         },
-        "quote":"možeš da pobediš hiljadu neprijatelja, ali pobedi sebe i ni jedan neprijatelj neće ostati."
+        "quote": "možeš da pobediš hiljadu neprijatelja, ali pobedi sebe i ni jedan neprijatelj neće ostati."
       },
       "v2_0_0": {
         "changes": {

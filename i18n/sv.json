@@ -1664,6 +1664,39 @@
         "compress": "Komprimera (Optimera)",
         "browse-file": "Bläddra efter fil",
         "browse-message": "Välj eller dra en PDF för att börja redigera"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Extrahera text, tabeller och strukturerad data från bilder och PDF-filer med OCR Studio. Användbart inom AI-världen för att spara tokens genom att extrahera text från bilder i stället för att ladda upp dem direkt.",
+        "upload-or-paste-image": "Ladda upp eller klistra in bild",
+        "paste-image-url": "Klistra in bild-URL",
+        "supported-formats": "Format som stöds: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Alternativ",
+        "ocr-mode": "OCR-läge",
+        "ocr-mode-description": "Välj den typ av extrahering du vill utföra.",
+        "ocr-languages": "OCR-språk",
+        "ocr-languages-description": "Välj de språk som ska identifieras i bilden.",
+        "ocr-output": "OCR-utdata",
+        "extract-text": "Extrahera text",
+        "extract-tables": "Extrahera tabeller",
+        "extract-text-and-tables": "Extrahera text och tabeller",
+        "export": "Exportera",
+        "clear": "Rensa",
+        "download-json": "Ladda ner JSON",
+        "download-text": "Ladda ner text",
+        "no-file-selected": "Ingen fil vald",
+        "preview": "Förhandsgranskning",
+        "ocr-scanning": "OCR-skanning...",
+        "ocr-processing-please-wait": "OCR-bearbetar... Vänligen vänta.",
+        "no-text-extracted": "Ingen text extraherad",
+        "no-tables-extracted": "Inga tabeller extraherade",
+        "text": "Text",
+        "tables": "Tabeller",
+        "rows": "Rader",
+        "columns": "Kolumner",
+        "cell": "Cell",
+        "select-file": "Välj en fil",
+        "drag-and-drop-here": "Dra och släpp din bild eller PDF här"
       }
     }
   },
@@ -1996,6 +2029,12 @@
       "design": "Designa applikation med dev utils"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Lade till OCR (Optical Character Recognition) Studio för att spara AI-tokenförbrukning trots att flerspråkigt stöd inväntas. Slutförde milstolpen med ljust tema (Light Theme) för projektet."
+        },
+        "quote": "Vänta inte på att någon annan ska ge hopp. Bli det hopp som andra har väntat på."
+      },
       "v2_1_0": {
         "changes": {
           "0": "Lade till AI-redo Use Case Diagram Designer med olika exportalternativ.",

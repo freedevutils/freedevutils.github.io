@@ -1598,73 +1598,106 @@
         "result": "نتیجه"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "خواندن، ویرایش و ذخیره فایل‌های متنی در هر فرمتی",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "فایل",
-      "newFile": "فایل جدید",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "باز کردن فایل",
-      "openFileShortcut": "Ctrl+O",
-      "save": "ذخیره",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "ذخیره همه...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "خروج",
-      "editMenu": "ویرایش",
-      "undo": "لغو",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "بازانجام",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "برش",
-      "copy": "کپی",
-      "paste": "چسباندن",
-      "searchMenu": "جستجو",
-      "find": "یافتن",
-      "findShortcut": "Ctrl+F",
-      "replace": "جایگزینی",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "ابزارها",
-      "formatDocument": "قالب‌بندی سند",
-      "compareActiveWith": "مقایسه فعال با...",
-      "explorer": "جستجوگر",
-      "openEditors": "ویرایشگرهای باز",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "برای ایجاد فایل جدید Ctrl+N یا برای باز کردن فایل Ctrl+O را فشار دهید.",
-      "ready": "آماده",
-      "lineCol": "خط {{line}}، ستون {{col}}",
-      "lines": "خطوط: {{count}}",
-      "chars": "نویسه‌ها: {{count}}",
-      "noFileOpened": "هیچ فایلی باز نیست",
-      "zoom": "بزرگنمایی: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "طراح نمودار مورد کاربرد (Use Case Diagram)",
-      "description": "طراحی نمودار مورد کاربرد و خروجی گرفتن با مدل JSON آماده هوش مصنوعی، مستندات Markdown، SVG و PNG",
-      "import-json": "وارد کردن JSON",
-      "export": "خروجی",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "مدل AI JSON",
-      "export-as-markdown": "مستندات Markdown"
-    },
-    "pdf-studio": {
-      "title": "استودیو PDF",
-      "description": "ابزارهای همه‌کاره برای اسناد PDF",
-      "open": "باز کردن",
-      "save": "ذخیره",
-      "save-as": "ذخیره به عنوان",
-      "print": "چاپ",
-      "studio-utilities": "ابزارهای استودیو",
-      "document-viewer": "نمایشگر سند",
-      "metadata-editor": "ویرایشگر فراداده (Metadata)",
-      "merge-pdf": "ادغام PDFها",
-      "split-pdf": "تقسیم PDF",
-      "extract-images": "استخراج تصاویر",
-      "compress": "فشرده‌سازی (بهینه‌سازی)",
-      "browse-file": "جستجوی فایل",
-      "browse-message": "یک فایل PDF را برای شروع ویرایش انتخاب کنید یا بکشید"
-    }
+        "title": "Notebook ++",
+        "description": "خواندن، ویرایش و ذخیره فایل‌های متنی در هر فرمتی",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "فایل",
+        "newFile": "فایل جدید",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "باز کردن فایل",
+        "openFileShortcut": "Ctrl+O",
+        "save": "ذخیره",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "ذخیره همه...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "خروج",
+        "editMenu": "ویرایش",
+        "undo": "لغو",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "بازانجام",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "برش",
+        "copy": "کپی",
+        "paste": "چسباندن",
+        "searchMenu": "جستجو",
+        "find": "یافتن",
+        "findShortcut": "Ctrl+F",
+        "replace": "جایگزینی",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "ابزارها",
+        "formatDocument": "قالب‌بندی سند",
+        "compareActiveWith": "مقایسه فعال با...",
+        "explorer": "جستجوگر",
+        "openEditors": "ویرایشگرهای باز",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "برای ایجاد فایل جدید Ctrl+N یا برای باز کردن فایل Ctrl+O را فشار دهید.",
+        "ready": "آماده",
+        "lineCol": "خط {{line}}، ستون {{col}}",
+        "lines": "خطوط: {{count}}",
+        "chars": "نویسه‌ها: {{count}}",
+        "noFileOpened": "هیچ فایلی باز نیست",
+        "zoom": "بزرگنمایی: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "طراح نمودار مورد کاربرد (Use Case Diagram)",
+        "description": "طراحی نمودار مورد کاربرد و خروجی گرفتن با مدل JSON آماده هوش مصنوعی، مستندات Markdown، SVG و PNG",
+        "import-json": "وارد کردن JSON",
+        "export": "خروجی",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "مدل AI JSON",
+        "export-as-markdown": "مستندات Markdown"
+      },
+      "pdf-studio": {
+        "title": "استودیو PDF",
+        "description": "ابزارهای همه‌کاره برای اسناد PDF",
+        "open": "باز کردن",
+        "save": "ذخیره",
+        "save-as": "ذخیره به عنوان",
+        "print": "چاپ",
+        "studio-utilities": "ابزارهای استودیو",
+        "document-viewer": "نمایشگر سند",
+        "metadata-editor": "ویرایشگر فراداده (Metadata)",
+        "merge-pdf": "ادغام PDFها",
+        "split-pdf": "تقسیم PDF",
+        "extract-images": "استخراج تصاویر",
+        "compress": "فشرده‌سازی (بهینه‌سازی)",
+        "browse-file": "جستجوی فایل",
+        "browse-message": "یک فایل PDF را برای شروع ویرایش انتخاب کنید یا بکشید"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "متن، جداول و داده‌های ساختاریافته را با استفاده از OCR Studio از تصاویر و فایل‌های PDF استخراج کنید. این ابزار در دنیای هوش مصنوعی برای صرفه‌جویی در توکن‌ها از طریق استخراج متن به جای آپلود مستقیم تصاویر بسیار مفید است.",
+        "upload-or-paste-image": "آپلود یا چسباندن تصویر",
+        "paste-image-url": "چسباندن آدرس تصویر",
+        "supported-formats": "فرمت‌های پشتیبانی شده: JPG, PNG, WEBP, BMP, PDF",
+        "options": "گزینه‌ها",
+        "ocr-mode": "حالت OCR",
+        "ocr-mode-description": "نوع استخراجی را که می‌خواهید انجام دهید انتخاب کنید.",
+        "ocr-languages": "زبان‌های OCR",
+        "ocr-languages-description": "زبان‌هایی را برای تشخیص در تصویر انتخاب کنید.",
+        "ocr-output": "خروجی OCR",
+        "extract-text": "استخراج متن",
+        "extract-tables": "استخراج جداول",
+        "extract-text-and-tables": "استخراج متن و جداول",
+        "export": "خروجی گرفتن",
+        "clear": "پاک کردن",
+        "download-json": "دانلود JSON",
+        "download-text": "دانلود متن",
+        "no-file-selected": "هیچ فایلی انتخاب نشده است",
+        "preview": "پیش‌نمایش",
+        "ocr-scanning": "در حال اسکن OCR...",
+        "ocr-processing-please-wait": "در حال پردازش OCR... لطفاً منتظر بمانید.",
+        "no-text-extracted": "هیچ متنی استخراج نشد",
+        "no-tables-extracted": "هیچ جدولی استخراج نشد",
+        "text": "متن",
+        "tables": "جداول",
+        "rows": "ردیف‌ها",
+        "columns": "ستون‌ها",
+        "cell": "سلول",
+        "select-file": "یک فایل انتخاب کنید",
+        "drag-and-drop-here": "تصویر یا فایل PDF خود را اینجا بکشید و رها کنید"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "طراحی برنامه با ابزارهای توسعه (dev utils)"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "ابزار OCR (Optical Character Recognition) Studio برای صرفه‌جویی در مصرف توکن هوش مصنوعی اضافه شد، اگرچه پشتیبانی چندزبانه هنوز در انتظار است. مایلستون تم روشن (Light Theme) برای پروژه تکمیل شد."
+        },
+        "quote": "منتظر دیگری نباشید تا امید بیاورد. همان امیدی باشید که دیگران منتظرش بوده‌اند."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "طراح نمودار مورد کاربرد آماده هوش مصنوعی با گزینه‌های متنوع خروجی اضافه شد.",
-        "1": "استودیو PDF با ابزارهای همه‌کاره برای فایل‌های PDF اضافه شد."
+        "changes": {
+          "0": "طراح نمودار مورد کاربرد آماده هوش مصنوعی با گزینه‌های متنوع خروجی اضافه شد.",
+          "1": "استودیو PDF با ابزارهای همه‌کاره برای فایل‌های PDF اضافه شد."
+        },
+        "quote": "یک جرقه گرمای کمی می‌بخشد. هزاران جرقه به فانوسی تبدیل می‌شوند که در سراسر کهکشان دیده می‌شود.."
       },
-      "quote": "یک جرقه گرمای کمی می‌بخشد. هزاران جرقه به فانوسی تبدیل می‌شوند که در سراسر کهکشان دیده می‌شود.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "نمایشگر فایل‌های متنی آنلاین Notebook++ با قابلیت برجسته‌سازی نحو برای فرمت‌های مختلف فایل همراه با شماره خطوط، قابلیت جستجو و جایگزینی و مقایسه اضافه شد."
         },
-        "quote":"ممکن است هزار دشمن را شکست دهی، اما بر خود غلبه کن تا هیچ دشمنی باقی نماند."
+        "quote": "ممکن است هزار دشمن را شکست دهی، اما بر خود غلبه کن تا هیچ دشمنی باقی نماند."
       },
       "v2_0_0": {
         "changes": {

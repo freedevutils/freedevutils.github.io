@@ -1598,73 +1598,106 @@
         "result": "Risultato"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Leggi, modifica e salva file di testo in qualsiasi formato",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "File",
-      "newFile": "Nuovo file",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Apri file",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Salva",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Salva tutto...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Esci",
-      "editMenu": "Modifica",
-      "undo": "Annulla",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Ripeti",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Taglia",
-      "copy": "Copia",
-      "paste": "Incolla",
-      "searchMenu": "Cerca",
-      "find": "Trova",
-      "findShortcut": "Ctrl+F",
-      "replace": "Sostituisci",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Strumenti",
-      "formatDocument": "Formatta documento",
-      "compareActiveWith": "Confronta file attivo con...",
-      "explorer": "Esplora risorse",
-      "openEditors": "Editor aperti",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Premi Ctrl+N per creare un nuovo file o Ctrl+O per aprirlo.",
-      "ready": "Pronto",
-      "lineCol": "Ln {{line}}, Col {{col}}",
-      "lines": "Righe: {{count}}",
-      "chars": "Caratteri: {{count}}",
-      "noFileOpened": "Nessun file aperto",
-      "zoom": "Zoom: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Progettista di diagrammi Use Case",
-      "description": "Progetta diagrammi Use Case ed esporta con modello JSON AI-Ready, documenti Markdown, SVG e PNG",
-      "import-json": "Importa JSON",
-      "export": "Esporta",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Modello AI JSON",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Strumenti All-in-One per documenti PDF",
-      "open": "Apri",
-      "save": "Salva",
-      "save-as": "Salva con nome",
-      "print": "Stampa",
-      "studio-utilities": "Strumenti Studio",
-      "document-viewer": "Visualizzatore di documenti",
-      "metadata-editor": "Editor di metadati",
-      "merge-pdf": "Unisci PDF",
-      "split-pdf": "Dividi PDF",
-      "extract-images": "Estrai immagini",
-      "compress": "Comprimi (Ottimizza)",
-      "browse-file": "Sfoglia file",
-      "browse-message": "Seleziona o trascina un PDF per iniziare a modificare"
-    }
+        "title": "Notebook ++",
+        "description": "Leggi, modifica e salva file di testo in qualsiasi formato",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "File",
+        "newFile": "Nuovo file",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Apri file",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Salva",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Salva tutto...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Esci",
+        "editMenu": "Modifica",
+        "undo": "Annulla",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Ripeti",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Taglia",
+        "copy": "Copia",
+        "paste": "Incolla",
+        "searchMenu": "Cerca",
+        "find": "Trova",
+        "findShortcut": "Ctrl+F",
+        "replace": "Sostituisci",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Strumenti",
+        "formatDocument": "Formatta documento",
+        "compareActiveWith": "Confronta file attivo con...",
+        "explorer": "Esplora risorse",
+        "openEditors": "Editor aperti",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Premi Ctrl+N per creare un nuovo file o Ctrl+O per aprirlo.",
+        "ready": "Pronto",
+        "lineCol": "Ln {{line}}, Col {{col}}",
+        "lines": "Righe: {{count}}",
+        "chars": "Caratteri: {{count}}",
+        "noFileOpened": "Nessun file aperto",
+        "zoom": "Zoom: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Progettista di diagrammi Use Case",
+        "description": "Progetta diagrammi Use Case ed esporta con modello JSON AI-Ready, documenti Markdown, SVG e PNG",
+        "import-json": "Importa JSON",
+        "export": "Esporta",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Modello AI JSON",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Strumenti All-in-One per documenti PDF",
+        "open": "Apri",
+        "save": "Salva",
+        "save-as": "Salva con nome",
+        "print": "Stampa",
+        "studio-utilities": "Strumenti Studio",
+        "document-viewer": "Visualizzatore di documenti",
+        "metadata-editor": "Editor di metadati",
+        "merge-pdf": "Unisci PDF",
+        "split-pdf": "Dividi PDF",
+        "extract-images": "Estrai immagini",
+        "compress": "Comprimi (Ottimizza)",
+        "browse-file": "Sfoglia file",
+        "browse-message": "Seleziona o trascina un PDF per iniziare a modificare"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Estrai testo, tabelle e dati strutturati da immagini e PDF utilizzando OCR Studio. Utile nel mondo dell'intelligenza artificiale per risparmiare token estraendo testo dalle immagini invece di caricarle direttamente.",
+        "upload-or-paste-image": "Carica o Incolla Immagine",
+        "paste-image-url": "Incolla l'URL dell'Immagine",
+        "supported-formats": "Formati Supportati: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Opzioni",
+        "ocr-mode": "Modalità OCR",
+        "ocr-mode-description": "Seleziona il tipo di estrazione che desideri eseguire.",
+        "ocr-languages": "Lingue OCR",
+        "ocr-languages-description": "Seleziona le lingue da rilevare nell'immagine.",
+        "ocr-output": "Output OCR",
+        "extract-text": "Estrai Testo",
+        "extract-tables": "Estrai Tabelle",
+        "extract-text-and-tables": "Estrai Testo e Tabelle",
+        "export": "Esporta",
+        "clear": "Svuota",
+        "download-json": "Scarica JSON",
+        "download-text": "Scarica Testo",
+        "no-file-selected": "Nessun file selezionato",
+        "preview": "Anteprima",
+        "ocr-scanning": "Scansione OCR in corso...",
+        "ocr-processing-please-wait": "Elaborazione OCR in corso... Attendi.",
+        "no-text-extracted": "Nessun testo estratto",
+        "no-tables-extracted": "Nessuna tabella estratta",
+        "text": "Testo",
+        "tables": "Tabelle",
+        "rows": "Righe",
+        "columns": "Colonne",
+        "cell": "Cella",
+        "select-file": "Seleziona un File",
+        "drag-and-drop-here": "Trascina qui la tua immagine o PDF"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Progettazione di applicazioni con dev utils"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Aggiunto OCR (Optical Character Recognition) Studio per risparmiare il consumo di token dell'AI, sebbene il supporto multilingue sia in attesa. Completato il traguardo del Tema Chiaro (Light Theme) per il progetto."
+        },
+        "quote": "Non aspettare che qualcun altro porti la speranza. Diventa la speranza che gli altri stavano aspettando."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "Aggiunto Progettista di diagrammi Use Case AI-Ready con varie opzioni di esportazione.",
-        "1": "Aggiunto PDF Studio con strumenti All-in-One per file PDF"
+        "changes": {
+          "0": "Aggiunto Progettista di diagrammi Use Case AI-Ready con varie opzioni di esportazione.",
+          "1": "Aggiunto PDF Studio con strumenti All-in-One per file PDF"
+        },
+        "quote": "Una scintilla scalda poco. Mille scintille diventano un faro visibile in tutta la galassia.."
       },
-      "quote": "Una scintilla scalda poco. Mille scintille diventano un faro visibile in tutta la galassia.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "Aggiunto Notebook++, un visualizzatore di file di testo online con evidenziazione della sintassi per diversi formati di file, numeri di riga, e funzionalità di ricerca e sostituzione e confronto."
         },
-        "quote":"puoi sconfiggere mille nemici, ma sconfiggi te stesso e non rimarrà nessun nemico."
+        "quote": "puoi sconfiggere mille nemici, ma sconfiggi te stesso e non rimarrà nessun nemico."
       },
       "v2_0_0": {
         "changes": {

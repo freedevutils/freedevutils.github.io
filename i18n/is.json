@@ -1598,73 +1598,106 @@
         "result": "Niðurstaða"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Lestu, breyttu og vistaðu textaskrár í hvaða sniði sem er",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Skrá",
-      "newFile": "Ný skrá",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Opna skrá",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Vista",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Vista allt...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Hætta",
-      "editMenu": "Breyta",
-      "undo": "Afturkalla",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Endurtaka",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Klippa",
-      "copy": "Afrita",
-      "paste": "Líma",
-      "searchMenu": "Leita",
-      "find": "Finna",
-      "findShortcut": "Ctrl+F",
-      "replace": "Skipta út",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Verkfæri",
-      "formatDocument": "Sníða skjal",
-      "compareActiveWith": "Bera saman virka við...",
-      "explorer": "Skráarvafri",
-      "openEditors": "Opnir ritlar",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Ýttu á Ctrl+N til að búa til nýja skrá eða Ctrl+O til að opna.",
-      "ready": "Tilbúinn",
-      "lineCol": "Lína {{line}}, Dálkur {{col}}",
-      "lines": "Línur: {{count}}",
-      "chars": "Stafir: {{count}}",
-      "noFileOpened": "Engin skrá opin",
-      "zoom": "Aðdráttur: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Use Case Rit Hönnuður",
-      "description": "Hannaðu Use Case rit og flyttu út með gervigreindartilbúnu JSON líkani, Markdown skjali, SVG og PNG",
-      "import-json": "Flytja inn JSON",
-      "export": "Flytja út",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "AI JSON líkan",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Allt-í-einu gagnasöfn fyrir PDF skjöl",
-      "open": "Opna",
-      "save": "Vista",
-      "save-as": "Vista sem",
-      "print": "Prenta",
-      "studio-utilities": "Studio gagnasöfn",
-      "document-viewer": "Skjalaskoðari",
-      "metadata-editor": "Lýsigagnaritill",
-      "merge-pdf": "Sameina PDF",
-      "split-pdf": "Skipta PDF",
-      "extract-images": "Draga út myndir",
-      "compress": "Þjappa (Fínstilla)",
-      "browse-file": "Vafra eftir skrá",
-      "browse-message": "Veldu eða dragðu PDF skjal hingað til að hefja klippingu"
-    }
+        "title": "Notebook ++",
+        "description": "Lestu, breyttu og vistaðu textaskrár í hvaða sniði sem er",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Skrá",
+        "newFile": "Ný skrá",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Opna skrá",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Vista",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Vista allt...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Hætta",
+        "editMenu": "Breyta",
+        "undo": "Afturkalla",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Endurtaka",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Klippa",
+        "copy": "Afrita",
+        "paste": "Líma",
+        "searchMenu": "Leita",
+        "find": "Finna",
+        "findShortcut": "Ctrl+F",
+        "replace": "Skipta út",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Verkfæri",
+        "formatDocument": "Sníða skjal",
+        "compareActiveWith": "Bera saman virka við...",
+        "explorer": "Skráarvafri",
+        "openEditors": "Opnir ritlar",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Ýttu á Ctrl+N til að búa til nýja skrá eða Ctrl+O til að opna.",
+        "ready": "Tilbúinn",
+        "lineCol": "Lína {{line}}, Dálkur {{col}}",
+        "lines": "Línur: {{count}}",
+        "chars": "Stafir: {{count}}",
+        "noFileOpened": "Engin skrá opin",
+        "zoom": "Aðdráttur: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Use Case Rit Hönnuður",
+        "description": "Hannaðu Use Case rit og flyttu út með gervigreindartilbúnu JSON líkani, Markdown skjali, SVG og PNG",
+        "import-json": "Flytja inn JSON",
+        "export": "Flytja út",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON líkan",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Allt-í-einu gagnasöfn fyrir PDF skjöl",
+        "open": "Opna",
+        "save": "Vista",
+        "save-as": "Vista sem",
+        "print": "Prenta",
+        "studio-utilities": "Studio gagnasöfn",
+        "document-viewer": "Skjalaskoðari",
+        "metadata-editor": "Lýsigagnaritill",
+        "merge-pdf": "Sameina PDF",
+        "split-pdf": "Skipta PDF",
+        "extract-images": "Draga út myndir",
+        "compress": "Þjappa (Fínstilla)",
+        "browse-file": "Vafra eftir skrá",
+        "browse-message": "Veldu eða dragðu PDF skjal hingað til að hefja klippingu"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Dragðu út texta, töflur og formbyggð gögn úr myndum og PDF-skjölum með því að nota OCR Studio. Gagnlegt í heimi gervigreindar til að spara tákn (tokens) með því að draga texta úr myndum í stað þess að hlaða þeim beint inn.",
+        "upload-or-paste-image": "Hlaða upp eða líma mynd",
+        "paste-image-url": "Líma vefslóð myndar",
+        "supported-formats": "Studd snið: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Valkostir",
+        "ocr-mode": "OCR hamur",
+        "ocr-mode-description": "Veldu þá tegund útdráttar sem þú vilt framkvæma.",
+        "ocr-languages": "OCR tungumál",
+        "ocr-languages-description": "Veldu þau tungumál sem á að greina á myndinni.",
+        "ocr-output": "OCR úttak",
+        "extract-text": "Draga út texta",
+        "extract-tables": "Draga út töflur",
+        "extract-text-and-tables": "Draga út texta og töflur",
+        "export": "Flytja út",
+        "clear": "Hreinsa",
+        "download-json": "Hlaða niður JSON",
+        "download-text": "Hlaða niður texta",
+        "no-file-selected": "Engin skrá valin",
+        "preview": "Forskoðun",
+        "ocr-scanning": "OCR skönnun...",
+        "ocr-processing-please-wait": "OCR vinnsla... Vinsamlegast hinkraðu.",
+        "no-text-extracted": "Enginn texti dreginn út",
+        "no-tables-extracted": "Engar töflur dregnar út",
+        "text": "Texti",
+        "tables": "Töflur",
+        "rows": "Raðir",
+        "columns": "Dálkar",
+        "cell": "Reitur",
+        "select-file": "Veldu skrá",
+        "drag-and-drop-here": "Dragðu og slepptu myndinni eða PDF-skjalinu hingað"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Hanna forrit með dev utils"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Bætt við OCR (Optical Character Recognition) Studio til að spara gervigreindartákn, þó fjöltyngdur stuðningur sé í bið. Lokið áfanga við ljóst þema fyrir verkefnið."
+        },
+        "quote": "Ekki bíða eftir að annar færi þér von. Verstu vonin sem aðrir hafa beðið eftir."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "Bætt við gervigreindartilbúnum Use Case Rit Hönnuði með fjölmörgum útflutningsmöguleikum.",
-        "1": "Bætt við PDF Studio með allt-í-einu gagnasöfnum fyrir PDF skrár."
+        "changes": {
+          "0": "Bætt við gervigreindartilbúnum Use Case Rit Hönnuði með fjölmörgum útflutningsmöguleikum.",
+          "1": "Bætt við PDF Studio með allt-í-einu gagnasöfnum fyrir PDF skrár."
+        },
+        "quote": "Einn neisti hitar lítið. Þúsund neistar verða að leiðarljósi sem sést um alla vetrarbrautina.."
       },
-      "quote": "Einn neisti hitar lítið. Þúsund neistar verða að leiðarljósi sem sést um alla vetrarbrautina.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "Bætti við Notebook++, veflægum textaskráarskoðara með ritháttarlitun fyrir mismunandi skráarsnið með línunúmerum, leita og skipta út og samanburðarvirkni."
         },
-        "quote":"þú gætir sigrað þúsund óvini, en sigraðu sjálfan þig og enginn óvinur verður eftir."
+        "quote": "þú gætir sigrað þúsund óvini, en sigraðu sjálfan þig og enginn óvinur verður eftir."
       },
       "v2_0_0": {
         "changes": {

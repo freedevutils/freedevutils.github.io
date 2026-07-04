@@ -1598,73 +1598,106 @@
         "result": "Eredmény"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Szövegfájlok olvasása, szerkesztése és mentése bármilyen formátumban",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Fájl",
-      "newFile": "Új fájl",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Fájl megnyitása",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Mentés",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Összes mentése...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Kilépés",
-      "editMenu": "Szerkesztés",
-      "undo": "Visszavonás",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Újra",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Kivágás",
-      "copy": "Másolás",
-      "paste": "Beillesztés",
-      "searchMenu": "Keresés",
-      "find": "Keresés",
-      "findShortcut": "Ctrl+F",
-      "replace": "Csere",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Eszközök",
-      "formatDocument": "Dokumentum formázása",
-      "compareActiveWith": "Aktív összehasonlítása ezzel...",
-      "explorer": "Intéző",
-      "openEditors": "Megnyitott szerkesztők",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Új fájl létrehozásához nyomja meg a Ctrl+N, megnyitáshoz a Ctrl+O billentyűkombinációt.",
-      "ready": "Kész",
-      "lineCol": "Sor {{line}}, Oszlop {{col}}",
-      "lines": "Sorok: {{count}}",
-      "chars": "Karakterek: {{count}}",
-      "noFileOpened": "Nincs megnyitva fájl",
-      "zoom": "Nagyítás: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Use Case Diagram Tervező",
-      "description": "Tervezzen Use Case diagramot, és exportálja AI-kompatibilis JSON modellként, Markdown dokumentumként, SVG-ként és PNG-ként",
-      "import-json": "JSON importálása",
-      "export": "Exportálás",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "AI JSON modell",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Minden-az-egyben segédprogramok PDF dokumentumokhoz",
-      "open": "Megnyitás",
-      "save": "Mentés",
-      "save-as": "Mentés másként",
-      "print": "Nyomtatás",
-      "studio-utilities": "Studio segédprogramok",
-      "document-viewer": "Dokumentumnézegető",
-      "metadata-editor": "Metaadat-szerkesztő",
-      "merge-pdf": "PDF-ek egyesítése",
-      "split-pdf": "PDF felosztása",
-      "extract-images": "Képek kinyerése",
-      "compress": "Tömörítés (Optimalizálás)",
-      "browse-file": "Fájl tallózása",
-      "browse-message": "Válasszon ki vagy húzzon ide egy PDF-et a szerkesztés megkezdéséhez"
-    }
+        "title": "Notebook ++",
+        "description": "Szövegfájlok olvasása, szerkesztése és mentése bármilyen formátumban",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Fájl",
+        "newFile": "Új fájl",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Fájl megnyitása",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Mentés",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Összes mentése...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Kilépés",
+        "editMenu": "Szerkesztés",
+        "undo": "Visszavonás",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Újra",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Kivágás",
+        "copy": "Másolás",
+        "paste": "Beillesztés",
+        "searchMenu": "Keresés",
+        "find": "Keresés",
+        "findShortcut": "Ctrl+F",
+        "replace": "Csere",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Eszközök",
+        "formatDocument": "Dokumentum formázása",
+        "compareActiveWith": "Aktív összehasonlítása ezzel...",
+        "explorer": "Intéző",
+        "openEditors": "Megnyitott szerkesztők",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Új fájl létrehozásához nyomja meg a Ctrl+N, megnyitáshoz a Ctrl+O billentyűkombinációt.",
+        "ready": "Kész",
+        "lineCol": "Sor {{line}}, Oszlop {{col}}",
+        "lines": "Sorok: {{count}}",
+        "chars": "Karakterek: {{count}}",
+        "noFileOpened": "Nincs megnyitva fájl",
+        "zoom": "Nagyítás: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Use Case Diagram Tervező",
+        "description": "Tervezzen Use Case diagramot, és exportálja AI-kompatibilis JSON modellként, Markdown dokumentumként, SVG-ként és PNG-ként",
+        "import-json": "JSON importálása",
+        "export": "Exportálás",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON modell",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Minden-az-egyben segédprogramok PDF dokumentumokhoz",
+        "open": "Megnyitás",
+        "save": "Mentés",
+        "save-as": "Mentés másként",
+        "print": "Nyomtatás",
+        "studio-utilities": "Studio segédprogramok",
+        "document-viewer": "Dokumentumnézegető",
+        "metadata-editor": "Metaadat-szerkesztő",
+        "merge-pdf": "PDF-ek egyesítése",
+        "split-pdf": "PDF felosztása",
+        "extract-images": "Képek kinyerése",
+        "compress": "Tömörítés (Optimalizálás)",
+        "browse-file": "Fájl tallózása",
+        "browse-message": "Válasszon ki vagy húzzon ide egy PDF-et a szerkesztés megkezdéséhez"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Szöveg, táblázatok és strukturált adatok kinyerése képekből és PDF-ekből az OCR Studio segítségével. Hasznos az AI világában a tokenek megtakarítására, mivel a szöveget kinyeri ahelyett, hogy a képeket közvetlenül feltöltené.",
+        "upload-or-paste-image": "Kép feltöltése vagy beillesztése",
+        "paste-image-url": "Kép URL beillesztése",
+        "supported-formats": "Támogatott formátumok: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Opciók",
+        "ocr-mode": "OCR mód",
+        "ocr-mode-description": "Válassza ki a végrehajtani kívánt kinyerés típusát.",
+        "ocr-languages": "OCR nyelvek",
+        "ocr-languages-description": "Válassza ki a képen felismerni kívánt nyelveket.",
+        "ocr-output": "OCR kimenet",
+        "extract-text": "Szöveg kinyerése",
+        "extract-tables": "Táblázatok kinyerése",
+        "extract-text-and-tables": "Szöveg és táblázatok kinyerése",
+        "export": "Exportálás",
+        "clear": "Törlés",
+        "download-json": "JSON letöltése",
+        "download-text": "Szöveg letöltése",
+        "no-file-selected": "Nincs fájl kiválasztva",
+        "preview": "Előnézet",
+        "ocr-scanning": "OCR szkennelés...",
+        "ocr-processing-please-wait": "OCR feldolgozás... Kérjük, várjon.",
+        "no-text-extracted": "Nincs kinyert szöveg",
+        "no-tables-extracted": "Nincs kinyert táblázat",
+        "text": "Szöveg",
+        "tables": "Táblázatok",
+        "rows": "Sorok",
+        "columns": "Oszlopok",
+        "cell": "Cella",
+        "select-file": "Válasszon egy fájlt",
+        "drag-and-drop-here": "Húzza ide a képet vagy PDF-et"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Alkalmazás dizájnja a fejlesztői eszközökkel"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Hozzáadva az OCR (Optical Character Recognition) Studio az AI token fogyasztásának csökkentése érdekében, bár a többnyelvű támogatás még várat magára. Befejeződött a Világos téma (Light Theme) mérföldkő a projekthez."
+        },
+        "quote": "Ne várd, hogy más hozzon reményt. Légy te az a remény, amire mások vártak."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "Hozzáadva az AI-kompatibilis Use Case Diagram Tervező különféle exportálási lehetőségekkel.",
-        "1": "Hozzáadva a PDF Studio minden-az-egyben segédprogramokkal PDF fájlokhoz."
+        "changes": {
+          "0": "Hozzáadva az AI-kompatibilis Use Case Diagram Tervező különféle exportálási lehetőségekkel.",
+          "1": "Hozzáadva a PDF Studio minden-az-egyben segédprogramokkal PDF fájlokhoz."
+        },
+        "quote": "Egy szikra keveset melegít. Ezer szikra olyan jelzőtűzzé válik, amely az egész galaxisban látható.."
       },
-      "quote": "Egy szikra keveset melegít. Ezer szikra olyan jelzőtűzzé válik, amely az egész galaxisban látható.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "Hozzáadva a Notebook++, egy online szövegfájl-megjelenítő, amely szintaxiskiemelést biztosít különböző fájlformátumokhoz sorszámokkal, keresés és csere, valamint összehasonlítási funkcióval."
         },
-        "quote":"legyőzhetsz ezer ellenséget, de győzd le önmagad, és nem marad ellenség."
+        "quote": "legyőzhetsz ezer ellenséget, de győzd le önmagad, és nem marad ellenség."
       },
       "v2_0_0": {
         "changes": {

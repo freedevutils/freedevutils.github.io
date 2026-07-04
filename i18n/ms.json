@@ -1639,32 +1639,65 @@
         "zoom": "Zum: {{level}}%"
       },
       "use-case-diagram": {
-      "title": "Pereka Gambar Rajah Kes Penggunaan",
-      "description": "Reka Gambar Rajah Kes Penggunaan dan eksport dengan model JSON Sedia AI, Dokumen Markdown, SVG dan PNG",
-      "import-json": "Import JSON",
-      "export": "Eksport",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Model AI JSON",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "Studio PDF",
-      "description": "Utiliti Semua dalam Satu untuk Dokumen PDF",
-      "open": "Buka",
-      "save": "Simpan",
-      "save-as": "Simpan Sebagai",
-      "print": "Cetak",
-      "studio-utilities": "Utiliti Studio",
-      "document-viewer": "Pemapar Dokumen",
-      "metadata-editor": "Penyunting Metadata",
-      "merge-pdf": "Gabungkan PDF",
-      "split-pdf": "Pisahkan PDF",
-      "extract-images": "Ekstrak Imej",
-      "compress": "Mampat (Optimumkan)",
-      "browse-file": "Layar Fail",
-      "browse-message": "Pilih atau seret PDF untuk mula mengedit"
-    }
+        "title": "Pereka Gambar Rajah Kes Penggunaan",
+        "description": "Reka Gambar Rajah Kes Penggunaan dan eksport dengan model JSON Sedia AI, Dokumen Markdown, SVG dan PNG",
+        "import-json": "Import JSON",
+        "export": "Eksport",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Model AI JSON",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "Studio PDF",
+        "description": "Utiliti Semua dalam Satu untuk Dokumen PDF",
+        "open": "Buka",
+        "save": "Simpan",
+        "save-as": "Simpan Sebagai",
+        "print": "Cetak",
+        "studio-utilities": "Utiliti Studio",
+        "document-viewer": "Pemapar Dokumen",
+        "metadata-editor": "Penyunting Metadata",
+        "merge-pdf": "Gabungkan PDF",
+        "split-pdf": "Pisahkan PDF",
+        "extract-images": "Ekstrak Imej",
+        "compress": "Mampat (Optimumkan)",
+        "browse-file": "Layar Fail",
+        "browse-message": "Pilih atau seret PDF untuk mula mengedit"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Ekstrak teks, jadual, dan data berstruktur dari imej dan PDF menggunakan OCR Studio. Berguna dalam dunia AI untuk menjimatkan token dengan mengekstrak teks dari imej dan bukannya memuat naik imej secara terus.",
+        "upload-or-paste-image": "Muat Naik atau Tampal Imej",
+        "paste-image-url": "Tampal URL Imej",
+        "supported-formats": "Format Disokong: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Pilihan",
+        "ocr-mode": "Mod OCR",
+        "ocr-mode-description": "Pilih jenis pengekstrakan yang ingin anda lakukan.",
+        "ocr-languages": "Bahasa OCR",
+        "ocr-languages-description": "Pilih bahasa untuk dikesan dalam imej.",
+        "ocr-output": "Keluaran OCR",
+        "extract-text": "Ekstrak Teks",
+        "extract-tables": "Ekstrak Jadual",
+        "extract-text-and-tables": "Ekstrak Teks dan Jadual",
+        "export": "Eksport",
+        "clear": "Kosongkan",
+        "download-json": "Muat Turun JSON",
+        "download-text": "Muat Turun Teks",
+        "no-file-selected": "Tiada fail dipilih",
+        "preview": "Pratonton",
+        "ocr-scanning": "Mengimbas OCR...",
+        "ocr-processing-please-wait": "Memproses OCR... Sila tunggu.",
+        "no-text-extracted": "Tiada teks diekstrak",
+        "no-tables-extracted": "Tiada jadual diekstrak",
+        "text": "Teks",
+        "tables": "Jadual",
+        "rows": "Baris",
+        "columns": "Lajur",
+        "cell": "Sel",
+        "select-file": "Pilih Fail",
+        "drag-and-drop-here": "Seret dan lepaskan imej atau PDF anda di sini"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Reka aplikasi dengan utiliti pembangun"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Menambah OCR (Optical Character Recognition) Studio untuk menjimatkan penggunaan token AI walaupun sokongan pelbagai bahasa masih tertunda. Pencapaian Tema Cerah (Light Theme) untuk projek telah diselesaikan."
+        },
+        "quote": "Jangan tunggu orang lain untuk membawa harapan. Jadilah harapan yang ditunggu-tunggu oleh orang lain."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "Ditambah Pereka Gambar Rajah Kes Penggunaan Sedia AI dengan pelbagai pilihan eksport.",
-        "1": "Ditambah Studio PDF dengan utiliti Semua dalam satu untuk fail PDF"
+        "changes": {
+          "0": "Ditambah Pereka Gambar Rajah Kes Penggunaan Sedia AI dengan pelbagai pilihan eksport.",
+          "1": "Ditambah Studio PDF dengan utiliti Semua dalam satu untuk fail PDF"
+        },
+        "quote": "Satu percikan memberi sedikit kehangatan. Seribu percikan menjadi suar yang kelihatan merentasi galaksi.."
       },
-      "quote": "Satu percikan memberi sedikit kehangatan. Seribu percikan menjadi suar yang kelihatan merentasi galaksi.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "Menambahkan Notebook++, pemapar fail teks dalam talian dengan penyerlah sintaks untuk pelbagai format fail bersama nombor baris, cari dan ganti serta fungsi perbandingan."
         },
-        "quote":"anda mungkin boleh menakluki seribu musuh, tetapi taklukilah diri anda sendiri dan tiada musuh yang tinggal."
+        "quote": "anda mungkin boleh menakluki seribu musuh, tetapi taklukilah diri anda sendiri dan tiada musuh yang tinggal."
       },
       "v2_0_0": {
         "changes": {

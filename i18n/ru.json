@@ -611,7 +611,7 @@
         "copy": "Копировать",
         "download": "Скачать",
         "output-preview": "Предпросмотр вывода",
-         "clear": "Очистить"
+        "clear": "Очистить"
       },
       "text-to-speech-converter": {
         "title": "Конвертер текста в речь (Text to Speech)",
@@ -1598,73 +1598,106 @@
         "result": "Результат"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Читайте, редактируйте и сохраняйте текстовые файлы в любом формате",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Файл",
-      "newFile": "Новый файл",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Открыть файл",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Сохранить",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Сохранить все...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Выход",
-      "editMenu": "Правка",
-      "undo": "Отменить",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Повторить",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Вырезать",
-      "copy": "Копировать",
-      "paste": "Вставить",
-      "searchMenu": "Поиск",
-      "find": "Найти",
-      "findShortcut": "Ctrl+F",
-      "replace": "Заменить",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Инструменты",
-      "formatDocument": "Форматировать документ",
-      "compareActiveWith": "Сравнить активный с...",
-      "explorer": "Проводник",
-      "openEditors": "Открытые редакторы",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Нажмите Ctrl+N, чтобы создать новый файл, или Ctrl+O, чтобы открыть.",
-      "ready": "Готово",
-      "lineCol": "Стр {{line}}, Кол {{col}}",
-      "lines": "Строки: {{count}}",
-      "chars": "Символы: {{count}}",
-      "noFileOpened": "Нет открытых файлов",
-      "zoom": "Масштаб: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Дизайнер диаграмм вариантов использования (Use Case)",
-      "description": "Создавайте диаграммы Use Case и экспортируйте их в виде ИИ-адаптированной модели JSON, документов Markdown, SVG и PNG",
-      "import-json": "Импорт JSON",
-      "export": "Экспорт",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "ИИ-модель JSON",
-      "export-as-markdown": "Документы Markdown"
-    },
-    "pdf-studio": {
-      "title": "PDF Студия",
-      "description": "Комплексные утилиты для PDF-документов",
-      "open": "Открыть",
-      "save": "Сохранить",
-      "save-as": "Сохранить как",
-      "print": "Печать",
-      "studio-utilities": "Утилиты студии",
-      "document-viewer": "Просмотр документов",
-      "metadata-editor": "Редактор метаданных",
-      "merge-pdf": "Объединить PDF",
-      "split-pdf": "Разделить PDF",
-      "extract-images": "Извлечь изображения",
-      "compress": "Сжать (Оптимизировать)",
-      "browse-file": "Обзор файлов",
-      "browse-message": "Выберите или перетащите PDF, чтобы начать редактирование"
-    }
+        "title": "Notebook ++",
+        "description": "Читайте, редактируйте и сохраняйте текстовые файлы в любом формате",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Файл",
+        "newFile": "Новый файл",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Открыть файл",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Сохранить",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Сохранить все...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Выход",
+        "editMenu": "Правка",
+        "undo": "Отменить",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Повторить",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Вырезать",
+        "copy": "Копировать",
+        "paste": "Вставить",
+        "searchMenu": "Поиск",
+        "find": "Найти",
+        "findShortcut": "Ctrl+F",
+        "replace": "Заменить",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Инструменты",
+        "formatDocument": "Форматировать документ",
+        "compareActiveWith": "Сравнить активный с...",
+        "explorer": "Проводник",
+        "openEditors": "Открытые редакторы",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Нажмите Ctrl+N, чтобы создать новый файл, или Ctrl+O, чтобы открыть.",
+        "ready": "Готово",
+        "lineCol": "Стр {{line}}, Кол {{col}}",
+        "lines": "Строки: {{count}}",
+        "chars": "Символы: {{count}}",
+        "noFileOpened": "Нет открытых файлов",
+        "zoom": "Масштаб: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Дизайнер диаграмм вариантов использования (Use Case)",
+        "description": "Создавайте диаграммы Use Case и экспортируйте их в виде ИИ-адаптированной модели JSON, документов Markdown, SVG и PNG",
+        "import-json": "Импорт JSON",
+        "export": "Экспорт",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "ИИ-модель JSON",
+        "export-as-markdown": "Документы Markdown"
+      },
+      "pdf-studio": {
+        "title": "PDF Студия",
+        "description": "Комплексные утилиты для PDF-документов",
+        "open": "Открыть",
+        "save": "Сохранить",
+        "save-as": "Сохранить как",
+        "print": "Печать",
+        "studio-utilities": "Утилиты студии",
+        "document-viewer": "Просмотр документов",
+        "metadata-editor": "Редактор метаданных",
+        "merge-pdf": "Объединить PDF",
+        "split-pdf": "Разделить PDF",
+        "extract-images": "Извлечь изображения",
+        "compress": "Сжать (Оптимизировать)",
+        "browse-file": "Обзор файлов",
+        "browse-message": "Выберите или перетащите PDF, чтобы начать редактирование"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Извлекайте текст, таблицы и структурированные данные из изображений и PDF-файлов с помощью OCR Studio. Полезно в сфере ИИ для экономии токенов путем извлечения текста из изображений вместо их прямой загрузки.",
+        "upload-or-paste-image": "Загрузить или вставить изображение",
+        "paste-image-url": "Вставить URL изображения",
+        "supported-formats": "Поддерживаемые форматы: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Настройки",
+        "ocr-mode": "Режим OCR",
+        "ocr-mode-description": "Выберите тип извлечения, который вы хотите выполнить.",
+        "ocr-languages": "Языки OCR",
+        "ocr-languages-description": "Выберите языки для распознавания на изображении.",
+        "ocr-output": "Вывод OCR",
+        "extract-text": "Извлечь текст",
+        "extract-tables": "Извлечь таблицы",
+        "extract-text-and-tables": "Извлечь текст и таблицы",
+        "export": "Экспорт",
+        "clear": "Очистить",
+        "download-json": "Скачать JSON",
+        "download-text": "Скачать текст",
+        "no-file-selected": "Файл не выбран",
+        "preview": "Предпросмотр",
+        "ocr-scanning": "Сканирование OCR...",
+        "ocr-processing-please-wait": "Обработка OCR... Пожалуйста, подождите.",
+        "no-text-extracted": "Текст не извлечен",
+        "no-tables-extracted": "Таблицы не извлечены",
+        "text": "Текст",
+        "tables": "Таблицы",
+        "rows": "Строки",
+        "columns": "Столбцы",
+        "cell": "Ячейка",
+        "select-file": "Выберите файл",
+        "drag-and-drop-here": "Перетащите изображение или PDF сюда"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Разработка дизайна приложения с dev утилитами"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Добавлен OCR (Optical Character Recognition) Studio для экономии токенов ИИ, хотя многоязычная поддержка еще находится в разработке. Завершен этап добавления светлой темы (Light Theme) для проекта."
+        },
+        "quote": "Не ждите, пока другой принесет надежду. Станьте надеждой, которую ждали другие."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "Добавлен ИИ-адаптированный дизайнер диаграмм Use Case с различными вариантами экспорта.",
-        "1": "Добавлена PDF Студия с комплексными утилитами для PDF-файлов."
+        "changes": {
+          "0": "Добавлен ИИ-адаптированный дизайнер диаграмм Use Case с различными вариантами экспорта.",
+          "1": "Добавлена PDF Студия с комплексными утилитами для PDF-файлов."
+        },
+        "quote": "Одна искра дает мало тепла. Тысяча искр становятся маяком, видимым через всю галактику.."
       },
-      "quote": "Одна искра дает мало тепла. Тысяча искр становятся маяком, видимым через всю галактику.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "Добавлен Notebook++ — онлайн-просмотрщик текстовых файлов с подсветкой синтаксиса для различных форматов, номерами строк, функциями поиска и замены, а также сравнения."
         },
-        "quote":"ты можешь победить тысячу врагов, но победи себя, и ни одного врага не останется."
+        "quote": "ты можешь победить тысячу врагов, но победи себя, и ни одного врага не останется."
       },
       "v2_0_0": {
         "changes": {

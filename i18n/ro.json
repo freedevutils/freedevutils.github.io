@@ -1598,73 +1598,106 @@
         "result": "Rezultat"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Citiți, editați, salvați fișiere text în orice format",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Fișier",
-      "newFile": "Fișier nou",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Deschide fișierul",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Salvează",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Salvează tot...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Ieșire",
-      "editMenu": "Editare",
-      "undo": "Anulează",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Refă",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Decupează",
-      "copy": "Copiază",
-      "paste": "Lipește",
-      "searchMenu": "Căutare",
-      "find": "Găsește",
-      "findShortcut": "Ctrl+F",
-      "replace": "Înlocuiește",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Instrumente",
-      "formatDocument": "Formatează documentul",
-      "compareActiveWith": "Compară activ cu...",
-      "explorer": "Explorator",
-      "openEditors": "Editoare deschise",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Apăsați Ctrl+N pentru a crea un fișier nou sau Ctrl+O pentru a deschide.",
-      "ready": "Gata",
-      "lineCol": "Ln {{line}}, Col {{col}}",
-      "lines": "Linii: {{count}}",
-      "chars": "Caractere: {{count}}",
-      "noFileOpened": "Niciun fișier deschis",
-      "zoom": "Zoom: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Proiectant diagrame de caz de utilizare (Use Case)",
-      "description": "Proiectați diagrame Use Case și exportați cu model JSON pregătit pentru AI, document Markdown, SVG și PNG",
-      "import-json": "Importă JSON",
-      "export": "Exportă",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Model AI JSON",
-      "export-as-markdown": "Documente Markdown"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Utilitare All-in-One pentru documente PDF",
-      "open": "Deschide",
-      "save": "Salvează",
-      "save-as": "Salvează ca",
-      "print": "Printează",
-      "studio-utilities": "Utilitare Studio",
-      "document-viewer": "Vizualizator documente",
-      "metadata-editor": "Editor metadate",
-      "merge-pdf": "Îmbinare PDF-uri",
-      "split-pdf": "Scindare PDF",
-      "extract-images": "Extragere imagini",
-      "compress": "Comprimare (Optimizare)",
-      "browse-file": "Răsfoire fișier",
-      "browse-message": "Selectați sau trageți un PDF pentru a începe editarea"
-    }
+        "title": "Notebook ++",
+        "description": "Citiți, editați, salvați fișiere text în orice format",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Fișier",
+        "newFile": "Fișier nou",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Deschide fișierul",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Salvează",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Salvează tot...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Ieșire",
+        "editMenu": "Editare",
+        "undo": "Anulează",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Refă",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Decupează",
+        "copy": "Copiază",
+        "paste": "Lipește",
+        "searchMenu": "Căutare",
+        "find": "Găsește",
+        "findShortcut": "Ctrl+F",
+        "replace": "Înlocuiește",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Instrumente",
+        "formatDocument": "Formatează documentul",
+        "compareActiveWith": "Compară activ cu...",
+        "explorer": "Explorator",
+        "openEditors": "Editoare deschise",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Apăsați Ctrl+N pentru a crea un fișier nou sau Ctrl+O pentru a deschide.",
+        "ready": "Gata",
+        "lineCol": "Ln {{line}}, Col {{col}}",
+        "lines": "Linii: {{count}}",
+        "chars": "Caractere: {{count}}",
+        "noFileOpened": "Niciun fișier deschis",
+        "zoom": "Zoom: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Proiectant diagrame de caz de utilizare (Use Case)",
+        "description": "Proiectați diagrame Use Case și exportați cu model JSON pregătit pentru AI, document Markdown, SVG și PNG",
+        "import-json": "Importă JSON",
+        "export": "Exportă",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Model AI JSON",
+        "export-as-markdown": "Documente Markdown"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Utilitare All-in-One pentru documente PDF",
+        "open": "Deschide",
+        "save": "Salvează",
+        "save-as": "Salvează ca",
+        "print": "Printează",
+        "studio-utilities": "Utilitare Studio",
+        "document-viewer": "Vizualizator documente",
+        "metadata-editor": "Editor metadate",
+        "merge-pdf": "Îmbinare PDF-uri",
+        "split-pdf": "Scindare PDF",
+        "extract-images": "Extragere imagini",
+        "compress": "Comprimare (Optimizare)",
+        "browse-file": "Răsfoire fișier",
+        "browse-message": "Selectați sau trageți un PDF pentru a începe editarea"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Extrageți text, tabele și date structurate din imagini și PDF-uri folosind OCR Studio. Util în lumea AI pentru a economisi token-uri extrăgând text din imagini în loc să încărcați imaginile direct.",
+        "upload-or-paste-image": "Încărcați sau inserați imaginea",
+        "paste-image-url": "Inserați URL-ul imaginii",
+        "supported-formats": "Formate acceptate: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Opțiuni",
+        "ocr-mode": "Mod OCR",
+        "ocr-mode-description": "Selectați tipul de extragere pe care doriți să-l efectuați.",
+        "ocr-languages": "Limbi OCR",
+        "ocr-languages-description": "Selectați limbile care să fie detectate în imagine.",
+        "ocr-output": "Rezultat OCR",
+        "extract-text": "Extrage text",
+        "extract-tables": "Extrage tabele",
+        "extract-text-and-tables": "Extrage text și tabele",
+        "export": "Exportă",
+        "clear": "Curăță",
+        "download-json": "Descarcă JSON",
+        "download-text": "Descarcă text",
+        "no-file-selected": "Niciun fișier selectat",
+        "preview": "Previzualizare",
+        "ocr-scanning": "Scanare OCR...",
+        "ocr-processing-please-wait": "Procesare OCR... Vă rugăm să așteptați.",
+        "no-text-extracted": "Nu a fost extras niciun text",
+        "no-tables-extracted": "Nu au fost extrase tabele",
+        "text": "Text",
+        "tables": "Tabele",
+        "rows": "Rânduri",
+        "columns": "Coloane",
+        "cell": "Celulă",
+        "select-file": "Selectează un fișier",
+        "drag-and-drop-here": "Trageți și plasați imaginea sau PDF-ul aici"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Proiectare aplicație cu dev utils"
     },
     "versions": {
-      "v2_1_0": {
-      "changes": {
-        "0": "A fost adăugat Proiectantul de diagrame Use Case pregătit pentru AI cu diverse opțiuni de export.",
-        "1": "A fost adăugat PDF Studio cu utilitare All-in-One pentru fișiere PDF."
+      "v2_2_0": {
+        "changes": {
+          "0": "S-a adăugat OCR (Optical Character Recognition) Studio pentru a economisi consumul de token-uri AI, deși suportul multilingv este în așteptare. Etapa de bază pentru Tema Luminoasă (Light Theme) a proiectului a fost finalizată."
+        },
+        "quote": "Nu aștepta ca altcineva să aducă speranță. Fii tu speranța pe care ceilalți o așteptau."
       },
-      "quote": "O scânteie încălzește puțin. O mie de scântei devin un far văzut în întreaga galaxie.."
-    },
+      "v2_1_0": {
+        "changes": {
+          "0": "A fost adăugat Proiectantul de diagrame Use Case pregătit pentru AI cu diverse opțiuni de export.",
+          "1": "A fost adăugat PDF Studio cu utilitare All-in-One pentru fișiere PDF."
+        },
+        "quote": "O scânteie încălzește puțin. O mie de scântei devin un far văzut în întreaga galaxie.."
+      },
       "v2_0_1": {
         "changes": {
           "0": "A fost adăugat Notebook++, un vizualizator online de fișiere text cu evidențiere de sintaxă pentru diferite formate de fișiere, numere de linie și funcționalitate de căutare și înlocuire, precum și de comparare."
         },
-        "quote":"poți cuceri o mie de inamici, dar cucerește-te pe tine însuți și niciun inamic nu va mai rămâne."
+        "quote": "poți cuceri o mie de inamici, dar cucerește-te pe tine însuți și niciun inamic nu va mai rămâne."
       },
       "v2_0_0": {
         "changes": {

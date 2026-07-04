@@ -1664,6 +1664,39 @@
         "compress": "Nén (Tối ưu hóa)",
         "browse-file": "Duyệt tệp",
         "browse-message": "Chọn hoặc kéo một tệp PDF để bắt đầu chỉnh sửa"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Trích xuất văn bản, bảng và dữ liệu có cấu trúc từ hình ảnh và PDF bằng OCR Studio. Hữu ích trong thế giới AI để tiết kiệm token bằng cách trích xuất văn bản từ hình ảnh thay vì tải hình ảnh trực tiếp lên.",
+        "upload-or-paste-image": "Tải lên hoặc Dán Hình ảnh",
+        "paste-image-url": "Dán URL Hình ảnh",
+        "supported-formats": "Định dạng được hỗ trợ: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Tùy chọn",
+        "ocr-mode": "Chế độ OCR",
+        "ocr-mode-description": "Chọn loại trích xuất bạn muốn thực hiện.",
+        "ocr-languages": "Ngôn ngữ OCR",
+        "ocr-languages-description": "Chọn các ngôn ngữ cần phát hiện trong hình ảnh.",
+        "ocr-output": "Đầu ra OCR",
+        "extract-text": "Trích xuất Văn bản",
+        "extract-tables": "Trích xuất Bảng",
+        "extract-text-and-tables": "Trích xuất Văn bản và Bảng",
+        "export": "Xuất",
+        "clear": "Xóa",
+        "download-json": "Tải xuống JSON",
+        "download-text": "Tải xuống Văn bản",
+        "no-file-selected": "Chưa chọn tệp nào",
+        "preview": "Xem trước",
+        "ocr-scanning": "Đang quét OCR...",
+        "ocr-processing-please-wait": "Đang xử lý OCR... Vui lòng đợi.",
+        "no-text-extracted": "Không có văn bản nào được trích xuất",
+        "no-tables-extracted": "Không có bảng nào được trích xuất",
+        "text": "Văn bản",
+        "tables": "Bảng",
+        "rows": "Hàng",
+        "columns": "Cột",
+        "cell": "Ô",
+        "select-file": "Chọn một Tệp",
+        "drag-and-drop-here": "Kéo và thả hình ảnh hoặc PDF của bạn vào đây"
       }
     }
   },
@@ -1996,6 +2029,12 @@
       "design": "Thiết kế ứng dụng với các tiện ích cho dev"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Đã thêm OCR (Optical Character Recognition) Studio để tiết kiệm lượng tiêu thụ token AI mặc dù hỗ trợ đa ngôn ngữ đang chờ xử lý. Đã hoàn thành Cột mốc Giao diện Sáng (Light Theme) cho dự án."
+        },
+        "quote": "Đừng chờ đợi người khác mang hy vọng đến. Hãy trở thành niềm hy vọng mà những người khác đang chờ đợi."
+      },
       "v2_1_0": {
         "changes": {
           "0": "Đã thêm Trình thiết kế sơ đồ Use Case tích hợp AI với nhiều tùy chọn xuất khác nhau.",

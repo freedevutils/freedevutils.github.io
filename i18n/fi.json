@@ -1598,73 +1598,106 @@
         "result": "Tulos"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Lue, muokkaa ja tallenna tekstitiedostoja missä tahansa muodossa",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Tiedosto",
-      "newFile": "Uusi tiedosto",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Avaa tiedosto",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Tallenna",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Tallenna kaikki...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Lopeta",
-      "editMenu": "Muokkaa",
-      "undo": "Kumoa",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Tee uudelleen",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Leikkaa",
-      "copy": "Kopioi",
-      "paste": "Liitä",
-      "searchMenu": "Etsi",
-      "find": "Etsi",
-      "findShortcut": "Ctrl+F",
-      "replace": "Korvaa",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Työkalut",
-      "formatDocument": "Muotoile asiakirja",
-      "compareActiveWith": "Vertaa aktiivista tiedostoon...",
-      "explorer": "Resurssienhallinta",
-      "openEditors": "Avoimet editorit",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Paina Ctrl+N luodaksesi uuden tiedoston tai Ctrl+O avataksesi tiedoston.",
-      "ready": "Valmis",
-      "lineCol": "Ln {{line}}, Col {{col}}",
-      "lines": "Rivit: {{count}}",
-      "chars": "Merkit: {{count}}",
-      "noFileOpened": "Ei avattua tiedostoa",
-      "zoom": "Zoomaus: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Use Case -kaaviosuunnittelija",
-      "description": "Suunnittele Use Case -kaavio ja vie se AI Ready JSON -mallina, Markdown-dokumenttina, SVG:nä tai PNG:nä",
-      "import-json": "Tuo JSON",
-      "export": "Vie",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "AI JSON -malli",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Kaikki yhdessä -työkalut PDF-dokumenteille",
-      "open": "Avaa",
-      "save": "Tallenna",
-      "save-as": "Tallenna nimellä",
-      "print": "Tulosta",
-      "studio-utilities": "Studion työkalut",
-      "document-viewer": "Dokumenttikatselin",
-      "metadata-editor": "Metatietojen muokkain",
-      "merge-pdf": "Yhdistä PDF-tiedostot",
-      "split-pdf": "Jaa PDF",
-      "extract-images": "Pura kuvat",
-      "compress": "Pakkaa (Optimoi)",
-      "browse-file": "Selaa tiedostoa",
-      "browse-message": "Valitse tai vedä PDF aloittaaksesi muokkauksen"
-     }
+        "title": "Notebook ++",
+        "description": "Lue, muokkaa ja tallenna tekstitiedostoja missä tahansa muodossa",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Tiedosto",
+        "newFile": "Uusi tiedosto",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Avaa tiedosto",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Tallenna",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Tallenna kaikki...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Lopeta",
+        "editMenu": "Muokkaa",
+        "undo": "Kumoa",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Tee uudelleen",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Leikkaa",
+        "copy": "Kopioi",
+        "paste": "Liitä",
+        "searchMenu": "Etsi",
+        "find": "Etsi",
+        "findShortcut": "Ctrl+F",
+        "replace": "Korvaa",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Työkalut",
+        "formatDocument": "Muotoile asiakirja",
+        "compareActiveWith": "Vertaa aktiivista tiedostoon...",
+        "explorer": "Resurssienhallinta",
+        "openEditors": "Avoimet editorit",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Paina Ctrl+N luodaksesi uuden tiedoston tai Ctrl+O avataksesi tiedoston.",
+        "ready": "Valmis",
+        "lineCol": "Ln {{line}}, Col {{col}}",
+        "lines": "Rivit: {{count}}",
+        "chars": "Merkit: {{count}}",
+        "noFileOpened": "Ei avattua tiedostoa",
+        "zoom": "Zoomaus: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Use Case -kaaviosuunnittelija",
+        "description": "Suunnittele Use Case -kaavio ja vie se AI Ready JSON -mallina, Markdown-dokumenttina, SVG:nä tai PNG:nä",
+        "import-json": "Tuo JSON",
+        "export": "Vie",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON -malli",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Kaikki yhdessä -työkalut PDF-dokumenteille",
+        "open": "Avaa",
+        "save": "Tallenna",
+        "save-as": "Tallenna nimellä",
+        "print": "Tulosta",
+        "studio-utilities": "Studion työkalut",
+        "document-viewer": "Dokumenttikatselin",
+        "metadata-editor": "Metatietojen muokkain",
+        "merge-pdf": "Yhdistä PDF-tiedostot",
+        "split-pdf": "Jaa PDF",
+        "extract-images": "Pura kuvat",
+        "compress": "Pakkaa (Optimoi)",
+        "browse-file": "Selaa tiedostoa",
+        "browse-message": "Valitse tai vedä PDF aloittaaksesi muokkauksen"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Pura teksti, taulukot ja rakenteellinen data kuvista ja PDF-tiedostoista käyttämällä OCR Studioa. Hyödyllinen AI-maailmassa säästämään tokeneita purkamalla teksti kuvista sen sijaan, että kuvat ladattaisiin suoraan.",
+        "upload-or-paste-image": "Lataa tai liitä kuva",
+        "paste-image-url": "Liitä kuvan URL-osoite",
+        "supported-formats": "Tuetut muodot: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Asetukset",
+        "ocr-mode": "OCR-tila",
+        "ocr-mode-description": "Valitse suoritettavan poiminnan tyyppi.",
+        "ocr-languages": "OCR-kielet",
+        "ocr-languages-description": "Valitse kuvasta tunnistettavat kielet.",
+        "ocr-output": "OCR-tuloste",
+        "extract-text": "Pura teksti",
+        "extract-tables": "Pura taulukot",
+        "extract-text-and-tables": "Pura teksti ja taulukot",
+        "export": "Vie",
+        "clear": "Tyhjennä",
+        "download-json": "Lataa JSON",
+        "download-text": "Lataa teksti",
+        "no-file-selected": "Tiedostoa ei ole valittu",
+        "preview": "Esikatselu",
+        "ocr-scanning": "OCR-skannaus käynnissä...",
+        "ocr-processing-please-wait": "OCR-käsittely käynnissä... Odota hetki.",
+        "no-text-extracted": "Tekstiä ei purettu",
+        "no-tables-extracted": "Taulukoita ei purettu",
+        "text": "Teksti",
+        "tables": "Taulukot",
+        "rows": "Rivit",
+        "columns": "Sarakkeet",
+        "cell": "Solu",
+        "select-file": "Valitse tiedosto",
+        "drag-and-drop-here": "Vedä ja pudota kuvasi tai PDF-tiedostosi tähän"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Suunnittele sovellus kehittäjätyökaluilla"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Lisätty OCR (Optical Character Recognition) Studio AI-tokenien kulutuksen säästämiseksi, vaikka monikielisyystuki on vielä kesken. Projektin vaalean teeman virstanpylväs saavutettu."
+        },
+        "quote": "Älä odota toisen tuovan toivoa. Tule toivoksi, jota muut ovat odottaneet."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "Lisätty AI Ready Use Case -kaaviosuunnittelija erilaisilla vientivaihtoehdoilla.",
-        "1": "Lisätty PDF Studio, jossa on Kaikki yhdessä -työkalut PDF-tiedostoille"
+        "changes": {
+          "0": "Lisätty AI Ready Use Case -kaaviosuunnittelija erilaisilla vientivaihtoehdoilla.",
+          "1": "Lisätty PDF Studio, jossa on Kaikki yhdessä -työkalut PDF-tiedostoille"
+        },
+        "quote": "Yksi kipinä lämmittää vähän. Tuhannesta kipinästä tulee majakka, joka näkyy halki galaksin.."
       },
-      "quote": "Yksi kipinä lämmittää vähän. Tuhannesta kipinästä tulee majakka, joka näkyy halki galaksin.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "Lisätty Notebook++, verkossa toimiva tekstitiedostojen katseluohjelma, jossa on syntaksin korostus eri tiedostomuodoille, rivinumerot sekä etsi ja korvaa- ja vertailutoiminnot."
         },
-        "quote":"voit voittaa tuhat vihollista, mutta voita itsesi, eikä yksikään vihollinen jää jäljelle."
+        "quote": "voit voittaa tuhat vihollista, mutta voita itsesi, eikä yksikään vihollinen jää jäljelle."
       },
       "v2_0_0": {
         "changes": {

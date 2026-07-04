@@ -1598,73 +1598,106 @@
         "result": "Kasil"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Waca, Owahi, lan Simpen file teks ing format apa wae",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Berkas",
-      "newFile": "Berkas Anyar",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Buka Berkas",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Simpen",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Simpen Kabeh...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Metu",
-      "editMenu": "Owahi",
-      "undo": "Batalna",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Baleni",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Potong",
-      "copy": "Salin",
-      "paste": "Tempel",
-      "searchMenu": "Golek",
-      "find": "Temokake",
-      "findShortcut": "Ctrl+F",
-      "replace": "Ganti",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Piranti",
-      "formatDocument": "Format Dokumen",
-      "compareActiveWith": "Bandingake Sing Aktif Karo...",
-      "explorer": "Panjelajah",
-      "openEditors": "Editor Sing Bukak",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Pencet Ctrl+N kanggo nggawe berkas anyar utawa Ctrl+O kanggo mbukak.",
-      "ready": "Siap",
-      "lineCol": "Brs {{line}}, Kol {{col}}",
-      "lines": "Baris: {{count}}",
-      "chars": "Karakter: {{count}}",
-      "noFileOpened": "Ora Ana Berkas Sing Bukak",
-      "zoom": "Zom: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Desainer Diagram Use Case",
-      "description": "Desain Diagram Use Case lan ekspor nganggo model JSON AI Ready, Dokumen Markdown, SVG lan PNG",
-      "import-json": "Impor JSON",
-      "export": "Ekspor",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Model AI JSON",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Utilitas Kabeh ing Siji kanggo Dokumen PDF",
-      "open": "Buka",
-      "save": "Simpen",
-      "save-as": "Simpen Minangka",
-      "print": "Cetak",
-      "studio-utilities": "Utilitas Studio",
-      "document-viewer": "Panampil Dokumen",
-      "metadata-editor": "Editor Metadata",
-      "merge-pdf": "Gabung PDF",
-      "split-pdf": "Pecah PDF",
-      "extract-images": "Ekstrak Gambar",
-      "compress": "Kompres (Optimalake)",
-      "browse-file": "Jelajahi File",
-      "browse-message": "Pilih utawa seret PDF kanggo miwiti nyunting"
-     }
+        "title": "Notebook ++",
+        "description": "Waca, Owahi, lan Simpen file teks ing format apa wae",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Berkas",
+        "newFile": "Berkas Anyar",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Buka Berkas",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Simpen",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Simpen Kabeh...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Metu",
+        "editMenu": "Owahi",
+        "undo": "Batalna",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Baleni",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Potong",
+        "copy": "Salin",
+        "paste": "Tempel",
+        "searchMenu": "Golek",
+        "find": "Temokake",
+        "findShortcut": "Ctrl+F",
+        "replace": "Ganti",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Piranti",
+        "formatDocument": "Format Dokumen",
+        "compareActiveWith": "Bandingake Sing Aktif Karo...",
+        "explorer": "Panjelajah",
+        "openEditors": "Editor Sing Bukak",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Pencet Ctrl+N kanggo nggawe berkas anyar utawa Ctrl+O kanggo mbukak.",
+        "ready": "Siap",
+        "lineCol": "Brs {{line}}, Kol {{col}}",
+        "lines": "Baris: {{count}}",
+        "chars": "Karakter: {{count}}",
+        "noFileOpened": "Ora Ana Berkas Sing Bukak",
+        "zoom": "Zom: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Desainer Diagram Use Case",
+        "description": "Desain Diagram Use Case lan ekspor nganggo model JSON AI Ready, Dokumen Markdown, SVG lan PNG",
+        "import-json": "Impor JSON",
+        "export": "Ekspor",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Model AI JSON",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Utilitas Kabeh ing Siji kanggo Dokumen PDF",
+        "open": "Buka",
+        "save": "Simpen",
+        "save-as": "Simpen Minangka",
+        "print": "Cetak",
+        "studio-utilities": "Utilitas Studio",
+        "document-viewer": "Panampil Dokumen",
+        "metadata-editor": "Editor Metadata",
+        "merge-pdf": "Gabung PDF",
+        "split-pdf": "Pecah PDF",
+        "extract-images": "Ekstrak Gambar",
+        "compress": "Kompres (Optimalake)",
+        "browse-file": "Jelajahi File",
+        "browse-message": "Pilih utawa seret PDF kanggo miwiti nyunting"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Ekstrak teks, tabel, lan data terstruktur saka gambar lan PDF nggunakake OCR Studio. Migunani ing donya AI kanggo ngirit token kanthi ngekstrak teks saka gambar tinimbang ngunggah gambar langsung.",
+        "upload-or-paste-image": "Unggah utawa Tempel Gambar",
+        "paste-image-url": "Tempel URL Gambar",
+        "supported-formats": "Format sing Didhukung: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Opsi",
+        "ocr-mode": "Mode OCR",
+        "ocr-mode-description": "Pilih jinis ekstraksi sing pengin sampeyan lakoni.",
+        "ocr-languages": "Basa OCR",
+        "ocr-languages-description": "Pilih basa sing bakal dideteksi ing gambar.",
+        "ocr-output": "Keluaran OCR",
+        "extract-text": "Ekstrak Teks",
+        "extract-tables": "Ekstrak Tabel",
+        "extract-text-and-tables": "Ekstrak Teks lan Tabel",
+        "export": "Ekspor",
+        "clear": "Reresik",
+        "download-json": "Undhuh JSON",
+        "download-text": "Undhuh Teks",
+        "no-file-selected": "Ora ana file sing dipilih",
+        "preview": "Pratinjau",
+        "ocr-scanning": "Mindai OCR...",
+        "ocr-processing-please-wait": "Mroses OCR... Tulung enteni.",
+        "no-text-extracted": "Ora ana teks sing diekstrak",
+        "no-tables-extracted": "Ora ana tabel sing diekstrak",
+        "text": "Teks",
+        "tables": "Tabel",
+        "rows": "Baris",
+        "columns": "Kolom",
+        "cell": "Sel",
+        "select-file": "Pilih File",
+        "drag-and-drop-here": "Seret lan selehake gambar utawa PDF sampeyan ing kene"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Desain aplikasi kanthi utilitas pangembang"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Nambahake OCR (Optical Character Recognition) Studio kanggo ngirit konsumsi token AI sanajan dhukungan multibasa isih ditundha. Reresik Titik Pencapaian Tema Padhang (Light Theme) kanggo proyek."
+        },
+        "quote": "Aja ngenteni wong liya nggawa pangarep-arep. Dadiya pangarep-arep sing dianti-anti wong liya."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "Ditambahake Desainer Diagram Use Case AI Ready kanthi macem-macem opsi ekspor.",
-        "1": "Ditambahake PDF Studio kanthi utilitas Kabeh ing Siji kanggo file PDF."
-       },
-       "quote": "Percikan siji mung menehi anget sethithik. Sewu percikan dadi suar sing katon ing kabeh galaksi.."
-       },
-       "v2_0_1": {
+        "changes": {
+          "0": "Ditambahake Desainer Diagram Use Case AI Ready kanthi macem-macem opsi ekspor.",
+          "1": "Ditambahake PDF Studio kanthi utilitas Kabeh ing Siji kanggo file PDF."
+        },
+        "quote": "Percikan siji mung menehi anget sethithik. Sewu percikan dadi suar sing katon ing kabeh galaksi.."
+      },
+      "v2_0_1": {
         "changes": {
           "0": "Nambahake Notebook++, panampil file teks online kanthi penyorot sintaks kanggo macem-macem format file kanthi nomer baris, fungsi golek lan ganti, lan fungsi mbandhingake."
         },
-        "quote":"sampeyan bisa ngalahake sewu mungsuh, nanging ngalahake awakmu dhewe lan ora ana mungsuh sing isih ana."
+        "quote": "sampeyan bisa ngalahake sewu mungsuh, nanging ngalahake awakmu dhewe lan ora ana mungsuh sing isih ana."
       },
       "v2_0_0": {
         "changes": {

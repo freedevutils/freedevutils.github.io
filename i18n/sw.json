@@ -1598,73 +1598,106 @@
         "result": "Tokeo"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Soma, Hariri, Hifadhi faili za maandishi katika umbizo lolote",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Faili",
-      "newFile": "Faili Jipya",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Fungua Faili",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Hifadhi",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Hifadhi Yote...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Toka",
-      "editMenu": "Hariri",
-      "undo": "Tengua",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Rejesha",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Kata",
-      "copy": "Nakili",
-      "paste": "Bandika",
-      "searchMenu": "Tafuta",
-      "find": "Tafuta",
-      "findShortcut": "Ctrl+F",
-      "replace": "Badilisha",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Zana",
-      "formatDocument": "Fomati Hati",
-      "compareActiveWith": "Linganisha Kinachotumika Na...",
-      "explorer": "Kichunguzi",
-      "openEditors": "Vihariri Wazi",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Bonyeza Ctrl+N kuunda faili jipya au Ctrl+O kufungua.",
-      "ready": "Tayari",
-      "lineCol": "Mst {{line}}, Saf {{col}}",
-      "lines": "Mistari: {{count}}",
-      "chars": "Herufi: {{count}}",
-      "noFileOpened": "Hakuna Faili Lililofunguliwa",
-      "zoom": "Kuza: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Mbuni wa Mchoro wa Use Case",
-      "description": "Buni Mchoro wa Use Case na usafirishe ukiwa na kielelezo cha JSON kilicho tayari kwa AI, Hati ya Markdown, SVG na PNG",
-      "import-json": "Ingiza JSON",
-      "export": "Safirisha",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Kielelezo cha AI JSON",
-      "export-as-markdown": "Nyaraka za Markdown"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Zana za Kila Kitu kwa Hati za PDF",
-      "open": "Fungua",
-      "save": "Hifadhi",
-      "save-as": "Hifadhi Kama",
-      "print": "Chapisha",
-      "studio-utilities": "Zana za Studio",
-      "document-viewer": "Kitazamaji Hati",
-      "metadata-editor": "Mhariri wa Metadata",
-      "merge-pdf": "Unganisha PDF",
-      "split-pdf": "Gawanya PDF",
-      "extract-images": "Toa Picha",
-      "compress": "Bana (Boresha)",
-      "browse-file": "Vinjari Faili",
-      "browse-message": "Chagua au buruta PDF ili uanze kuhariri"
-    }
+        "title": "Notebook ++",
+        "description": "Soma, Hariri, Hifadhi faili za maandishi katika umbizo lolote",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Faili",
+        "newFile": "Faili Jipya",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Fungua Faili",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Hifadhi",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Hifadhi Yote...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Toka",
+        "editMenu": "Hariri",
+        "undo": "Tengua",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Rejesha",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Kata",
+        "copy": "Nakili",
+        "paste": "Bandika",
+        "searchMenu": "Tafuta",
+        "find": "Tafuta",
+        "findShortcut": "Ctrl+F",
+        "replace": "Badilisha",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Zana",
+        "formatDocument": "Fomati Hati",
+        "compareActiveWith": "Linganisha Kinachotumika Na...",
+        "explorer": "Kichunguzi",
+        "openEditors": "Vihariri Wazi",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Bonyeza Ctrl+N kuunda faili jipya au Ctrl+O kufungua.",
+        "ready": "Tayari",
+        "lineCol": "Mst {{line}}, Saf {{col}}",
+        "lines": "Mistari: {{count}}",
+        "chars": "Herufi: {{count}}",
+        "noFileOpened": "Hakuna Faili Lililofunguliwa",
+        "zoom": "Kuza: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Mbuni wa Mchoro wa Use Case",
+        "description": "Buni Mchoro wa Use Case na usafirishe ukiwa na kielelezo cha JSON kilicho tayari kwa AI, Hati ya Markdown, SVG na PNG",
+        "import-json": "Ingiza JSON",
+        "export": "Safirisha",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Kielelezo cha AI JSON",
+        "export-as-markdown": "Nyaraka za Markdown"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Zana za Kila Kitu kwa Hati za PDF",
+        "open": "Fungua",
+        "save": "Hifadhi",
+        "save-as": "Hifadhi Kama",
+        "print": "Chapisha",
+        "studio-utilities": "Zana za Studio",
+        "document-viewer": "Kitazamaji Hati",
+        "metadata-editor": "Mhariri wa Metadata",
+        "merge-pdf": "Unganisha PDF",
+        "split-pdf": "Gawanya PDF",
+        "extract-images": "Toa Picha",
+        "compress": "Bana (Boresha)",
+        "browse-file": "Vinjari Faili",
+        "browse-message": "Chagua au buruta PDF ili uanze kuhariri"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Toa maandishi, majedwali, na data iliyopangwa kutoka kwenye picha na PDF ukitumia OCR Studio. Inasaidia katika ulimwengu wa AI ili kuokoa tokeni kwa kutoa maandishi kwenye picha badala ya kupakia picha moja kwa moja.",
+        "upload-or-paste-image": "Pakia au Bandika Picha",
+        "paste-image-url": "Bandika URL ya Picha",
+        "supported-formats": "Miundo Inayokubaliwa: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Chaguzi",
+        "ocr-mode": "Hali ya OCR",
+        "ocr-mode-description": "Chagua aina ya utoaji unaotaka kufanya.",
+        "ocr-languages": "Lugha za OCR",
+        "ocr-languages-description": "Chagua lugha za kutambua kwenye picha.",
+        "ocr-output": "Matokeo ya OCR",
+        "extract-text": "Toa Maandishi",
+        "extract-tables": "Toa Majedwali",
+        "extract-text-and-tables": "Toa Maandishi na Majedwali",
+        "export": "Hamisha",
+        "clear": "Futa",
+        "download-json": "Pakua JSON",
+        "download-text": "Pakua Maandishi",
+        "no-file-selected": "Hakuna faili iliyochaguliwa",
+        "preview": "Onyesho la Awali",
+        "ocr-scanning": "Inachanganua OCR...",
+        "ocr-processing-please-wait": "Inachakata OCR... Tafadhali subiri.",
+        "no-text-extracted": "Hakuna maandishi yaliyotolewa",
+        "no-tables-extracted": "Hakuna majedwali yaliyotolewa",
+        "text": "Maandishi",
+        "tables": "Majedwali",
+        "rows": "Safu mlalo",
+        "columns": "Safu wima",
+        "cell": "Seli",
+        "select-file": "Chagua Faili",
+        "drag-and-drop-here": "Buruta na udondoshe picha yako au PDF hapa"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Buni programu ukiwa na dev utils"
     },
     "versions": {
-      "v2_1_0": {
-      "changes": {
-        "0": "Kumeongezwa Mbuni wa Mchoro wa Use Case aliye tayari kwa AI akiwa na chaguzi mbalimbali za usafirishaji.",
-        "1": "Kumeongezwa PDF Studio yenye Zana za Kila Kitu kwa faili za PDF."
+      "v2_2_0": {
+        "changes": {
+          "0": "Imeongezwa OCR (Optical Character Recognition) Studio ili kuokoa matumizi ya tokeni za AI ingawa usaidizi wa lugha nyingi bado unasubiriwa. Imekamilisha hatua ya Mandhari Mwangaza (Light Theme) kwa mradi."
+        },
+        "quote": "Usisubiri mwingine alete matumaini. Kuwa matumaini ambayo wengine wamekuwa wakiyasubiri."
       },
-      "quote": "Cheche moja hutoa joto kidogo. Cheche elfu huwa mnara wa nuru unaoonekana kote kwenye galaksi.."
-     },
-       "v2_0_1": {
+      "v2_1_0": {
+        "changes": {
+          "0": "Kumeongezwa Mbuni wa Mchoro wa Use Case aliye tayari kwa AI akiwa na chaguzi mbalimbali za usafirishaji.",
+          "1": "Kumeongezwa PDF Studio yenye Zana za Kila Kitu kwa faili za PDF."
+        },
+        "quote": "Cheche moja hutoa joto kidogo. Cheche elfu huwa mnara wa nuru unaoonekana kote kwenye galaksi.."
+      },
+      "v2_0_1": {
         "changes": {
           "0": "Imeongezwa Notebook++, kitazamaji cha faili za maandishi mtandaoni chenye kiangazio cha sintaksia kwa fomati tofauti za faili pamoja na nambari za mistari, utendaji wa kutafuta na kubadilisha na kulinganisha."
         },
-        "quote":"unaweza kushinda maadui elfu moja, lakini jishinde mwenyewe na hakuna adui atayebaki."
+        "quote": "unaweza kushinda maadui elfu moja, lakini jishinde mwenyewe na hakuna adui atayebaki."
       },
       "v2_0_0": {
         "changes": {

@@ -1598,73 +1598,106 @@
         "result": "ਨਤੀਜਾ"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "ਕਿਸੇ ਵੀ ਫਾਰਮੈਟ ਵਿੱਚ ਟੈਕਸਟ ਫਾਈਲਾਂ ਪੜ੍ਹੋ, ਸੰਪਾਦਿਤ ਕਰੋ ਅਤੇ ਸੁਰੱਖਿਅਤ ਕਰੋ",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "ਫਾਈਲ",
-      "newFile": "ਨਵੀਂ ਫਾਈਲ",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "ਫਾਈਲ ਖੋਲ੍ਹੋ",
-      "openFileShortcut": "Ctrl+O",
-      "save": "ਸੇਵ ਕਰੋ",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "ਸਭ ਸੇਵ ਕਰੋ...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "ਬਾਹਰ ਜਾਓ",
-      "editMenu": "ਸੰਪਾਦਨ",
-      "undo": "ਅਨਡੂ ਕਰੋ",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "ਰੀਡੂ ਕਰੋ",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "ਕੱਟੋ",
-      "copy": "ਕਾਪੀ ਕਰੋ",
-      "paste": "ਪੇਸਟ ਕਰੋ",
-      "searchMenu": "ਖੋਜ",
-      "find": "ਲੱਭੋ",
-      "findShortcut": "Ctrl+F",
-      "replace": "ਬਦਲੋ",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "ਟੂਲ",
-      "formatDocument": "ਦਸਤਾਵੇਜ਼ ਫਾਰਮੈਟ ਕਰੋ",
-      "compareActiveWith": "ਸਰਗਰਮ ਦੀ ਤੁਲਨਾ ਇਸ ਨਾਲ ਕਰੋ...",
-      "explorer": "ਐਕਸਪਲੋਰਰ",
-      "openEditors": "ਖੁੱਲ੍ਹੇ ਸੰਪਾਦਕ",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "ਨਵੀਂ ਫਾਈਲ ਬਣਾਉਣ ਲਈ Ctrl+N ਜਾਂ ਖੋਲ੍ਹਣ ਲਈ Ctrl+O ਦਬਾਓ।",
-      "ready": "ਤਿਆਰ",
-      "lineCol": "ਲਾਈਨ {{line}}, ਕਾਲਮ {{col}}",
-      "lines": "ਲਾਈਨਾਂ: {{count}}",
-      "chars": "ਅੱਖਰ: {{count}}",
-      "noFileOpened": "ਕੋਈ ਫਾਈਲ ਨਹੀਂ ਖੁੱਲ੍ਹੀ",
-      "zoom": "ਜ਼ੂਮ: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "ਯੂਜ਼ ਕੇਸ ਡਾਇਗ੍ਰਾਮ ਡਿਜ਼ਾਈਨਰ",
-      "description": "ਯੂਜ਼ ਕੇਸ ਡਾਇਗ੍ਰਾਮ ਡਿਜ਼ਾਈਨ ਕਰੋ ਅਤੇ AI ਰੈਡੀ JSON ਮਾਡਲ, Markdown Doc, SVG ਅਤੇ PNG ਨਾਲ ਐਕਸਪੋਰਟ ਕਰੋ",
-      "import-json": "JSON ਇੰਪੋਰਟ ਕਰੋ",
-      "export": "ਐਕਸਪੋਰਟ ਕਰੋ",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "AI JSON ਮਾਡਲ",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF ਸਟੂਡੀਓ",
-      "description": "PDF ਡਾਕੂਮੈਂਟ ਲਈ ਆਲ-ਇਨ-ਵਨ ਯੂਟਿਲਿਟੀਜ਼",
-      "open": "ਖੋਲ੍ਹੋ",
-      "save": "ਸੇਵ ਕਰੋ",
-      "save-as": "ਇਸ ਤਰ੍ਹਾਂ ਸੇਵ ਕਰੋ (Save As)",
-      "print": "ਪ੍ਰਿੰਟ ਕਰੋ",
-      "studio-utilities": "ਸਟੂਡੀਓ ਯੂਟਿਲਿਟੀਜ਼",
-      "document-viewer": "ਡਾਕੂਮੈਂਟ ਵਿਊਅਰ",
-      "metadata-editor": "ਮੈਟਾਡੇਟਾ ਐਡੀਟਰ",
-      "merge-pdf": "PDF ਮਰਜ ਕਰੋ",
-      "split-pdf": "PDF ਸਪਲਿਟ ਕਰੋ",
-      "extract-images": "ਇਮੇਜਿਜ਼ ਐਕਸਟਰੈਕਟ ਕਰੋ",
-      "compress": "ਕੰਪ੍ਰੈੱਸ ਕਰੋ (ਆਪਟੀਮਾਈਜ਼)",
-      "browse-file": "ਫਾਈਲ ਬ੍ਰਾਊਜ਼ ਕਰੋ",
-      "browse-message": "ਐਡਿਟਿੰਗ ਸ਼ੁਰੂ ਕਰਨ ਲਈ PDF ਚੁਣੋ ਜਾਂ ਡਰੈਗ ਕਰੋ"
-    }
+        "title": "Notebook ++",
+        "description": "ਕਿਸੇ ਵੀ ਫਾਰਮੈਟ ਵਿੱਚ ਟੈਕਸਟ ਫਾਈਲਾਂ ਪੜ੍ਹੋ, ਸੰਪਾਦਿਤ ਕਰੋ ਅਤੇ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "ਫਾਈਲ",
+        "newFile": "ਨਵੀਂ ਫਾਈਲ",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "ਫਾਈਲ ਖੋਲ੍ਹੋ",
+        "openFileShortcut": "Ctrl+O",
+        "save": "ਸੇਵ ਕਰੋ",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "ਸਭ ਸੇਵ ਕਰੋ...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "ਬਾਹਰ ਜਾਓ",
+        "editMenu": "ਸੰਪਾਦਨ",
+        "undo": "ਅਨਡੂ ਕਰੋ",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "ਰੀਡੂ ਕਰੋ",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "ਕੱਟੋ",
+        "copy": "ਕਾਪੀ ਕਰੋ",
+        "paste": "ਪੇਸਟ ਕਰੋ",
+        "searchMenu": "ਖੋਜ",
+        "find": "ਲੱਭੋ",
+        "findShortcut": "Ctrl+F",
+        "replace": "ਬਦਲੋ",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "ਟੂਲ",
+        "formatDocument": "ਦਸਤਾਵੇਜ਼ ਫਾਰਮੈਟ ਕਰੋ",
+        "compareActiveWith": "ਸਰਗਰਮ ਦੀ ਤੁਲਨਾ ਇਸ ਨਾਲ ਕਰੋ...",
+        "explorer": "ਐਕਸਪਲੋਰਰ",
+        "openEditors": "ਖੁੱਲ੍ਹੇ ਸੰਪਾਦਕ",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "ਨਵੀਂ ਫਾਈਲ ਬਣਾਉਣ ਲਈ Ctrl+N ਜਾਂ ਖੋਲ੍ਹਣ ਲਈ Ctrl+O ਦਬਾਓ।",
+        "ready": "ਤਿਆਰ",
+        "lineCol": "ਲਾਈਨ {{line}}, ਕਾਲਮ {{col}}",
+        "lines": "ਲਾਈਨਾਂ: {{count}}",
+        "chars": "ਅੱਖਰ: {{count}}",
+        "noFileOpened": "ਕੋਈ ਫਾਈਲ ਨਹੀਂ ਖੁੱਲ੍ਹੀ",
+        "zoom": "ਜ਼ੂਮ: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "ਯੂਜ਼ ਕੇਸ ਡਾਇਗ੍ਰਾਮ ਡਿਜ਼ਾਈਨਰ",
+        "description": "ਯੂਜ਼ ਕੇਸ ਡਾਇਗ੍ਰਾਮ ਡਿਜ਼ਾਈਨ ਕਰੋ ਅਤੇ AI ਰੈਡੀ JSON ਮਾਡਲ, Markdown Doc, SVG ਅਤੇ PNG ਨਾਲ ਐਕਸਪੋਰਟ ਕਰੋ",
+        "import-json": "JSON ਇੰਪੋਰਟ ਕਰੋ",
+        "export": "ਐਕਸਪੋਰਟ ਕਰੋ",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON ਮਾਡਲ",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF ਸਟੂਡੀਓ",
+        "description": "PDF ਡਾਕੂਮੈਂਟ ਲਈ ਆਲ-ਇਨ-ਵਨ ਯੂਟਿਲਿਟੀਜ਼",
+        "open": "ਖੋਲ੍ਹੋ",
+        "save": "ਸੇਵ ਕਰੋ",
+        "save-as": "ਇਸ ਤਰ੍ਹਾਂ ਸੇਵ ਕਰੋ (Save As)",
+        "print": "ਪ੍ਰਿੰਟ ਕਰੋ",
+        "studio-utilities": "ਸਟੂਡੀਓ ਯੂਟਿਲਿਟੀਜ਼",
+        "document-viewer": "ਡਾਕੂਮੈਂਟ ਵਿਊਅਰ",
+        "metadata-editor": "ਮੈਟਾਡੇਟਾ ਐਡੀਟਰ",
+        "merge-pdf": "PDF ਮਰਜ ਕਰੋ",
+        "split-pdf": "PDF ਸਪਲਿਟ ਕਰੋ",
+        "extract-images": "ਇਮੇਜਿਜ਼ ਐਕਸਟਰੈਕਟ ਕਰੋ",
+        "compress": "ਕੰਪ੍ਰੈੱਸ ਕਰੋ (ਆਪਟੀਮਾਈਜ਼)",
+        "browse-file": "ਫਾਈਲ ਬ੍ਰਾਊਜ਼ ਕਰੋ",
+        "browse-message": "ਐਡਿਟਿੰਗ ਸ਼ੁਰੂ ਕਰਨ ਲਈ PDF ਚੁਣੋ ਜਾਂ ਡਰੈਗ ਕਰੋ"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "OCR Studio ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਚਿੱਤਰਾਂ ਅਤੇ PDF ਤੋਂ ਟੈਕਸਟ, ਟੇਬਲ ਅਤੇ ਢਾਂਚਾਗਤ ਡੇਟਾ ਐਕਸਟਰੈਕਟ ਕਰੋ। ਸਿੱਧੇ ਚਿੱਤਰਾਂ ਨੂੰ ਅਪਲੋਡ ਕਰਨ ਦੀ ਬਜਾਏ ਚਿੱਤਰਾਂ ਤੋਂ ਟੈਕਸਟ ਕੱਢ ਕੇ ਟੋਕਨਾਂ ਦੀ ਬਚਤ ਕਰਨ ਲਈ AI ਦੀ ਦੁਨੀਆ ਵਿੱਚ ਲਾਭਦਾਇਕ ਹੈ।",
+        "upload-or-paste-image": "ਚਿੱਤਰ ਅੱਪਲੋਡ ਜਾਂ ਪੇਸਟ ਕਰੋ",
+        "paste-image-url": "ਚਿੱਤਰ ਦਾ URL ਪੇਸਟ ਕਰੋ",
+        "supported-formats": "ਸਮਰਥਿਤ ਫਾਰਮੈਟ: JPG, PNG, WEBP, BMP, PDF",
+        "options": "ਵਿਕਲਪ",
+        "ocr-mode": "OCR ਮੋਡ",
+        "ocr-mode-description": "ਉਹ ਐਕਸਟਰੈਕਸ਼ਨ ਕਿਸਮ ਚੁਣੋ ਜੋ ਤੁਸੀਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।",
+        "ocr-languages": "OCR ਭਾਸ਼ਾਵਾਂ",
+        "ocr-languages-description": "ਚਿੱਤਰ ਵਿੱਚ ਖੋਜਣ ਲਈ ਭਾਸ਼ਾਵਾਂ ਦੀ ਚੋਣ ਕਰੋ।",
+        "ocr-output": "OCR ਆਉਟਪੁੱਟ",
+        "extract-text": "ਟੈਕਸਟ ਐਕਸਟਰੈਕਟ ਕਰੋ",
+        "extract-tables": "ਟੇਬਲ ਐਕਸਟਰੈਕਟ ਕਰੋ",
+        "extract-text-and-tables": "ਟੈਕਸਟ ਅਤੇ ਟੇਬਲ ਐਕਸਟਰੈਕਟ ਕਰੋ",
+        "export": "ਐਕਸਪੋਰਟ ਕਰੋ",
+        "clear": "ਸਾਫ਼ ਕਰੋ",
+        "download-json": "JSON ਡਾਊਨਲੋਡ ਕਰੋ",
+        "download-text": "ਟੈਕਸਟ ਡਾਊਨਲੋਡ ਕਰੋ",
+        "no-file-selected": "ਕੋਈ ਫਾਈਲ ਨਹੀਂ ਚੁਣੀ ਗਈ",
+        "preview": "ਪ੍ਰੀਵਿਊ",
+        "ocr-scanning": "OCR ਸਕੈਨਿੰਗ ਹੋ ਰਹੀ ਹੈ...",
+        "ocr-processing-please-wait": "OCR ਪ੍ਰੋਸੈਸਿੰਗ ਜਾਰੀ ਹੈ... ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ।",
+        "no-text-extracted": "ਕੋਈ ਟੈਕਸਟ ਨਹੀਂ ਕੱਢਿਆ ਗਿਆ",
+        "no-tables-extracted": "ਕੋਈ ਟੇਬਲ ਨਹੀਂ ਕੱਢੇ ਗਏ",
+        "text": "ਟੈਕਸਟ",
+        "tables": "ਟੇਬਲ",
+        "rows": "ਕਤਾਰਾਂ",
+        "columns": "ਕਾਲਮ",
+        "cell": "ਸੈੱਲ",
+        "select-file": "ਕੋਈ ਫਾਈਲ ਚੁਣੋ",
+        "drag-and-drop-here": "ਆਪਣਾ ਚਿੱਤਰ ਜਾਂ PDF ਇੱਥੇ ਡ੍ਰੈਗ ਅਤੇ ਡ੍ਰੌਪ ਕਰੋ"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "dev utils ਦੇ ਨਾਲ ਐਪਲੀਕੇਸ਼ਨ ਡਿਜ਼ਾਈਨ ਕਰੋ"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "ਬਹੁ-ਭਾਸ਼ਾਈ ਸਹਾਇਤਾ ਬਕਾਇਆ ਹੋਣ ਦੇ ਬਾਵਜੂਦ AI ਟੋਕਨ ਦੀ ਖਪਤ ਨੂੰ ਬਚਾਉਣ ਲਈ OCR (Optical Character Recognition) Studio ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ। ਪ੍ਰੋਜੈਕਟ ਲਈ ਲਾਈਟ ਥੀਮ ਦਾ ਮੀਲ ਪੱਥਰ ਪੂਰਾ ਹੋਇਆ।"
+        },
+        "quote": "ਕਿਸੇ ਹੋਰ ਦੇ ਉਮੀਦ ਲਿਆਉਣ ਦੀ ਉਡੀਕ ਨਾ ਕਰੋ। ਉਹ ਉਮੀਦ ਬਣੋ ਜਿਸ ਦੀ ਦੂਜਿਆਂ ਨੇ ਉਡੀਕ ਕੀਤੀ ਹੈ।"
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "ਵਿਭਿੰਨ ਐਕਸਪੋਰਟ ਵਿਕਲਪਾਂ ਦੇ ਨਾਲ AI ਰੈਡੀ ਯੂਜ਼ ਕੇਸ ਡਾਇਗ੍ਰਾਮ ਡਿਜ਼ਾਈਨਰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।",
-        "1": "PDF ਫਾਈਲਾਂ ਲਈ ਆਲ-ਇਨ-ਵਨ ਯੂਟਿਲਿਟੀਜ਼ ਦੇ ਨਾਲ PDF ਸਟੂਡੀਓ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+        "changes": {
+          "0": "ਵਿਭਿੰਨ ਐਕਸਪੋਰਟ ਵਿਕਲਪਾਂ ਦੇ ਨਾਲ AI ਰੈਡੀ ਯੂਜ਼ ਕੇਸ ਡਾਇਗ੍ਰਾਮ ਡਿਜ਼ਾਈਨਰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।",
+          "1": "PDF ਫਾਈਲਾਂ ਲਈ ਆਲ-ਇਨ-ਵਨ ਯੂਟਿਲਿਟੀਜ਼ ਦੇ ਨਾਲ PDF ਸਟੂਡੀਓ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ।"
+        },
+        "quote": "ਇੱਕ ਚੰਗਿਆੜੀ ਘੱਟ ਗਰਮੀ ਦਿੰਦੀ ਹੈ। ਹਜ਼ਾਰਾਂ ਚੰਗਿਆੜੀਆਂ ਮਿਲ ਕੇ ਇੱਕ ਅਜਿਹਾ ਪ੍ਰਕਾਸ਼-ਸਤੰਭ ਬਣ ਜਾਂਦੀਆਂ ਹਨ ਜੋ ਪੂਰੀ ਆਕਾਸ਼ਗੰਗਾ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ.."
       },
-      "quote": "ਇੱਕ ਚੰਗਿਆੜੀ ਘੱਟ ਗਰਮੀ ਦਿੰਦੀ ਹੈ। ਹਜ਼ਾਰਾਂ ਚੰਗਿਆੜੀਆਂ ਮਿਲ ਕੇ ਇੱਕ ਅਜਿਹਾ ਪ੍ਰਕਾਸ਼-ਸਤੰਭ ਬਣ ਜਾਂਦੀਆਂ ਹਨ ਜੋ ਪੂਰੀ ਆਕਾਸ਼ਗੰਗਾ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "Notebook++ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ, ਵੱਖ-ਵੱਖ ਫਾਈਲ ਫਾਰਮੈਟਾਂ ਲਈ ਸਿੰਟੈਕਸ ਹਾਈਲਾਈਟਰ, ਲਾਈਨ ਨੰਬਰ, ਲੱਭੋ ਅਤੇ ਬਦਲੋ (find and replace) ਅਤੇ ਤੁਲਨਾ ਕਰਨ ਦੀ ਕਾਰਜਕੁਸ਼ਲਤਾ ਦੇ ਨਾਲ ਇੱਕ ਔਨਲਾਈਨ ਟੈਕਸਟ ਫਾਈਲ ਵਿਊਅਰ।"
         },
-        "quote":"ਤੁਸੀਂ ਹਜ਼ਾਰ ਦੁਸ਼ਮਣਾਂ ਨੂੰ ਜਿੱਤ ਸਕਦੇ ਹੋ, ਪਰ ਆਪਣੇ ਆਪ ਨੂੰ ਜਿੱਤੋ ਅਤੇ ਕੋਈ ਦੁਸ਼ਮਣ ਬਾਕੀ ਨਹੀਂ ਰਹੇਗਾ।"
+        "quote": "ਤੁਸੀਂ ਹਜ਼ਾਰ ਦੁਸ਼ਮਣਾਂ ਨੂੰ ਜਿੱਤ ਸਕਦੇ ਹੋ, ਪਰ ਆਪਣੇ ਆਪ ਨੂੰ ਜਿੱਤੋ ਅਤੇ ਕੋਈ ਦੁਸ਼ਮਣ ਬਾਕੀ ਨਹੀਂ ਰਹੇਗਾ।"
       },
       "v2_0_0": {
         "changes": {

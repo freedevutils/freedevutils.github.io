@@ -1639,32 +1639,65 @@
         "zoom": "ज़ूम: {{level}}%"
       },
       "use-case-diagram": {
-      "title": "यूज़ केस आरेख डिज़ाइनर (Use Case Diagram Designer)",
-      "description": "यूज़ केस आरेख डिज़ाइन करें और AI रेडी JSON मॉडल, Markdown Doc, SVG और PNG के साथ निर्यात करें",
-      "import-json": "JSON आयात करें",
-      "export": "निर्यात करें",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "AI JSON मॉडल",
-      "export-as-markdown": "Markdown Docs"
-    },
-    "pdf-studio": {
-      "title": "PDF स्टूडियो",
-      "description": "PDF दस्तावेज़ के लिए ऑल-इन-वन यूटिलिटीज़",
-      "open": "खोलें",
-      "save": "सहेजें",
-      "save-as": "इस रूप में सहेजें (Save As)",
-      "print": "प्रिंट करें",
-      "studio-utilities": "स्टूडियो यूटिलिटीज़",
-      "document-viewer": "दस्तावेज़ व्यूअर",
-      "metadata-editor": "मेटाडेटा संपादक",
-      "merge-pdf": "PDF मर्ज करें",
-      "split-pdf": "PDF स्प्लिट करें",
-      "extract-images": "इमेजेस एक्सट्रेक्ट करें",
-      "compress": "कंप्रेस (ऑप्टिमाइज़) करें",
-      "browse-file": "फ़ाइल ब्राउज़ करें",
-      "browse-message": "संपादन शुरू करने के लिए PDF चुनें या ड्रैग करें"
-     }
+        "title": "यूज़ केस आरेख डिज़ाइनर (Use Case Diagram Designer)",
+        "description": "यूज़ केस आरेख डिज़ाइन करें और AI रेडी JSON मॉडल, Markdown Doc, SVG और PNG के साथ निर्यात करें",
+        "import-json": "JSON आयात करें",
+        "export": "निर्यात करें",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSON मॉडल",
+        "export-as-markdown": "Markdown Docs"
+      },
+      "pdf-studio": {
+        "title": "PDF स्टूडियो",
+        "description": "PDF दस्तावेज़ के लिए ऑल-इन-वन यूटिलिटीज़",
+        "open": "खोलें",
+        "save": "सहेजें",
+        "save-as": "इस रूप में सहेजें (Save As)",
+        "print": "प्रिंट करें",
+        "studio-utilities": "स्टूडियो यूटिलिटीज़",
+        "document-viewer": "दस्तावेज़ व्यूअर",
+        "metadata-editor": "मेटाडेटा संपादक",
+        "merge-pdf": "PDF मर्ज करें",
+        "split-pdf": "PDF स्प्लिट करें",
+        "extract-images": "इमेजेस एक्सट्रेक्ट करें",
+        "compress": "कंप्रेस (ऑप्टिमाइज़) करें",
+        "browse-file": "फ़ाइल ब्राउज़ करें",
+        "browse-message": "संपादन शुरू करने के लिए PDF चुनें या ड्रैग करें"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "OCR Studio का उपयोग करके छवियों और PDF से टेक्स्ट, टेबल और संरचित डेटा निकालें। छवियों को सीधे अपलोड करने के बजाय उनसे टेक्स्ट निकालकर AI की दुनिया में टोकन बचाने के लिए उपयोगी है।",
+        "upload-or-paste-image": "छवि अपलोड करें या पेस्ट करें",
+        "paste-image-url": "छवि URL पेस्ट करें",
+        "supported-formats": "समर्थित प्रारूप: JPG, PNG, WEBP, BMP, PDF",
+        "options": "विकल्प",
+        "ocr-mode": "OCR मोड",
+        "ocr-mode-description": "आप जिस प्रकार का निष्कर्षण करना चाहते हैं, उसका चयन करें।",
+        "ocr-languages": "OCR भाषाएँ",
+        "ocr-languages-description": "छवि में पहचानने के लिए भाषाओं का चयन करें।",
+        "ocr-output": "OCR आउटपुट",
+        "extract-text": "टेक्स्ट निकालें",
+        "extract-tables": "टेबल निकालें",
+        "extract-text-and-tables": "टेक्स्ट और टेबल निकालें",
+        "export": "निर्यात करें",
+        "clear": "साफ़ करें",
+        "download-json": "JSON डाउनलोड करें",
+        "download-text": "टेक्स्ट डाउनलोड करें",
+        "no-file-selected": "कोई फ़ाइल नहीं चुनी गई",
+        "preview": "पूर्वावलोकन",
+        "ocr-scanning": "OCR स्कैन कर रहा है...",
+        "ocr-processing-please-wait": "OCR प्रोसेसिंग कर रहा है... कृपया प्रतीक्षा करें।",
+        "no-text-extracted": "कोई टेक्स्ट नहीं निकाला गया",
+        "no-tables-extracted": "कोई टेबल नहीं निकाली गई",
+        "text": "टेक्स्ट",
+        "tables": "टेबल",
+        "rows": "पंक्तियाँ",
+        "columns": "स्तंभ",
+        "cell": "सेल",
+        "select-file": "एक फ़ाइल चुनें",
+        "drag-and-drop-here": "अपनी छवि या PDF यहाँ ड्रैग और ड्रॉप करें"
+      }
     }
   },
   "contribute": {
@@ -1997,11 +2030,17 @@
     },
     "versions": {
       "v2_1_0": {
-      "changes": {
-        "0": "विभिन्न निर्यात विकल्पों के साथ AI रेडी यूज़ केस आरेख डिज़ाइनर जोड़ा गया।",
-        "1": "PDF फ़ाइलों के लिए ऑल-इन-वन यूटिलिटीज़ के साथ PDF स्टूडियो जोड़ा गया।"
+        "changes": {
+          "0": "विभिन्न निर्यात विकल्पों के साथ AI रेडी यूज़ केस आरेख डिज़ाइनर जोड़ा गया।",
+          "1": "PDF फ़ाइलों के लिए ऑल-इन-वन यूटिलिटीज़ के साथ PDF स्टूडियो जोड़ा गया।"
+        },
+        "quote": "एक चिंगारी कम गर्माहट देती है। लेकिन हज़ार चिंगारियाँ मिलकर एक ऐसा प्रकाशस्तंभ बन जाती हैं जो पूरी आकाशगंगा में दिखाई देता है.."
       },
-      "quote": "एक चिंगारी कम गर्माहट देती है। लेकिन हज़ार चिंगारियाँ मिलकर एक ऐसा प्रकाशस्तंभ बन जाती हैं जो पूरी आकाशगंगा में दिखाई देता है.."
+      "v2_2_0": {
+        "changes": {
+          "0": "बहुभाषी समर्थन लंबित होने के बावजूद AI टोकन की खपत को बचाने के लिए OCR (Optical Character Recognition) Studio जोड़ा गया। प्रोजेक्ट के लिए लाइट थीम का माइलस्टोन पूरा किया गया।"
+        },
+        "quote": "किसी और से उम्मीद आने की इंतज़ार न करें। वह उम्मीद बनें जिसका दूसरों को इंतज़ार था।"
       },
       "v2_0_1": {
         "changes": {

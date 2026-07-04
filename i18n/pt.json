@@ -611,7 +611,7 @@
         "copy": "Copiar",
         "download": "Baixar",
         "output-preview": "Pré-visualização da Saída",
-         "clear": "Limpar"
+        "clear": "Limpar"
       },
       "text-to-speech-converter": {
         "title": "Conversor de Texto em Fala",
@@ -1598,73 +1598,106 @@
         "result": "Resultado"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Leia, edite e salve arquivos de texto em qualquer formato",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Arquivo",
-      "newFile": "Novo Arquivo",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Abrir Arquivo",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Salvar",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Salvar Tudo...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Sair",
-      "editMenu": "Editar",
-      "undo": "Desfazer",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Refazer",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Recortar",
-      "copy": "Copiar",
-      "paste": "Colar",
-      "searchMenu": "Pesquisar",
-      "find": "Localizar",
-      "findShortcut": "Ctrl+F",
-      "replace": "Substituir",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Ferramentas",
-      "formatDocument": "Formatar Documento",
-      "compareActiveWith": "Comparar Ativo Com...",
-      "explorer": "Explorador",
-      "openEditors": "Editores Abertos",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Pressione Ctrl+N para criar um novo arquivo ou Ctrl+O para abrir.",
-      "ready": "Pronto",
-      "lineCol": "Ln {{line}}, Col {{col}}",
-      "lines": "Linhas: {{count}}",
-      "chars": "Caracteres: {{count}}",
-      "noFileOpened": "Nenhum Arquivo Aberto",
-      "zoom": "Zoom: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Designer de Diagrama de Caso de Uso",
-      "description": "Projete Diagrama de Caso de Uso e exporte com modelo JSON pronto para IA, Documento Markdown, SVG e PNG",
-      "import-json": "Importar JSON",
-      "export": "Exportar",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Modelo AI JSON",
-      "export-as-markdown": "Documentos Markdown"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Utilitários completos para Documentos PDF",
-      "open": "Abrir",
-      "save": "Salvar",
-      "save-as": "Salvar Como",
-      "print": "Imprimir",
-      "studio-utilities": "Utilitários Studio",
-      "document-viewer": "Visualizador de Documentos",
-      "metadata-editor": "Editor de Metadados",
-      "merge-pdf": "Mesclar PDFs",
-      "split-pdf": "Dividir PDF",
-      "extract-images": "Extrair Imagens",
-      "compress": "Comprimir (Otimizar)",
-      "browse-file": "Procurar Arquivo",
-      "browse-message": "Selecione ou arraste um PDF para começar a editar"
-    }
+        "title": "Notebook ++",
+        "description": "Leia, edite e salve arquivos de texto em qualquer formato",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Arquivo",
+        "newFile": "Novo Arquivo",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Abrir Arquivo",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Salvar",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Salvar Tudo...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Sair",
+        "editMenu": "Editar",
+        "undo": "Desfazer",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Refazer",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Recortar",
+        "copy": "Copiar",
+        "paste": "Colar",
+        "searchMenu": "Pesquisar",
+        "find": "Localizar",
+        "findShortcut": "Ctrl+F",
+        "replace": "Substituir",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Ferramentas",
+        "formatDocument": "Formatar Documento",
+        "compareActiveWith": "Comparar Ativo Com...",
+        "explorer": "Explorador",
+        "openEditors": "Editores Abertos",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Pressione Ctrl+N para criar um novo arquivo ou Ctrl+O para abrir.",
+        "ready": "Pronto",
+        "lineCol": "Ln {{line}}, Col {{col}}",
+        "lines": "Linhas: {{count}}",
+        "chars": "Caracteres: {{count}}",
+        "noFileOpened": "Nenhum Arquivo Aberto",
+        "zoom": "Zoom: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Designer de Diagrama de Caso de Uso",
+        "description": "Projete Diagrama de Caso de Uso e exporte com modelo JSON pronto para IA, Documento Markdown, SVG e PNG",
+        "import-json": "Importar JSON",
+        "export": "Exportar",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Modelo AI JSON",
+        "export-as-markdown": "Documentos Markdown"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Utilitários completos para Documentos PDF",
+        "open": "Abrir",
+        "save": "Salvar",
+        "save-as": "Salvar Como",
+        "print": "Imprimir",
+        "studio-utilities": "Utilitários Studio",
+        "document-viewer": "Visualizador de Documentos",
+        "metadata-editor": "Editor de Metadados",
+        "merge-pdf": "Mesclar PDFs",
+        "split-pdf": "Dividir PDF",
+        "extract-images": "Extrair Imagens",
+        "compress": "Comprimir (Otimizar)",
+        "browse-file": "Procurar Arquivo",
+        "browse-message": "Selecione ou arraste um PDF para começar a editar"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Extraia texto, tabelas e dados estruturados de imagens e PDFs usando o OCR Studio. Útil no mundo da IA para economizar tokens extraindo texto de imagens em vez de fazer upload direto delas.",
+        "upload-or-paste-image": "Fazer Upload ou Colar Imagem",
+        "paste-image-url": "Colar URL da Imagem",
+        "supported-formats": "Formatos Suportados: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Opções",
+        "ocr-mode": "Modo OCR",
+        "ocr-mode-description": "Selecione o tipo de extração que você deseja realizar.",
+        "ocr-languages": "Idiomas OCR",
+        "ocr-languages-description": "Selecione os idiomas para detectar na imagem.",
+        "ocr-output": "Saída OCR",
+        "extract-text": "Extrair Texto",
+        "extract-tables": "Extrair Tabelas",
+        "extract-text-and-tables": "Extrair Texto e Tabelas",
+        "export": "Exportar",
+        "clear": "Limpar",
+        "download-json": "Baixar JSON",
+        "download-text": "Baixar Texto",
+        "no-file-selected": "Nenhum arquivo selecionado",
+        "preview": "Visualização",
+        "ocr-scanning": "Escaneando OCR...",
+        "ocr-processing-please-wait": "Processando OCR... Por favor, aguarde.",
+        "no-text-extracted": "Nenhum texto extraído",
+        "no-tables-extracted": "Nenhuma tabela extraída",
+        "text": "Texto",
+        "tables": "Tabelas",
+        "rows": "Linhas",
+        "columns": "Colunas",
+        "cell": "Célula",
+        "select-file": "Selecione um Arquivo",
+        "drag-and-drop-here": "Arraste e solte sua imagem ou PDF aqui"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Projetar aplicativo com dev utils"
     },
     "versions": {
-      "v2_1_0": {
-      "changes": {
-        "0": "Adicionado Designer de Diagrama de Caso de Uso pronto para IA com várias opções de exportação.",
-        "1": "Adicionado PDF Studio com utilitários completos para arquivos PDF"
+      "v2_2_0": {
+        "changes": {
+          "0": "Adicionado OCR (Optical Character Recognition) Studio para economizar consumo de tokens de IA, embora o suporte multilíngue esteja pendente. Concluído o Marco de Tema Claro (Light Theme) para o projeto."
+        },
+        "quote": "Não espere por outro para trazer esperança. Torne-se a esperança que os outros esperaram."
       },
-      "quote": "Uma faísca aquece pouco. Mil faíscas tornam-se um farol visto em toda a galáxia.."
-    },
-       "v2_0_1": {
+      "v2_1_0": {
+        "changes": {
+          "0": "Adicionado Designer de Diagrama de Caso de Uso pronto para IA com várias opções de exportação.",
+          "1": "Adicionado PDF Studio com utilitários completos para arquivos PDF"
+        },
+        "quote": "Uma faísca aquece pouco. Mil faíscas tornam-se um farol visto em toda a galáxia.."
+      },
+      "v2_0_1": {
         "changes": {
           "0": "Adicionado Notebook++, um visualizador de arquivos de texto online com realce de sintaxe para diferentes formatos de arquivo, números de linha, e funcionalidade de localizar, substituir e comparar."
         },
-        "quote":"você pode conquistar mil inimigos, mas conquiste a si mesmo e nenhum inimigo restará."
+        "quote": "você pode conquistar mil inimigos, mas conquiste a si mesmo e nenhum inimigo restará."
       },
       "v2_0_0": {
         "changes": {

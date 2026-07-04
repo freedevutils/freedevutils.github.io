@@ -1598,73 +1598,106 @@
         "result": "תוצאה"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "קרא, ערוך ושמור קובצי טקסט בכל פורמט",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "קובץ",
-      "newFile": "קובץ חדש",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "פתח קובץ",
-      "openFileShortcut": "Ctrl+O",
-      "save": "שמור",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "שמור הכל...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "יציאה",
-      "editMenu": "עריכה",
-      "undo": "בטל",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "בצע שוב",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "גזור",
-      "copy": "העתק",
-      "paste": "הדבק",
-      "searchMenu": "חיפוש",
-      "find": "מצא",
-      "findShortcut": "Ctrl+F",
-      "replace": "החלף",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "כלים",
-      "formatDocument": "עצב מסמך",
-      "compareActiveWith": "השווה פעיל עם...",
-      "explorer": "סייר",
-      "openEditors": "עורכים פתוחים",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "לחץ על Ctrl+N ליצירת קובץ חדש או על Ctrl+O לפתיחה.",
-      "ready": "מוכן",
-      "lineCol": "שורה {{line}}, עמודה {{col}}",
-      "lines": "שורות: {{count}}",
-      "chars": "תווים: {{count}}",
-      "noFileOpened": "לא נפתח קובץ",
-      "zoom": "תצוגה: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "מעצב תרשים Use Case",
-      "description": "עצב תרשים Use Case וייצא עם מודל JSON מוכן ל-AI, מסמכי Markdown, ‏SVG ו-PNG",
-      "import-json": "ייבא JSON",
-      "export": "ייצא",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "מודל AI JSON",
-      "export-as-markdown": "מסמכי Markdown"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "כלי שירות הכל-באחד למסמכי PDF",
-      "open": "פתח",
-      "save": "שמור",
-      "save-as": "שמור בשם",
-      "print": "הדפס",
-      "studio-utilities": "כלי שירות של Studio",
-      "document-viewer": "מציג מסמכים",
-      "metadata-editor": "עורך מטא-דאטה",
-      "merge-pdf": "מזג קובצי PDF",
-      "split-pdf": "פצל PDF",
-      "extract-images": "חלץ תמונות",
-      "compress": "דחוס (בצע אופטימיזציה)",
-      "browse-file": "עיון בקובץ",
-      "browse-message": "בחר או גרור קובץ PDF כדי להתחיל בעריכה"
-    }
+        "title": "Notebook ++",
+        "description": "קרא, ערוך ושמור קובצי טקסט בכל פורמט",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "קובץ",
+        "newFile": "קובץ חדש",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "פתח קובץ",
+        "openFileShortcut": "Ctrl+O",
+        "save": "שמור",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "שמור הכל...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "יציאה",
+        "editMenu": "עריכה",
+        "undo": "בטל",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "בצע שוב",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "גזור",
+        "copy": "העתק",
+        "paste": "הדבק",
+        "searchMenu": "חיפוש",
+        "find": "מצא",
+        "findShortcut": "Ctrl+F",
+        "replace": "החלף",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "כלים",
+        "formatDocument": "עצב מסמך",
+        "compareActiveWith": "השווה פעיל עם...",
+        "explorer": "סייר",
+        "openEditors": "עורכים פתוחים",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "לחץ על Ctrl+N ליצירת קובץ חדש או על Ctrl+O לפתיחה.",
+        "ready": "מוכן",
+        "lineCol": "שורה {{line}}, עמודה {{col}}",
+        "lines": "שורות: {{count}}",
+        "chars": "תווים: {{count}}",
+        "noFileOpened": "לא נפתח קובץ",
+        "zoom": "תצוגה: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "מעצב תרשים Use Case",
+        "description": "עצב תרשים Use Case וייצא עם מודל JSON מוכן ל-AI, מסמכי Markdown, ‏SVG ו-PNG",
+        "import-json": "ייבא JSON",
+        "export": "ייצא",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "מודל AI JSON",
+        "export-as-markdown": "מסמכי Markdown"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "כלי שירות הכל-באחד למסמכי PDF",
+        "open": "פתח",
+        "save": "שמור",
+        "save-as": "שמור בשם",
+        "print": "הדפס",
+        "studio-utilities": "כלי שירות של Studio",
+        "document-viewer": "מציג מסמכים",
+        "metadata-editor": "עורך מטא-דאטה",
+        "merge-pdf": "מזג קובצי PDF",
+        "split-pdf": "פצל PDF",
+        "extract-images": "חלץ תמונות",
+        "compress": "דחוס (בצע אופטימיזציה)",
+        "browse-file": "עיון בקובץ",
+        "browse-message": "בחר או גרור קובץ PDF כדי להתחיל בעריכה"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "חלץ טקסט, טבלאות ונתונים מובנים מתמונות ומקובצי PDF באמצעות OCR Studio. שימושי בעולם ה-AI לחיסכון בטוקנים על ידי חילוץ טקסט מתמונות במקום להעלות את התמונות ישירות.",
+        "upload-or-paste-image": "העלה או הדבק תמונה",
+        "paste-image-url": "הדבק כתובת URL של תמונה",
+        "supported-formats": "פורמטים נתמכים: JPG, PNG, WEBP, BMP, PDF",
+        "options": "אפשרויות",
+        "ocr-mode": "מצב OCR",
+        "ocr-mode-description": "בחר את סוג החילוץ שברצונך לבצע.",
+        "ocr-languages": "שפות OCR",
+        "ocr-languages-description": "בחר את השפות לזיהוי בתמונה.",
+        "ocr-output": "פלט OCR",
+        "extract-text": "חלץ טקסט",
+        "extract-tables": "חלץ טבלאות",
+        "extract-text-and-tables": "חלץ טקסט וטבלאות",
+        "export": "ייצא",
+        "clear": "נקה",
+        "download-json": "הורד JSON",
+        "download-text": "הורד טקסט",
+        "no-file-selected": "לא נבחר קובץ",
+        "preview": "תצוגה מקדימה",
+        "ocr-scanning": "סורק OCR...",
+        "ocr-processing-please-wait": "מעבד OCR... אנא המתן.",
+        "no-text-extracted": "לא חולץ טקסט",
+        "no-tables-extracted": "לא חולצו טבלאות",
+        "text": "טקסט",
+        "tables": "טבלאות",
+        "rows": "שורות",
+        "columns": "עמודות",
+        "cell": "תא",
+        "select-file": "בחר קובץ",
+        "drag-and-drop-here": "גרור ושחרר את התמונה או ה-PDF שלך כאן"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "עיצוב אפליקציה עם כלים למפתחים (dev utils)"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "נוסף OCR (Optical Character Recognition) Studio כדי לחסוך בצריכת טוקנים של AI, אף על פי שתמיכה רב-לשונית עדיין ממתינה. הושלמה אבן הדרך של ערכת נושא בהירה (Light Theme) עבור הפרויקט."
+        },
+        "quote": "אל תחכה שאחר יביא תקווה. הפוך לתקווה שאחרים חיכו לה."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "נוסף מעצב תרשים Use Case מוכן ל-AI עם מגוון אפשרויות ייצוא.",
-        "1": "נוסף PDF Studio עם כלי שירות הכל-באחד לקובצי PDF."
+        "changes": {
+          "0": "נוסף מעצב תרשים Use Case מוכן ל-AI עם מגוון אפשרויות ייצוא.",
+          "1": "נוסף PDF Studio עם כלי שירות הכל-באחד לקובצי PDF."
+        },
+        "quote": "ניצוץ אחד מחמם מעט. אלף ניצוצות הופכים למגדלור שנראה ברחבי הגלקסיה.."
       },
-      "quote": "ניצוץ אחד מחמם מעט. אלף ניצוצות הופכים למגדלור שנראה ברחבי הגלקסיה.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "נוסף Notebook++, מציג קובצי טקסט מקוון עם הדגשת תחביר עבור פורמטי קבצים שונים, הכולל מספרי שורות, פונקציונליות חיפוש והחלפה והשוואה."
         },
-        "quote":"אתה יכול לכבוש אלף אויבים, אבל תכבוש את עצמך ושום אויב לא יישאר."
+        "quote": "אתה יכול לכבוש אלף אויבים, אבל תכבוש את עצמך ושום אויב לא יישאר."
       },
       "v2_0_0": {
         "changes": {

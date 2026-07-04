@@ -611,7 +611,7 @@
         "copy": "Αντιγραφή",
         "download": "Λήψη",
         "output-preview": "Προεπισκόπηση Εξόδου",
-         "clear": "Εκκαθάριση"
+        "clear": "Εκκαθάριση"
       },
       "text-to-speech-converter": {
         "title": "Μετατροπέας Κειμένου σε Ομιλία",
@@ -1598,73 +1598,106 @@
         "result": "Αποτέλεσμα"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Διαβάστε, Επεξεργαστείτε, Αποθηκεύστε αρχεία κειμένου σε οποιαδήποτε μορφή",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Αρχείο",
-      "newFile": "Νέο Αρχείο",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Άνοιγμα Αρχείου",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Αποθήκευση",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Αποθήκευση όλων...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Έξοδος",
-      "editMenu": "Επεξεργασία",
-      "undo": "Αναίρεση",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Επανάληψη",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Αποκοπή",
-      "copy": "Αντιγραφή",
-      "paste": "Επικόλληση",
-      "searchMenu": "Αναζήτηση",
-      "find": "Εύρεση",
-      "findShortcut": "Ctrl+F",
-      "replace": "Αντικατάσταση",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Εργαλεία",
-      "formatDocument": "Μορφοποίηση Εγγράφου",
-      "compareActiveWith": "Σύγκριση Ενεργού με...",
-      "explorer": "Εξερεύνηση",
-      "openEditors": "Ανοιχτοί Επεξεργαστές",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Πατήστε Ctrl+N για δημιουργία νέου αρχείου ή Ctrl+O για άνοιγμα.",
-      "ready": "Έτοιμο",
-      "lineCol": "Ln {{line}}, Col {{col}}",
-      "lines": "Γραμμές: {{count}}",
-      "chars": "Χαρακτήρες: {{count}}",
-      "noFileOpened": "Κανένα Αρχείο Ανοιχτό",
-      "zoom": "Ζουμ: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Σχεδιαστής Διαγραμμάτων Περιπτώσεων Χρήσης",
-      "description": "Σχεδιάστε Διαγράμματα Περιπτώσεων Χρήσης και εξάγετε με AI Ready μοντέλο JSON, έγγραφο Markdown, SVG και PNG",
-      "import-json": "Εισαγωγή JSON",
-      "export": "Εξαγωγή",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Μοντέλο AI JSON",
-      "export-as-markdown": "Έγγραφα Markdown"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Όλα-σε-Ένα εργαλεία για έγγραφα PDF",
-      "open": "Άνοιγμα",
-      "save": "Αποθήκευση",
-      "save-as": "Αποθήκευση ως",
-      "print": "Εκτύπωση",
-      "studio-utilities": "Εργαλεία Studio",
-      "document-viewer": "Προβολή Εγγράφων",
-      "metadata-editor": "Επεξεργαστής Μεταδεδομένων",
-      "merge-pdf": "Συγχώνευση PDF",
-      "split-pdf": "Διαχωρισμός PDF",
-      "extract-images": "Εξαγωγή Εικόνων",
-      "compress": "Συμπίεση (Βελτιστοποίηση)",
-      "browse-file": "Αναζήτηση Αρχείου",
-      "browse-message": "Επιλέξτε ή σύρετε ένα PDF για να ξεκινήσετε την επεξεργασία"
-    }
+        "title": "Notebook ++",
+        "description": "Διαβάστε, Επεξεργαστείτε, Αποθηκεύστε αρχεία κειμένου σε οποιαδήποτε μορφή",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Αρχείο",
+        "newFile": "Νέο Αρχείο",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Άνοιγμα Αρχείου",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Αποθήκευση",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Αποθήκευση όλων...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Έξοδος",
+        "editMenu": "Επεξεργασία",
+        "undo": "Αναίρεση",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Επανάληψη",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Αποκοπή",
+        "copy": "Αντιγραφή",
+        "paste": "Επικόλληση",
+        "searchMenu": "Αναζήτηση",
+        "find": "Εύρεση",
+        "findShortcut": "Ctrl+F",
+        "replace": "Αντικατάσταση",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Εργαλεία",
+        "formatDocument": "Μορφοποίηση Εγγράφου",
+        "compareActiveWith": "Σύγκριση Ενεργού με...",
+        "explorer": "Εξερεύνηση",
+        "openEditors": "Ανοιχτοί Επεξεργαστές",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Πατήστε Ctrl+N για δημιουργία νέου αρχείου ή Ctrl+O για άνοιγμα.",
+        "ready": "Έτοιμο",
+        "lineCol": "Ln {{line}}, Col {{col}}",
+        "lines": "Γραμμές: {{count}}",
+        "chars": "Χαρακτήρες: {{count}}",
+        "noFileOpened": "Κανένα Αρχείο Ανοιχτό",
+        "zoom": "Ζουμ: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Σχεδιαστής Διαγραμμάτων Περιπτώσεων Χρήσης",
+        "description": "Σχεδιάστε Διαγράμματα Περιπτώσεων Χρήσης και εξάγετε με AI Ready μοντέλο JSON, έγγραφο Markdown, SVG και PNG",
+        "import-json": "Εισαγωγή JSON",
+        "export": "Εξαγωγή",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Μοντέλο AI JSON",
+        "export-as-markdown": "Έγγραφα Markdown"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Όλα-σε-Ένα εργαλεία για έγγραφα PDF",
+        "open": "Άνοιγμα",
+        "save": "Αποθήκευση",
+        "save-as": "Αποθήκευση ως",
+        "print": "Εκτύπωση",
+        "studio-utilities": "Εργαλεία Studio",
+        "document-viewer": "Προβολή Εγγράφων",
+        "metadata-editor": "Επεξεργαστής Μεταδεδομένων",
+        "merge-pdf": "Συγχώνευση PDF",
+        "split-pdf": "Διαχωρισμός PDF",
+        "extract-images": "Εξαγωγή Εικόνων",
+        "compress": "Συμπίεση (Βελτιστοποίηση)",
+        "browse-file": "Αναζήτηση Αρχείου",
+        "browse-message": "Επιλέξτε ή σύρετε ένα PDF για να ξεκινήσετε την επεξεργασία"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Εξαγάγετε κείμενο, πίνακες και δομημένα δεδομένα από εικόνες και PDF χρησιμοποιώντας το OCR Studio. Χρήσιμο στον κόσμο του AI για εξοικονόμηση tokens εξάγοντας κείμενο από εικόνες αντί να ανεβάζετε απευθείας εικόνες.",
+        "upload-or-paste-image": "Μεταφόρτωση ή Επικόλληση Εικόνας",
+        "paste-image-url": "Επικόλληση URL Εικόνας",
+        "supported-formats": "Υποστηριζόμενες Μορφές: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Επιλογές",
+        "ocr-mode": "Λειτουργία OCR",
+        "ocr-mode-description": "Επιλέξτε τον τύπο εξαγωγής που θέλετε να εκτελέσετε.",
+        "ocr-languages": "Γλώσσες OCR",
+        "ocr-languages-description": "Επιλέξτε τις γλώσσες για αναγνώριση στην εικόνα.",
+        "ocr-output": "Έξοδος OCR",
+        "extract-text": "Εξαγωγή Κειμένου",
+        "extract-tables": "Εξαγωγή Πινάκων",
+        "extract-text-and-tables": "Εξαγωγή Κειμένου και Πινάκων",
+        "export": "Εξαγωγή",
+        "clear": "Εκκαθάριση",
+        "download-json": "Λήψη JSON",
+        "download-text": "Λήψη Κειμένου",
+        "no-file-selected": "Δεν επιλέχθηκε αρχείο",
+        "preview": "Προεπισκόπηση",
+        "ocr-scanning": "Σάρωση OCR...",
+        "ocr-processing-please-wait": "Επεξεργασία OCR... Παρακαλώ περιμένετε.",
+        "no-text-extracted": "Δεν εξήχθη κείμενο",
+        "no-tables-extracted": "Δεν εξήχθησαν πίνακες",
+        "text": "Κείμενο",
+        "tables": "Πίνακες",
+        "rows": "Γραμμές",
+        "columns": "Στήλες",
+        "cell": "Κελί",
+        "select-file": "Επιλέξτε Αρχείο",
+        "drag-and-drop-here": "Σύρετε και αφήστε την εικόνα ή το PDF σας εδώ"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Σχεδιασμός εφαρμογής με dev utils"
     },
     "versions": {
-      "v2_1_0": {
-      "changes": {
-        "0": "Προστέθηκε AI Ready Σχεδιαστής Διαγραμμάτων Περιπτώσεων Χρήσης με διάφορες επιλογές εξαγωγής.",
-        "1": "Προστέθηκε το PDF Studio με Όλα-σε-Ένα εργαλεία για αρχεία PDF."
+      "v2_2_0": {
+        "changes": {
+          "0": "Προστέθηκε το OCR (Optical Character Recognition) Studio για εξοικονόμηση κατανάλωσης token AI, αν και η πολύγλωσση υποστήριξη εκκρεμεί. Ολοκληρώθηκε το Ορόσημο Ανοιχτού Θέματος (Light Theme) για το έργο."
+        },
+        "quote": "Μην περιμένεις κάποιον άλλο να φέρει ελπίδα. Γίνε η ελπίδα που οι άλλοι περίμεναν."
       },
-      "quote": "Μια σπίθα ζεσταίνει λίγο. Χίλιες σπίθες γίνονται ένας φάρος ορατός σε όλο τον γαλαξία.."
-       },
-       "v2_0_1": {
+      "v2_1_0": {
+        "changes": {
+          "0": "Προστέθηκε AI Ready Σχεδιαστής Διαγραμμάτων Περιπτώσεων Χρήσης με διάφορες επιλογές εξαγωγής.",
+          "1": "Προστέθηκε το PDF Studio με Όλα-σε-Ένα εργαλεία για αρχεία PDF."
+        },
+        "quote": "Μια σπίθα ζεσταίνει λίγο. Χίλιες σπίθες γίνονται ένας φάρος ορατός σε όλο τον γαλαξία.."
+      },
+      "v2_0_1": {
         "changes": {
           "0": "Προστέθηκε το Notebook++, ένα διαδικτυακό πρόγραμμα προβολής αρχείων κειμένου με επισήμανση σύνταξης για διαφορετικές μορφές αρχείων, με αριθμούς γραμμών, εύρεση και αντικατάσταση καθώς και λειτουργία σύγκρισης."
         },
-        "quote":"μπορείς να κατακτήσεις χίλιους εχθρούς, αλλά κατάκτησε τον εαυτό σου και δεν θα μείνει κανένας εχθρός."
+        "quote": "μπορείς να κατακτήσεις χίλιους εχθρούς, αλλά κατάκτησε τον εαυτό σου και δεν θα μείνει κανένας εχθρός."
       },
       "v2_0_0": {
         "changes": {

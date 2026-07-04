@@ -611,7 +611,7 @@
         "copy": "Kopiuj",
         "download": "Pobierz",
         "output-preview": "Podgląd wyniku",
-         "clear": "Wyczyść"
+        "clear": "Wyczyść"
       },
       "text-to-speech-converter": {
         "title": "Konwerter tekstu na mowę",
@@ -1598,73 +1598,106 @@
         "result": "Wynik"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Czytaj, edytuj i zapisuj pliki tekstowe w dowolnym formacie",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Plik",
-      "newFile": "Nowy plik",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Otwórz plik",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Zapisz",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Zapisz wszystko...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Zakończ",
-      "editMenu": "Edycja",
-      "undo": "Cofnij",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Ponów",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Wytnij",
-      "copy": "Kopiuj",
-      "paste": "Wklej",
-      "searchMenu": "Szukaj",
-      "find": "Znajdź",
-      "findShortcut": "Ctrl+F",
-      "replace": "Zamień",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Narzędzia",
-      "formatDocument": "Formatuj dokument",
-      "compareActiveWith": "Porównaj aktywny z...",
-      "explorer": "Eksplorator",
-      "openEditors": "Otwarte edytory",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Naciśnij Ctrl+N, aby utworzyć nowy plik, lub Ctrl+O, aby otworzyć.",
-      "ready": "Gotowe",
-      "lineCol": "Ln {{line}}, Kol {{col}}",
-      "lines": "Linie: {{count}}",
-      "chars": "Znaki: {{count}}",
-      "noFileOpened": "Brak otwartego pliku",
-      "zoom": "Powiększenie: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Kreator diagramów przypadków użycia",
-      "description": "Zaprojektuj diagram przypadków użycia i wyeksportuj go za pomocą modelu JSON gotowego dla AI, dokumentu Markdown, SVG i PNG",
-      "import-json": "Importuj JSON",
-      "export": "Eksportuj",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Model AI JSON",
-      "export-as-markdown": "Dokumenty Markdown"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Kompleksowe narzędzia do dokumentów PDF",
-      "open": "Otwórz",
-      "save": "Zapisz",
-      "save-as": "Zapisz jako",
-      "print": "Drukuj",
-      "studio-utilities": "Narzędzia Studio",
-      "document-viewer": "Przeglądarka dokumentów",
-      "metadata-editor": "Edytor metadanych",
-      "merge-pdf": "Scal pliki PDF",
-      "split-pdf": "Podziel PDF",
-      "extract-images": "Wyodrębnij obrazy",
-      "compress": "Kompresuj (Optymalizuj)",
-      "browse-file": "Przeglądaj plik",
-      "browse-message": "Wybierz lub przeciągnij plik PDF, aby rozpocząć edycję"
-    }
+        "title": "Notebook ++",
+        "description": "Czytaj, edytuj i zapisuj pliki tekstowe w dowolnym formacie",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Plik",
+        "newFile": "Nowy plik",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Otwórz plik",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Zapisz",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Zapisz wszystko...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Zakończ",
+        "editMenu": "Edycja",
+        "undo": "Cofnij",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Ponów",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Wytnij",
+        "copy": "Kopiuj",
+        "paste": "Wklej",
+        "searchMenu": "Szukaj",
+        "find": "Znajdź",
+        "findShortcut": "Ctrl+F",
+        "replace": "Zamień",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Narzędzia",
+        "formatDocument": "Formatuj dokument",
+        "compareActiveWith": "Porównaj aktywny z...",
+        "explorer": "Eksplorator",
+        "openEditors": "Otwarte edytory",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Naciśnij Ctrl+N, aby utworzyć nowy plik, lub Ctrl+O, aby otworzyć.",
+        "ready": "Gotowe",
+        "lineCol": "Ln {{line}}, Kol {{col}}",
+        "lines": "Linie: {{count}}",
+        "chars": "Znaki: {{count}}",
+        "noFileOpened": "Brak otwartego pliku",
+        "zoom": "Powiększenie: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Kreator diagramów przypadków użycia",
+        "description": "Zaprojektuj diagram przypadków użycia i wyeksportuj go za pomocą modelu JSON gotowego dla AI, dokumentu Markdown, SVG i PNG",
+        "import-json": "Importuj JSON",
+        "export": "Eksportuj",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Model AI JSON",
+        "export-as-markdown": "Dokumenty Markdown"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Kompleksowe narzędzia do dokumentów PDF",
+        "open": "Otwórz",
+        "save": "Zapisz",
+        "save-as": "Zapisz jako",
+        "print": "Drukuj",
+        "studio-utilities": "Narzędzia Studio",
+        "document-viewer": "Przeglądarka dokumentów",
+        "metadata-editor": "Edytor metadanych",
+        "merge-pdf": "Scal pliki PDF",
+        "split-pdf": "Podziel PDF",
+        "extract-images": "Wyodrębnij obrazy",
+        "compress": "Kompresuj (Optymalizuj)",
+        "browse-file": "Przeglądaj plik",
+        "browse-message": "Wybierz lub przeciągnij plik PDF, aby rozpocząć edycję"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Wyodrębniaj tekst, tabele i ustrukturyzowane dane z obrazów i plików PDF za pomocą OCR Studio. Przydatne w świecie sztucznej inteligencji, aby oszczędzać tokeny, wyodrębniając tekst z obrazów zamiast przesyłać je bezpośrednio.",
+        "upload-or-paste-image": "Prześlij lub wklej obraz",
+        "paste-image-url": "Wklej adres URL obrazu",
+        "supported-formats": "Obsługiwane formaty: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Opcje",
+        "ocr-mode": "Tryb OCR",
+        "ocr-mode-description": "Wybierz typ wyodrębniania, który chcesz wykonać.",
+        "ocr-languages": "Języki OCR",
+        "ocr-languages-description": "Wybierz języki do wykrycia na obrazie.",
+        "ocr-output": "Dane wyjściowe OCR",
+        "extract-text": "Wyodrębnij tekst",
+        "extract-tables": "Wyodrębnij tabele",
+        "extract-text-and-tables": "Wyodrębnij tekst i tabele",
+        "export": "Eksportuj",
+        "clear": "Wyczyść",
+        "download-json": "Pobierz JSON",
+        "download-text": "Pobierz tekst",
+        "no-file-selected": "Nie wybrano pliku",
+        "preview": "Podgląd",
+        "ocr-scanning": "Skanowanie OCR...",
+        "ocr-processing-please-wait": "Przetwarzanie OCR... Proszę czekać.",
+        "no-text-extracted": "Nie wyodrębniono tekstu",
+        "no-tables-extracted": "Nie wyodrębniono tabel",
+        "text": "Tekst",
+        "tables": "Tabele",
+        "rows": "Wiersze",
+        "columns": "Kolumny",
+        "cell": "Komórka",
+        "select-file": "Wybierz plik",
+        "drag-and-drop-here": "Przeciągnij i upuść tutaj swój obraz lub plik PDF"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Zaprojektowanie aplikacji narzędziowej (dev utils)"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Dodano OCR (Optical Character Recognition) Studio w celu oszczędzania zużycia tokenów AI, chociaż wsparcie wielojęzyczne jest nadal oczekujące. Zakończono kamień milowy jasnego motywu (Light Theme) dla projektu."
+        },
+        "quote": "Nie czekaj, aż ktoś inny przyniesie nadzieję. Bądź nadzieją, na którą czekali inni."
+      },
       "v2_1_0": {
-      "changes": {
-        "0": "Dodano kreator diagramów przypadków użycia gotowy dla AI z różnymi opcjami eksportu.",
-        "1": "Dodano PDF Studio z kompleksowymi narzędziami dla plików PDF"
+        "changes": {
+          "0": "Dodano kreator diagramów przypadków użycia gotowy dla AI z różnymi opcjami eksportu.",
+          "1": "Dodano PDF Studio z kompleksowymi narzędziami dla plików PDF"
+        },
+        "quote": "Jedna iskra daje niewiele ciepła. Tysiąc iskier staje się latarnią widoczną w całej galaktyce.."
       },
-      "quote": "Jedna iskra daje niewiele ciepła. Tysiąc iskier staje się latarnią widoczną w całej galaktyce.."
-      },
-       "v2_0_1": {
+      "v2_0_1": {
         "changes": {
           "0": "Dodano Notebook++, internetową przeglądarkę plików tekstowych z podświetlaniem składni dla różnych formatów plików, numeracją linii, funkcją znajdź i zamień oraz możliwością porównywania."
         },
-        "quote":"możesz pokonać tysiąc wrogów, ale pokonaj samego siebie, a żaden wróg nie pozostanie."
+        "quote": "możesz pokonać tysiąc wrogów, ale pokonaj samego siebie, a żaden wróg nie pozostanie."
       },
       "v2_0_0": {
         "changes": {

@@ -1598,73 +1598,106 @@
         "result": "結果"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "あらゆる形式のテキストファイルを読み込み、編集、保存します",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "ファイル",
-      "newFile": "新しいファイル",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "ファイルを開く",
-      "openFileShortcut": "Ctrl+O",
-      "save": "保存",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "すべて保存...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "終了",
-      "editMenu": "編集",
-      "undo": "元に戻す",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "やり直し",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "切り取り",
-      "copy": "コピー",
-      "paste": "貼り付け",
-      "searchMenu": "検索",
-      "find": "検索",
-      "findShortcut": "Ctrl+F",
-      "replace": "置換",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "ツール",
-      "formatDocument": "ドキュメントのフォーマット",
-      "compareActiveWith": "アクティブなファイルと比較...",
-      "explorer": "エクスプローラー",
-      "openEditors": "開いているエディター",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Ctrl+N を押して新しいファイルを作成するか、Ctrl+O を押して開きます。",
-      "ready": "準備完了",
-      "lineCol": "行 {{line}}、列 {{col}}",
-      "lines": "行数: {{count}}",
-      "chars": "文字数: {{count}}",
-      "noFileOpened": "ファイルが開かれていません",
-      "zoom": "ズーム: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "ユースケース図デザイナー",
-      "description": "ユースケース図をデザインし、AI対応JSONモデル、Markdownドキュメント、SVG、PNGでエクスポートします",
-      "import-json": "JSONをインポート",
-      "export": "エクスポート",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "AI JSONモデル",
-      "export-as-markdown": "Markdownドキュメント"
-    },
-    "pdf-studio": {
-      "title": "PDFスタジオ",
-      "description": "PDFドキュメント用のオールインワンユーティリティ",
-      "open": "開く",
-      "save": "保存",
-      "save-as": "名前を付けて保存",
-      "print": "印刷",
-      "studio-utilities": "スタジオユーティリティ",
-      "document-viewer": "ドキュメントビューア",
-      "metadata-editor": "メタデータエディタ",
-      "merge-pdf": "PDFを結合",
-      "split-pdf": "PDFを分割",
-      "extract-images": "画像を抽出",
-      "compress": "圧縮 (最適化)",
-      "browse-file": "ファイルを参照",
-      "browse-message": "編集を開始するにはPDFを選択またはドラッグしてください"
-     }
+        "title": "Notebook ++",
+        "description": "あらゆる形式のテキストファイルを読み込み、編集、保存します",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "ファイル",
+        "newFile": "新しいファイル",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "ファイルを開く",
+        "openFileShortcut": "Ctrl+O",
+        "save": "保存",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "すべて保存...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "終了",
+        "editMenu": "編集",
+        "undo": "元に戻す",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "やり直し",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "切り取り",
+        "copy": "コピー",
+        "paste": "貼り付け",
+        "searchMenu": "検索",
+        "find": "検索",
+        "findShortcut": "Ctrl+F",
+        "replace": "置換",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "ツール",
+        "formatDocument": "ドキュメントのフォーマット",
+        "compareActiveWith": "アクティブなファイルと比較...",
+        "explorer": "エクスプローラー",
+        "openEditors": "開いているエディター",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Ctrl+N を押して新しいファイルを作成するか、Ctrl+O を押して開きます。",
+        "ready": "準備完了",
+        "lineCol": "行 {{line}}、列 {{col}}",
+        "lines": "行数: {{count}}",
+        "chars": "文字数: {{count}}",
+        "noFileOpened": "ファイルが開かれていません",
+        "zoom": "ズーム: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "ユースケース図デザイナー",
+        "description": "ユースケース図をデザインし、AI対応JSONモデル、Markdownドキュメント、SVG、PNGでエクスポートします",
+        "import-json": "JSONをインポート",
+        "export": "エクスポート",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "AI JSONモデル",
+        "export-as-markdown": "Markdownドキュメント"
+      },
+      "pdf-studio": {
+        "title": "PDFスタジオ",
+        "description": "PDFドキュメント用のオールインワンユーティリティ",
+        "open": "開く",
+        "save": "保存",
+        "save-as": "名前を付けて保存",
+        "print": "印刷",
+        "studio-utilities": "スタジオユーティリティ",
+        "document-viewer": "ドキュメントビューア",
+        "metadata-editor": "メタデータエディタ",
+        "merge-pdf": "PDFを結合",
+        "split-pdf": "PDFを分割",
+        "extract-images": "画像を抽出",
+        "compress": "圧縮 (最適化)",
+        "browse-file": "ファイルを参照",
+        "browse-message": "編集を開始するにはPDFを選択またはドラッグしてください"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "OCR Studioを使用して、画像やPDFからテキスト、表、構造化データを抽出します。画像を直接アップロードする代わりに画像からテキストを抽出することで、AIの世界でトークンを節約するのに役立ちます。",
+        "upload-or-paste-image": "画像をアップロードまたは貼り付け",
+        "paste-image-url": "画像のURLを貼り付け",
+        "supported-formats": "対応フォーマット: JPG, PNG, WEBP, BMP, PDF",
+        "options": "オプション",
+        "ocr-mode": "OCR モード",
+        "ocr-mode-description": "実行したい抽出のタイプを選択してください。",
+        "ocr-languages": "OCR 言語",
+        "ocr-languages-description": "画像内で検出する言語を選択してください。",
+        "ocr-output": "OCR 出力",
+        "extract-text": "テキストを抽出",
+        "extract-tables": "表を抽出",
+        "extract-text-and-tables": "テキストと表を抽出",
+        "export": "エクスポート",
+        "clear": "クリア",
+        "download-json": "JSON をダウンロード",
+        "download-text": "テキストをダウンロード",
+        "no-file-selected": "ファイルが選択されていません",
+        "preview": "プレビュー",
+        "ocr-scanning": "OCR スキャン中...",
+        "ocr-processing-please-wait": "OCR 処理中... しばらくお待ちください。",
+        "no-text-extracted": "テキストが抽出されませんでした",
+        "no-tables-extracted": "表が抽出されませんでした",
+        "text": "テキスト",
+        "tables": "表",
+        "rows": "行",
+        "columns": "列",
+        "cell": "セル",
+        "select-file": "ファイルを選択",
+        "drag-and-drop-here": "画像またはPDFをここにドラッグ＆ドロップ"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "開発ユーティリティを含むアプリケーションの設計"
     },
     "versions": {
-      "v2_1_0": {
-      "changes": {
-        "0": "様々なエクスポートオプションを備えたAI対応ユースケース図デザイナーを追加しました。",
-        "1": "PDFファイル用のオールインワンユーティリティを備えたPDFスタジオを追加しました。"
+      "v2_2_0": {
+        "changes": {
+          "0": "多言語サポートは保留中ですが、AIのトークン消費を節約するために OCR (Optical Character Recognition) Studio を追加しました。プロジェクトのライトテーマのマイルストーンを完了しました。"
+        },
+        "quote": "誰かが希望をもたらすのを待ってはいけない。他の人が待ち望んでいた希望になりなさい。"
       },
-      "quote": "一つの火花が暖めるのはわずかだ。千の火花は銀河中に見えるビーコンとなる。"
+      "v2_1_0": {
+        "changes": {
+          "0": "様々なエクスポートオプションを備えたAI対応ユースケース図デザイナーを追加しました。",
+          "1": "PDFファイル用のオールインワンユーティリティを備えたPDFスタジオを追加しました。"
+        },
+        "quote": "一つの火花が暖めるのはわずかだ。千の火花は銀河中に見えるビーコンとなる。"
       },
       "v2_0_1": {
         "changes": {
           "0": "Notebook++ が追加されました。これは、さまざまなファイル形式の構文ハイライト機能、行番号、検索と置換、および比較機能を備えたオンラインテキストファイルビューアです。"
         },
-        "quote":"千人の敵を征服するかもしれないが、自分自身を征服すれば敵は誰もいなくなる。"
+        "quote": "千人の敵を征服するかもしれないが、自分自身を征服すれば敵は誰もいなくなる。"
       },
       "v2_0_0": {
         "changes": {

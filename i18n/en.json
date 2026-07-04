@@ -1664,6 +1664,39 @@
         "compress": "Compress (Optimize)",
         "browse-file": "Browse File",
         "browse-message": "Select or drag a PDF to begin editing"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Extract text, tables, and structured data from images and PDFs using OCR Studio. Useful in AI world for Saving token by extracting text from images instead of directly uploading images.",
+        "upload-or-paste-image": "Upload or Paste Image",
+        "paste-image-url": "Paste Image URL",
+        "supported-formats": "Supported Formats: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Options",
+        "ocr-mode": "OCR Mode",
+        "ocr-mode-description": "Select the type of extraction you want to perform.",
+        "ocr-languages": "OCR Languages",
+        "ocr-languages-description": "Select the languages to detect in the image.",
+        "ocr-output": "OCR Output",
+        "extract-text": "Extract Text",
+        "extract-tables": "Extract Tables",
+        "extract-text-and-tables": "Extract Text and Tables",
+        "export": "Export",
+        "clear": "Clear",
+        "download-json": "Download JSON",
+        "download-text": "Download Text",
+        "no-file-selected": "No file selected",
+        "preview": "Preview",
+        "ocr-scanning": "OCR Scanning...",
+        "ocr-processing-please-wait": "OCR Processing... Please wait.",
+        "no-text-extracted": "No text extracted",
+        "no-tables-extracted": "No tables extracted",
+        "text": "Text",
+        "tables": "Tables",
+        "rows": "Rows",
+        "columns": "Columns",
+        "cell": "Cell",
+        "select-file": "Select a File",
+        "drag-and-drop-here": "Drag and drop your image or PDF here"
       }
     }
   },
@@ -1989,41 +2022,41 @@
         "license": "Apache-2.0"
       },
       "tesseract.js": {
-    "name": "tesseract.js",
-    "version": "^7.0.0",
-    "description": "Pure Javascript port of the Tesseract OCR engine. Provides the API to run offline optical character recognition entirely in the browser.",
-    "license": "Apache-2.0"
-  },
-  "tesseract.js-core": {
-    "name": "tesseract.js-core",
-    "version": "^7.0.0",
-    "description": "The core WebAssembly (WASM) binaries for Tesseract.js containing the compiled neural network math required to decode text from pixels.",
-    "license": "Apache-2.0"
-  },
-  "@techstark/opencv-js": {
-    "name": "@techstark/opencv-js",
-    "version": "^5.0.0-release.1",
-    "description": "OpenCV JavaScript bindings for advanced image manipulation. Powers the image enhancement tools (brightness, deskew, threshold) prior to OCR scanning.",
-    "license": "Apache-2.0"
-  },
-  "@zxing/browser": {
-    "name": "@zxing/browser",
-    "version": "^0.2.0",
-    "description": "Browser layer for the ZXing (Zebra Crossing) engine. Interacts directly with the canvas to detect QR codes and barcodes.",
-    "license": "MIT"
-  },
-  "@zxing/library": {
-    "name": "@zxing/library",
-    "version": "^0.21.3",
-    "description": "The core ZXing library containing the underlying algorithms to decode and extract data strings from 2D matrices and barcodes.",
-    "license": "MIT"
-  },
-  "@types/node": {
-    "name": "@types/node",
-    "version": "^26.0.1",
-    "description": "TypeScript definitions for Node.js. Prevents strict compiler errors by defining environment variables expected by offline build tools and fallback workers.",
-    "license": "MIT"
-  }
+        "name": "tesseract.js",
+        "version": "^7.0.0",
+        "description": "Pure Javascript port of the Tesseract OCR engine. Provides the API to run offline optical character recognition entirely in the browser.",
+        "license": "Apache-2.0"
+      },
+      "tesseract.js-core": {
+        "name": "tesseract.js-core",
+        "version": "^7.0.0",
+        "description": "The core WebAssembly (WASM) binaries for Tesseract.js containing the compiled neural network math required to decode text from pixels.",
+        "license": "Apache-2.0"
+      },
+      "@techstark/opencv-js": {
+        "name": "@techstark/opencv-js",
+        "version": "^5.0.0-release.1",
+        "description": "OpenCV JavaScript bindings for advanced image manipulation. Powers the image enhancement tools (brightness, deskew, threshold) prior to OCR scanning.",
+        "license": "Apache-2.0"
+      },
+      "@zxing/browser": {
+        "name": "@zxing/browser",
+        "version": "^0.2.0",
+        "description": "Browser layer for the ZXing (Zebra Crossing) engine. Interacts directly with the canvas to detect QR codes and barcodes.",
+        "license": "MIT"
+      },
+      "@zxing/library": {
+        "name": "@zxing/library",
+        "version": "^0.21.3",
+        "description": "The core ZXing library containing the underlying algorithms to decode and extract data strings from 2D matrices and barcodes.",
+        "license": "MIT"
+      },
+      "@types/node": {
+        "name": "@types/node",
+        "version": "^26.0.1",
+        "description": "TypeScript definitions for Node.js. Prevents strict compiler errors by defining environment variables expected by offline build tools and fallback workers.",
+        "license": "MIT"
+      }
     },
     "aiTools": {
       "title": "AI Tools & Assistants",
@@ -2073,6 +2106,12 @@
       "design": "Design application with dev utils"
     },
     "versions": {
+      "v2_2_0": {
+        "changes": {
+          "0": "Add OCR (Optical Character Recognition) Studio to save AI token consumption although multilingual support is pending . Completed Milestone of Light Theme for project."
+        },
+        "quote": "Wait for another to bring hope, do not. Become the hope others have waited for."
+      },
       "v2_1_0": {
         "changes": {
           "0": "Added AI Ready Use Case Diagram Designer with variety of export options.",

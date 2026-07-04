@@ -1598,73 +1598,106 @@
         "result": "Encam"
       },
       "notebook-plus-one": {
-      "title": "Notebook ++",
-      "description": "Pelên nivîsê bi her formatekê bixwînin, biguherînin û hilînin",
-      "brandTitle": "Notebook ++",
-      "fileMenu": "Pel",
-      "newFile": "Pela Nû",
-      "newFileShortcut": "Ctrl+N",
-      "openFile": "Pelê Veke",
-      "openFileShortcut": "Ctrl+O",
-      "save": "Hilîne",
-      "saveShortcut": "Ctrl+S",
-      "saveall": "Hemûyî Hilîne...",
-      "saveallShortcut": "Ctrl+Shift+S",
-      "exit": "Derkeve",
-      "editMenu": "Biguherîne",
-      "undo": "Vegerîne",
-      "undoShortcut": "Ctrl+Z",
-      "redo": "Dîsa Bike",
-      "redoShortcut": "Ctrl+Y",
-      "cut": "Bibire",
-      "copy": "Kopî Bike",
-      "paste": "Pêveke",
-      "searchMenu": "Lêgerîn",
-      "find": "Bibîne",
-      "findShortcut": "Ctrl+F",
-      "replace": "Biguherîne",
-      "replaceShortcut": "Ctrl+H",
-      "toolsMenu": "Amûr",
-      "formatDocument": "Belgeyê Format Bike",
-      "compareActiveWith": "Yê Çalak Bide Ber...",
-      "explorer": "Gerok",
-      "openEditors": "Edîtorên Vekirî",
-      "emptyStateTitle": "Notebook ++",
-      "emptyStateDesc": "Ji bo afirandina pelek nû Ctrl+N an ji bo vekirinê Ctrl+O bikirtînin.",
-      "ready": "Amade",
-      "lineCol": "Rêz {{line}}, Stûn {{col}}",
-      "lines": "Rêz: {{count}}",
-      "chars": "Karakter: {{count}}",
-      "noFileOpened": "Tu Pel Venedibûye",
-      "zoom": "Zoom: {{level}}%"
-    },
-    "use-case-diagram": {
-      "title": "Sêwiranerê Diyagrama Use Case",
-      "description": "Diyagrama Use Case sêwirînin û bi modela JSON a Amade bo AI, Belgeya Markdown, SVG û PNG derxînin",
-      "import-json": "JSON Têxe",
-      "export": "Derxîne",
-      "export-as-svg": "SVG",
-      "export-as-png": "PNG",
-      "export-as-json": "Modela AI JSON",
-      "export-as-markdown": "Belgeyên Markdown"
-    },
-    "pdf-studio": {
-      "title": "PDF Studio",
-      "description": "Karûbarên Hemî-di-Yek de ji bo Belgeya PDF",
-      "open": "Veke",
-      "save": "Zêde bike",
-      "save-as": "Wekî Zêde Bike",
-      "print": "Çap bike",
-      "studio-utilities": "Karûbarên Studio",
-      "document-viewer": "Nîşanderê Belgeyan",
-      "metadata-editor": "Edîtorê Metadaneyan",
-      "merge-pdf": "PDFan Bikin Yek",
-      "split-pdf": "PDFê Dabeş Bikin",
-      "extract-images": "Wêneyan Derxînin",
-      "compress": "Pêçan (Optimîze kirin)",
-      "browse-file": "Lêgerîna Pelê",
-      "browse-message": "Ji bo destpêkirina sererastkirinê PDFekê hilbijêrin an jî bikişînin"
-    }
+        "title": "Notebook ++",
+        "description": "Pelên nivîsê bi her formatekê bixwînin, biguherînin û hilînin",
+        "brandTitle": "Notebook ++",
+        "fileMenu": "Pel",
+        "newFile": "Pela Nû",
+        "newFileShortcut": "Ctrl+N",
+        "openFile": "Pelê Veke",
+        "openFileShortcut": "Ctrl+O",
+        "save": "Hilîne",
+        "saveShortcut": "Ctrl+S",
+        "saveall": "Hemûyî Hilîne...",
+        "saveallShortcut": "Ctrl+Shift+S",
+        "exit": "Derkeve",
+        "editMenu": "Biguherîne",
+        "undo": "Vegerîne",
+        "undoShortcut": "Ctrl+Z",
+        "redo": "Dîsa Bike",
+        "redoShortcut": "Ctrl+Y",
+        "cut": "Bibire",
+        "copy": "Kopî Bike",
+        "paste": "Pêveke",
+        "searchMenu": "Lêgerîn",
+        "find": "Bibîne",
+        "findShortcut": "Ctrl+F",
+        "replace": "Biguherîne",
+        "replaceShortcut": "Ctrl+H",
+        "toolsMenu": "Amûr",
+        "formatDocument": "Belgeyê Format Bike",
+        "compareActiveWith": "Yê Çalak Bide Ber...",
+        "explorer": "Gerok",
+        "openEditors": "Edîtorên Vekirî",
+        "emptyStateTitle": "Notebook ++",
+        "emptyStateDesc": "Ji bo afirandina pelek nû Ctrl+N an ji bo vekirinê Ctrl+O bikirtînin.",
+        "ready": "Amade",
+        "lineCol": "Rêz {{line}}, Stûn {{col}}",
+        "lines": "Rêz: {{count}}",
+        "chars": "Karakter: {{count}}",
+        "noFileOpened": "Tu Pel Venedibûye",
+        "zoom": "Zoom: {{level}}%"
+      },
+      "use-case-diagram": {
+        "title": "Sêwiranerê Diyagrama Use Case",
+        "description": "Diyagrama Use Case sêwirînin û bi modela JSON a Amade bo AI, Belgeya Markdown, SVG û PNG derxînin",
+        "import-json": "JSON Têxe",
+        "export": "Derxîne",
+        "export-as-svg": "SVG",
+        "export-as-png": "PNG",
+        "export-as-json": "Modela AI JSON",
+        "export-as-markdown": "Belgeyên Markdown"
+      },
+      "pdf-studio": {
+        "title": "PDF Studio",
+        "description": "Karûbarên Hemî-di-Yek de ji bo Belgeya PDF",
+        "open": "Veke",
+        "save": "Zêde bike",
+        "save-as": "Wekî Zêde Bike",
+        "print": "Çap bike",
+        "studio-utilities": "Karûbarên Studio",
+        "document-viewer": "Nîşanderê Belgeyan",
+        "metadata-editor": "Edîtorê Metadaneyan",
+        "merge-pdf": "PDFan Bikin Yek",
+        "split-pdf": "PDFê Dabeş Bikin",
+        "extract-images": "Wêneyan Derxînin",
+        "compress": "Pêçan (Optimîze kirin)",
+        "browse-file": "Lêgerîna Pelê",
+        "browse-message": "Ji bo destpêkirina sererastkirinê PDFekê hilbijêrin an jî bikişînin"
+      },
+      "ocr-studio": {
+        "title": "OCR Studio",
+        "description": "Têkst, tablo, û daneyên sazkirî ji wêne û PDF'an bi karanîna OCR Studio derxînin. Di cîhana AI de ji bo tomarkirina token bi derxistina têkstê ji wêneyan li şûna barkirina wêneyan rasterast, bikêr e.",
+        "upload-or-paste-image": "Wêne Bar Bike an Pêveke",
+        "paste-image-url": "URL'ya Wêneyê Pêveke",
+        "supported-formats": "Formatên Piştgirîkirî: JPG, PNG, WEBP, BMP, PDF",
+        "options": "Vebijêrk",
+        "ocr-mode": "Moda OCR",
+        "ocr-mode-description": "Cureyê derxistinê ku tu dixwazî pêk bînî hilbijêre.",
+        "ocr-languages": "Zimanên OCR",
+        "ocr-languages-description": "Zimanên ku dê di wêneyê de werin tesbîtkirin hilbijêre.",
+        "ocr-output": "Derketina OCR",
+        "extract-text": "Têkstê Derxîne",
+        "extract-tables": "Tabloyan Derxîne",
+        "extract-text-and-tables": "Têkst û Tabloyan Derxîne",
+        "export": "Hinarde Bike",
+        "clear": "Paqij Bike",
+        "download-json": "JSON Daxîne",
+        "download-text": "Têkstê Daxîne",
+        "no-file-selected": "Ti pel nehatiye hilbijartin",
+        "preview": "Pêşdîtin",
+        "ocr-scanning": "OCR Tê Skan Kirin...",
+        "ocr-processing-please-wait": "OCR Tê Xebitandin... Ji kerema xwe bisekine.",
+        "no-text-extracted": "Ti têkst nehatiye derxistin",
+        "no-tables-extracted": "Ti tablo nehatine derxistin",
+        "text": "Têkst",
+        "tables": "Tablo",
+        "rows": "Rêz",
+        "columns": "Stûn",
+        "cell": "Xane",
+        "select-file": "Pelekê Hilbijêre",
+        "drag-and-drop-here": "Wêne an PDF'ya xwe bikişîne û li vir berde"
+      }
     }
   },
   "contribute": {
@@ -1996,18 +2029,24 @@
       "design": "Sepanê bi amûrên pêşvebirinê dîzayn bike"
     },
     "versions": {
-      "v2_1_0": {   
-      "changes": {
-        "0": "Sêwiranerê Diyagrama Use Case a Amade bo AI bi vebijarkên derxistinê yên cihêreng hate zêdekirin.",
-        "1": "PDF Studio bi Karûbarên Hemî-di-Yek de ji bo pelên PDF hate zêdekirin."
+      "v2_2_0": {
+        "changes": {
+          "0": "OCR (Optical Character Recognition) Studio hate zêdekirin ji bo tomarkirina xerckirina tokena AI, tevî ku piştgiriya pirzimanî hîn li bendê ye. Qonaxa Temaya Ronî (Light Theme) ji bo projeyê hate qedandin."
+        },
+        "quote": "Li benda yekî din nemîne ku hêviyê bîne. Bibe ew hêviya ku yên din li bendê ne."
       },
-      "quote": "Çirûskek hindik germ dike. Hezar çirûsk dibin ronahiyek ku li seranserê galaksiyê tê dîtin.."
-       },
-       "v2_0_1": {
+      "v2_1_0": {
+        "changes": {
+          "0": "Sêwiranerê Diyagrama Use Case a Amade bo AI bi vebijarkên derxistinê yên cihêreng hate zêdekirin.",
+          "1": "PDF Studio bi Karûbarên Hemî-di-Yek de ji bo pelên PDF hate zêdekirin."
+        },
+        "quote": "Çirûskek hindik germ dike. Hezar çirûsk dibin ronahiyek ku li seranserê galaksiyê tê dîtin.."
+      },
+      "v2_0_1": {
         "changes": {
           "0": "Notebook++ hate zêdekirin, dîtvanekî pelên nivîsê yê serhêl bi ronîkera hevoksaziyê ji bo formatên cuda yên pelan bi hejmarên rêzan, û taybetmendiya lêgerîn û guhertin û berawirdkirinê."
         },
-        "quote":"tu dikarî hezar dijminan têk bibî, lê xwe têk bibe û tu dijmin namîne."
+        "quote": "tu dikarî hezar dijminan têk bibî, lê xwe têk bibe û tu dijmin namîne."
       },
       "v2_0_0": {
         "changes": {

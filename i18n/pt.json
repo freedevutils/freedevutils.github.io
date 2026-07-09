@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Pesquisar ferramentas",
+    "searchPlaceholder": "Procurar ferramentas",
     "resultsCount": "resultados",
     "dialog": {
       "title": "Catálogo de Utilitários para Desenvolvedores",
@@ -1698,6 +1698,32 @@
         "select-file": "Selecione um Arquivo",
         "drag-and-drop-here": "Arraste e solte sua imagem ou PDF aqui"
       }
+    },
+    "searchPlaceholderFull": "Pesquise mais de 70 utilitários para desenvolvedores...",
+    "hero": {
+      "title": "Seus Utilitários de Desenvolvimento,",
+      "titleHighlight": "Turbinados.",
+      "subtitle": "Mais de 70 utilitários gratuitos, seguros e focados em privacidade, criados para desenvolvedores que entregam rápido.",
+      "toolCount": "Ferramentas Disponíveis"
+    },
+    "categoryAll": "Todas as Ferramentas",
+    "popularBadge": "Popular",
+    "footer": {
+      "devTools": "Utilitários de Desenvolvimento",
+      "resources": "Recursos",
+      "github": "GitHub",
+      "privacy": "Privacidade",
+      "changelog": "Log de alterações",
+      "about": "Sobre",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Documentação",
+      "contribute": "Contribuir",
+      "releaseNotes": "Notas de Lançamento",
+      "tagline": "Criado para a comunidade global de desenvolvedores.",
+      "copyright": "FreeDevUtils — Gratuito & Seguro"
     }
   },
   "contribute": {

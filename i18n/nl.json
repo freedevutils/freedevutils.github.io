@@ -1698,6 +1698,32 @@
         "select-file": "Selecteer een bestand",
         "drag-and-drop-here": "Sleep uw afbeelding of PDF hierheen"
       }
+    },
+    "searchPlaceholderFull": "Zoek 70+ ontwikkelaar utilities...",
+    "hero": {
+      "title": "Jouw Ontwikkelaar Utilities,",
+      "titleHighlight": "Supercharged.",
+      "subtitle": "70+ gratis, veilige, privacy-gerichte utilities gebouwd voor ontwikkelaars die snel leveren.",
+      "toolCount": "Tools Beschikbaar"
+    },
+    "categoryAll": "Alle Tools",
+    "popularBadge": "Populair",
+    "footer": {
+      "devTools": "Ontwikkelaar Utilities",
+      "resources": "Bronnen",
+      "github": "GitHub",
+      "privacy": "Privacy",
+      "changelog": "Changelog",
+      "about": "Over",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Documentatie",
+      "contribute": "Bijdragen",
+      "releaseNotes": "Release Notes",
+      "tagline": "Gebouwd voor de ontwikkelaarscommunity wereldwijd.",
+      "copyright": "FreeDevUtils — Gratis & Veilig"
     }
   },
   "contribute": {

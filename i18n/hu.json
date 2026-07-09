@@ -61,7 +61,7 @@
   },
   "devtools": {
     "searchPlaceholder": "Eszközök keresése",
-    "resultsCount": "találat",
+    "resultsCount": "eredmény",
     "dialog": {
       "title": "Fejlesztői Segédprogram Katalógus",
       "closeAria": "Párbeszédablak bezárása",
@@ -1698,6 +1698,32 @@
         "select-file": "Válasszon egy fájlt",
         "drag-and-drop-here": "Húzza ide a képet vagy PDF-et"
       }
+    },
+    "searchPlaceholderFull": "Keresés 70+ fejlesztői segédprogramban...",
+    "hero": {
+      "title": "Fejlesztői Segédprogramjaid,",
+      "titleHighlight": "Felturbózva.",
+      "subtitle": "Több mint 70 ingyenes, biztonságos és adatvédelemre fókuszáló segédprogram a gyorsan szállító fejlesztők számára.",
+      "toolCount": "Elérhető Eszközök"
+    },
+    "categoryAll": "Minden Eszköz",
+    "popularBadge": "Népszerű",
+    "footer": {
+      "devTools": "Fejlesztői Segédprogramok",
+      "resources": "Erőforrások",
+      "github": "GitHub",
+      "privacy": "Adatvédelem",
+      "changelog": "Változásnapló",
+      "about": "Rólunk",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentáció",
+      "contribute": "Közreműködés",
+      "releaseNotes": "Kiadási Megjegyzések",
+      "tagline": "A fejlesztői közösség számára építve világszerte.",
+      "copyright": "FreeDevUtils — Ingyenes & Biztonságos"
     }
   },
   "contribute": {

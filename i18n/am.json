@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "መሳሪያዎችን ይፈልጉ",
+    "searchPlaceholder": "መሳሪያዎችን ፈልግ",
     "resultsCount": "ውጤቶች",
     "dialog": {
       "title": "የገንቢ መገልገያ ካታሎግ",
@@ -2119,5 +2119,32 @@
           "quote": "ከግርግር (chaos) ውስጥ፣ ሁሉም ጅማሬዎች ይወጣሉ፣ መንገዱን ያጽዱ እና አላማው ራሱን ይገልጣል።"
         }
       }
+    },
+    "searchPlaceholderFull": "70+ የገንቢ ዩቲሊቲዎችን ፈልግ...",
+    "hero": {
+      "title": "የእርስዎ የገንቢ ዩቲሊቲዎች,",
+      "titleHighlight": "ልዕለ ኃያል (Supercharged).",
+      "subtitle": "በፍጥነት ለሚሰሩ ገንቢዎች የተሰሩ 70+ ነጻ፣ ደህንነቱ የተጠበቀ እና ግላዊነትን ያማከለ ዩቲሊቲዎች።",
+      "toolCount": "የሚገኙ መሳሪያዎች"
+    },
+    "categoryAll": "ሁሉም መሳሪያዎች",
+    "popularBadge": "ታዋቂ",
+    "footer": {
+      "devTools": "የገንቢ ዩቲሊቲዎች",
+      "resources": "ግብዓቶች",
+      "github": "GitHub",
+      "privacy": "ግላዊነት",
+      "changelog": "የለውጥ መዝገብ",
+      "about": "ስለ",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "ሰነድ",
+      "contribute": "አስተዋጽኦ ያድርጉ",
+      "releaseNotes": "የመልቀቂያ ማስታወሻዎች",
+      "tagline": "በዓለም ዙሪያ ለገንቢ ማህበረሰብ የተሰራ።",
+      "copyright": "FreeDevUtils — ነጻ እና ደህንነቱ የተጠበቀ"
     }
   }
+}

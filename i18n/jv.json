@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Padosi alat",
+    "searchPlaceholder": "Golek piranti",
     "resultsCount": "kasil",
     "dialog": {
       "title": "Katalog Utilitas Pangembang",
@@ -1698,6 +1698,32 @@
         "select-file": "Pilih File",
         "drag-and-drop-here": "Seret lan selehake gambar utawa PDF sampeyan ing kene"
       }
+    },
+    "searchPlaceholderFull": "Golek 70+ utilitas pangembang...",
+    "hero": {
+      "title": "Utilitas Pangembang Panjenengan,",
+      "titleHighlight": "Ditingkatake.",
+      "subtitle": "70+ utilitas gratis, aman, lan fokus privasi sing digawe kanggo pangembang sing nyambut gawe cepet.",
+      "toolCount": "Piranti Sumadhiya"
+    },
+    "categoryAll": "Kabeh Piranti",
+    "popularBadge": "Populer",
+    "footer": {
+      "devTools": "Utilitas Pangembang",
+      "resources": "Sumber Daya",
+      "github": "GitHub",
+      "privacy": "Privasi",
+      "changelog": "Cathetan Owah-owahan",
+      "about": "Babagan",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentasi",
+      "contribute": "Kontribusi",
+      "releaseNotes": "Cathetan Rilis",
+      "tagline": "Digawe kanggo komunitas pangembang ing saindenging jagad.",
+      "copyright": "FreeDevUtils — Gratis & Aman"
     }
   },
   "contribute": {

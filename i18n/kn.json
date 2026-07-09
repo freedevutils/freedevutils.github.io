@@ -1698,6 +1698,32 @@
         "select-file": "ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ",
         "drag-and-drop-here": "ನಿಮ್ಮ ಚಿತ್ರ ಅಥವಾ PDF ಅನ್ನು ಇಲ್ಲಿ ಎಳೆಯಿರಿ ಮತ್ತು ಬಿಡಿ"
       }
+    },
+    "searchPlaceholderFull": "70+ ಡೆವಲಪರ್ ಯುಟಿಲಿಟಿಗಳನ್ನು ಹುಡುಕಿ...",
+    "hero": {
+      "title": "ನಿಮ್ಮ ಡೆವಲಪರ್ ಯುಟಿಲಿಟಿಗಳು,",
+      "titleHighlight": "ಸೂಪರ್‌ಚಾರ್ಜ್ಡ್.",
+      "subtitle": "ವೇಗವಾಗಿ ಕೆಲಸ ಮಾಡುವ ಡೆವಲಪರ್‌ಗಳಿಗಾಗಿ ನಿರ್ಮಿಸಲಾದ 70+ ಉಚಿತ, ಸುರಕ್ಷಿತ ಮತ್ತು ಗೌಪ್ಯತೆ-ಆಧಾರಿತ ಯುಟಿಲಿಟಿಗಳು.",
+      "toolCount": "ಲಭ್ಯವಿರುವ ಪರಿಕರಗಳು"
+    },
+    "categoryAll": "ಎಲ್ಲಾ ಪರಿಕರಗಳು",
+    "popularBadge": "ಜನಪ್ರಿಯ",
+    "footer": {
+      "devTools": "ಡೆವಲಪರ್ ಯುಟಿಲಿಟಿಗಳು",
+      "resources": "ಸಂಪನ್ಮೂಲಗಳು",
+      "github": "GitHub",
+      "privacy": "ಗೌಪ್ಯತೆ",
+      "changelog": "ಬದಲಾವಣೆ ದಾಖಲೆ",
+      "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "ದಸ್ತಾವೇಜನ್ನು",
+      "contribute": "ಕೊಡುಗೆ ನೀಡಿ",
+      "releaseNotes": "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು",
+      "tagline": "ವಿಶ್ವಾದ್ಯಂತ ಡೆವಲಪರ್ ಸಮುದಾಯಕ್ಕಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ.",
+      "copyright": "FreeDevUtils — ಉಚಿತ ಮತ್ತು ಸುರಕ್ಷಿತ"
     }
   },
   "contribute": {

@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "البحث عن الأدوات",
+    "searchPlaceholder": "البحث عن أدوات",
     "resultsCount": "النتائج",
     "dialog": {
       "title": "كتالوج أدوات المطور",
@@ -1698,6 +1698,32 @@
         "select-file": "تحديد ملف",
         "drag-and-drop-here": "اسحب وأفلت صورتك أو ملف PDF هنا"
       }
+    },
+    "searchPlaceholderFull": "ابحث في 70+ من أدوات المطورين المساعدة...",
+    "hero": {
+      "title": "أدواتك المساعدة كمطور,",
+      "titleHighlight": "فائقة القوة.",
+      "subtitle": "70+ أداة مساعدة مجانية وآمنة وموجهة نحو الخصوصية مصممة للمطورين الذين يعملون بسرعة.",
+      "toolCount": "الأدوات المتاحة"
+    },
+    "categoryAll": "جميع الأدوات",
+    "popularBadge": "شائع",
+    "footer": {
+      "devTools": "أدوات المطورين المساعدة",
+      "resources": "الموارد",
+      "github": "GitHub",
+      "privacy": "الخصوصية",
+      "changelog": "سجل التغييرات",
+      "about": "حول",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "التوثيق",
+      "contribute": "المساهمة",
+      "releaseNotes": "ملاحظات الإصدار",
+      "tagline": "مُصمم لمجتمع المطورين في جميع أنحاء العالم.",
+      "copyright": "FreeDevUtils — مجاني وآمن"
     }
   },
   "contribute": {

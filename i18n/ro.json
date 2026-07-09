@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Caută instrumente",
+    "searchPlaceholder": "Căutare instrumente",
     "resultsCount": "rezultate",
     "dialog": {
       "title": "Catalog Utilitare Dezvoltator",
@@ -1698,6 +1698,32 @@
         "select-file": "Selectează un fișier",
         "drag-and-drop-here": "Trageți și plasați imaginea sau PDF-ul aici"
       }
+    },
+    "searchPlaceholderFull": "Căutați 70+ utilitare pentru dezvoltatori...",
+    "hero": {
+      "title": "Utilitarele tale pentru Dezvoltatori,",
+      "titleHighlight": "Îmbunătățite.",
+      "subtitle": "Peste 70 de utilitare gratuite, sigure și orientate spre confidențialitate, construite pentru dezvoltatorii care livrează rapid.",
+      "toolCount": "Instrumente Disponibile"
+    },
+    "categoryAll": "Toate Instrumentele",
+    "popularBadge": "Popular",
+    "footer": {
+      "devTools": "Utilitare pentru Dezvoltatori",
+      "resources": "Resurse",
+      "github": "GitHub",
+      "privacy": "Confidențialitate",
+      "changelog": "Jurnal de modificări",
+      "about": "Despre",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Documentație",
+      "contribute": "Contribuie",
+      "releaseNotes": "Note de Lansare",
+      "tagline": "Construit pentru comunitatea dezvoltatorilor din întreaga lume.",
+      "copyright": "FreeDevUtils — Gratuit & Sigur"
     }
   },
   "contribute": {

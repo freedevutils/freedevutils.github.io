@@ -1698,6 +1698,32 @@
         "select-file": "选择文件",
         "drag-and-drop-here": "将您的图像或 PDF 拖放到此处"
       }
+    },
+    "searchPlaceholderFull": "搜索 70+ 开发者实用工具...",
+    "hero": {
+      "title": "您的开发者实用工具，",
+      "titleHighlight": "超级强化。",
+      "subtitle": "为追求高效的开发者打造的 70+ 款免费、安全、注重隐私的实用工具。",
+      "toolCount": "可用工具"
+    },
+    "categoryAll": "所有工具",
+    "popularBadge": "热门",
+    "footer": {
+      "devTools": "开发者实用工具",
+      "resources": "资源",
+      "github": "GitHub",
+      "privacy": "隐私",
+      "changelog": "更新日志",
+      "about": "关于",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "文档",
+      "contribute": "贡献",
+      "releaseNotes": "发行说明",
+      "tagline": "为全球开发者社区构建。",
+      "copyright": "FreeDevUtils — 免费且安全"
     }
   },
   "contribute": {

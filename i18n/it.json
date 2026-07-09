@@ -1698,6 +1698,32 @@
         "select-file": "Seleziona un File",
         "drag-and-drop-here": "Trascina qui la tua immagine o PDF"
       }
+    },
+    "searchPlaceholderFull": "Cerca oltre 70 utility per sviluppatori...",
+    "hero": {
+      "title": "Le tue Utility per Sviluppatori,",
+      "titleHighlight": "Potenziate.",
+      "subtitle": "Oltre 70 utility gratuite, sicure e incentrate sulla privacy create per gli sviluppatori che lavorano velocemente.",
+      "toolCount": "Strumenti Disponibili"
+    },
+    "categoryAll": "Tutti gli Strumenti",
+    "popularBadge": "Popolare",
+    "footer": {
+      "devTools": "Utility per Sviluppatori",
+      "resources": "Risorse",
+      "github": "GitHub",
+      "privacy": "Privacy",
+      "changelog": "Changelog",
+      "about": "Chi siamo",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Documentazione",
+      "contribute": "Contribuisci",
+      "releaseNotes": "Note di rilascio",
+      "tagline": "Realizzato per la comunità degli sviluppatori in tutto il mondo.",
+      "copyright": "FreeDevUtils — Gratuito & Sicuro"
     }
   },
   "contribute": {

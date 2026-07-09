@@ -1698,6 +1698,32 @@
         "select-file": "Wybierz plik",
         "drag-and-drop-here": "Przeciągnij i upuść tutaj swój obraz lub plik PDF"
       }
+    },
+    "searchPlaceholderFull": "Szukaj w ponad 70 narzędziach dla programistów...",
+    "hero": {
+      "title": "Twoje Narzędzia Deweloperskie,",
+      "titleHighlight": "Doładowane.",
+      "subtitle": "Ponad 70 darmowych, bezpiecznych i chroniących prywatność narzędzi stworzonych dla programistów, którzy pracują szybko.",
+      "toolCount": "Dostępne narzędzia"
+    },
+    "categoryAll": "Wszystkie narzędzia",
+    "popularBadge": "Popularne",
+    "footer": {
+      "devTools": "Narzędzia Deweloperskie",
+      "resources": "Zasoby",
+      "github": "GitHub",
+      "privacy": "Prywatność",
+      "changelog": "Lista zmian",
+      "about": "O nas",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentacja",
+      "contribute": "Współpraca",
+      "releaseNotes": "Informacje o wydaniu",
+      "tagline": "Stworzone dla społeczności deweloperów na całym świecie.",
+      "copyright": "FreeDevUtils — Darmowe i Bezpieczne"
     }
   },
   "contribute": {

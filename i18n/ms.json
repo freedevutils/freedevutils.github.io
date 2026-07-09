@@ -1698,6 +1698,32 @@
         "select-file": "Pilih Fail",
         "drag-and-drop-here": "Seret dan lepaskan imej atau PDF anda di sini"
       }
+    },
+    "searchPlaceholderFull": "Cari 70+ utiliti pembangun...",
+    "hero": {
+      "title": "Utiliti Pembangun Anda,",
+      "titleHighlight": "Diperkasakan.",
+      "subtitle": "70+ utiliti percuma, selamat, dan memfokuskan privasi yang dibina untuk pembangun yang bekerja pantas.",
+      "toolCount": "Alat Tersedia"
+    },
+    "categoryAll": "Semua Alat",
+    "popularBadge": "Popular",
+    "footer": {
+      "devTools": "Utiliti Pembangun",
+      "resources": "Sumber",
+      "github": "GitHub",
+      "privacy": "Privasi",
+      "changelog": "Log Perubahan",
+      "about": "Tentang",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentasi",
+      "contribute": "Sumbangan",
+      "releaseNotes": "Nota Keluaran",
+      "tagline": "Dibina untuk komuniti pembangun di seluruh dunia.",
+      "copyright": "FreeDevUtils — Percuma & Selamat"
     }
   },
   "contribute": {

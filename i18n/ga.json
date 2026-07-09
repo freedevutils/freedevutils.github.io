@@ -1698,6 +1698,32 @@
         "select-file": "Roghnaigh Comhad",
         "drag-and-drop-here": "Tarraing agus scaoil d'íomhá nó PDF anseo"
       }
+    },
+    "searchPlaceholderFull": "Cuardaigh 70+ áis d'fhorbróirí...",
+    "hero": {
+      "title": "D'Áiseanna Forbróra,",
+      "titleHighlight": "Fíor-chumhachtaithe.",
+      "subtitle": "70+ áis saor in aisce, slán, atá dírithe ar phríobháideachas agus a tógadh d'fhorbróirí a dhéanann seachadadh go tapa.",
+      "toolCount": "Uirlisí ar Fáil"
+    },
+    "categoryAll": "Gach Uirlis",
+    "popularBadge": "Coitianta",
+    "footer": {
+      "devTools": "Áiseanna Forbróra",
+      "resources": "Acmhainní",
+      "github": "GitHub",
+      "privacy": "Príobháideachas",
+      "changelog": "Loga Athruithe",
+      "about": "Faoi",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Doiciméadú",
+      "contribute": "Cur le",
+      "releaseNotes": "Nótaí Eisiúna",
+      "tagline": "Tógtha do phobal na bhforbróirí ar fud an domhain.",
+      "copyright": "FreeDevUtils — Saor in Aisce & Slán"
     }
   },
   "contribute": {

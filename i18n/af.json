@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Soek gereedskap",
+    "searchPlaceholder": "Soek nutsmiddels",
     "resultsCount": "resultate",
     "dialog": {
       "title": "Ontwikkelaarsnutskatalogus",
@@ -1698,6 +1698,32 @@
         "select-file": "Kies 'n Lêer",
         "drag-and-drop-here": "Sleep jou beeld of PDF hierheen"
       }
+    },
+    "searchPlaceholderFull": "Soek 70+ ontwikkelaar utilities...",
+    "hero": {
+      "title": "Jou Ontwikkelaar Utilities,",
+      "titleHighlight": "Aangejaag.",
+      "subtitle": "70+ gratis, veilige, privaatheid-gefokusde utilities gebou vir ontwikkelaars wat vinnig aflewer.",
+      "toolCount": "Nutsmiddels Beskikbaar"
+    },
+    "categoryAll": "Alle Nutsmiddels",
+    "popularBadge": "Gewild",
+    "footer": {
+      "devTools": "Ontwikkelaar Utilities",
+      "resources": "Hulpbronne",
+      "github": "GitHub",
+      "privacy": "Privaatheid",
+      "changelog": "Changelog",
+      "about": "Oor",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentasie",
+      "contribute": "Dra by",
+      "releaseNotes": "Vrystellingsnotas",
+      "tagline": "Gebou vir die ontwikkelaarsgemeenskap wêreldwyd.",
+      "copyright": "FreeDevUtils — Gratis & Veilig"
     }
   },
   "contribute": {

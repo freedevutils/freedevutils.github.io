@@ -1698,6 +1698,32 @@
         "select-file": "Izaberi fajl",
         "drag-and-drop-here": "Prevuci i pusti sliku ili PDF ovde"
       }
+    },
+    "searchPlaceholderFull": "Pretraži 70+ alatki za programere...",
+    "hero": {
+      "title": "Vaše Alatke za Programere,",
+      "titleHighlight": "Poboljšane.",
+      "subtitle": "Preko 70 besplatnih, bezbednih i privatnosti okrenutih alatki kreiranih za programere koji rade brzo.",
+      "toolCount": "Dostupni alati"
+    },
+    "categoryAll": "Svi alati",
+    "popularBadge": "Popularno",
+    "footer": {
+      "devTools": "Alatke za Programere",
+      "resources": "Resursi",
+      "github": "GitHub",
+      "privacy": "Privatnost",
+      "changelog": "Istorija izmena",
+      "about": "O nama",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentacija",
+      "contribute": "Doprinesite",
+      "releaseNotes": "Napomene o izdanju",
+      "tagline": "Napravljeno za programersku zajednicu širom sveta.",
+      "copyright": "FreeDevUtils — Besplatno i Bezbedno"
     }
   },
   "contribute": {

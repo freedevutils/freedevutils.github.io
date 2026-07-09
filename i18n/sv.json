@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Sök efter verktyg",
+    "searchPlaceholder": "Sök verktyg",
     "resultsCount": "resultat",
     "dialog": {
       "title": "Utvecklarverktygskatalog",
@@ -1698,6 +1698,32 @@
         "select-file": "Välj en fil",
         "drag-and-drop-here": "Dra och släpp din bild eller PDF här"
       }
+    },
+    "searchPlaceholderFull": "Sök 70+ utvecklarverktyg...",
+    "hero": {
+      "title": "Dina Utvecklarverktyg,",
+      "titleHighlight": "Uppladdade.",
+      "subtitle": "70+ gratis, säkra och integritetsfokuserade verktyg byggda för utvecklare som levererar snabbt.",
+      "toolCount": "Tillgängliga Verktyg"
+    },
+    "categoryAll": "Alla Verktyg",
+    "popularBadge": "Populär",
+    "footer": {
+      "devTools": "Utvecklarverktyg",
+      "resources": "Resurser",
+      "github": "GitHub",
+      "privacy": "Integritet",
+      "changelog": "Ändringslogg",
+      "about": "Om",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentation",
+      "contribute": "Bidra",
+      "releaseNotes": "Versionsfakta",
+      "tagline": "Byggt för utvecklargemenskapen över hela världen.",
+      "copyright": "FreeDevUtils — Gratis & Säkert"
     }
   },
   "contribute": {

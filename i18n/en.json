@@ -61,7 +61,33 @@
   },
   "devtools": {
     "searchPlaceholder": "Search tools",
+    "searchPlaceholderFull": "Search 70+ developer Utilities...",
     "resultsCount": "results",
+    "hero": {
+      "title": "Your Developer Utilities,",
+      "titleHighlight": "Supercharged.",
+      "subtitle": "70+ free, secure, privacy-focused utilities built for developers who ship fast.",
+      "toolCount": "Tools Available"
+    },
+    "categoryAll": "All Tools",
+    "popularBadge": "Popular",
+    "footer": {
+      "devTools": "Developer Utilities",
+      "resources": "Resources",
+      "github": "GitHub",
+      "privacy": "Privacy",
+      "changelog": "Changelog",
+      "about": "About",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Documentation",
+      "contribute": "Contribute",
+      "releaseNotes": "Release Notes",
+      "tagline": "Built for the developer community worldwide.",
+      "copyright": "FreeDevUtils — Free & Secure"
+    },
     "dialog": {
       "title": "Developer Utility Catalog",
       "closeAria": "Close dialog",

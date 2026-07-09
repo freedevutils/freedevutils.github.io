@@ -1698,6 +1698,32 @@
         "select-file": "Veldu skrá",
         "drag-and-drop-here": "Dragðu og slepptu myndinni eða PDF-skjalinu hingað"
       }
+    },
+    "searchPlaceholderFull": "Leita í 70+ þróunarforritum...",
+    "hero": {
+      "title": "Þróunarforritin þín,",
+      "titleHighlight": "Yfirhlaðin.",
+      "subtitle": "70+ ókeypis, örugg og persónuverndarmiðuð forrit byggð fyrir forritara sem skila vinnu hratt.",
+      "toolCount": "Tól í boði"
+    },
+    "categoryAll": "Öll tól",
+    "popularBadge": "Vinsælt",
+    "footer": {
+      "devTools": "Þróunarforrit",
+      "resources": "Úrræði",
+      "github": "GitHub",
+      "privacy": "Persónuvernd",
+      "changelog": "Breytingaskrá",
+      "about": "Um",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Skjölun",
+      "contribute": "Láta af hendi",
+      "releaseNotes": "Útgáfuupplýsingar",
+      "tagline": "Byggt fyrir forritarasamfélagið um allan heim.",
+      "copyright": "FreeDevUtils — Ókeypis og Öruggt"
     }
   },
   "contribute": {

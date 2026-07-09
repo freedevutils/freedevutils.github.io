@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Araçlarda ara",
+    "searchPlaceholder": "Araç ara",
     "resultsCount": "sonuç",
     "dialog": {
       "title": "Geliştirici Araçları Kataloğu",
@@ -1698,6 +1698,32 @@
         "select-file": "Dosya Seç",
         "drag-and-drop-here": "Resminizi veya PDF'inizi buraya sürükleyip bırakın"
       }
+    },
+    "searchPlaceholderFull": "70+ geliştirici aracında ara...",
+    "hero": {
+      "title": "Geliştirici Araçlarınız,",
+      "titleHighlight": "Güçlendirildi.",
+      "subtitle": "Hızlı iş çıkaran geliştiriciler için oluşturulmuş 70'ten fazla ücretsiz, güvenli ve gizlilik odaklı araç.",
+      "toolCount": "Mevcut Araçlar"
+    },
+    "categoryAll": "Tüm Araçlar",
+    "popularBadge": "Popüler",
+    "footer": {
+      "devTools": "Geliştirici Araçları",
+      "resources": "Kaynaklar",
+      "github": "GitHub",
+      "privacy": "Gizlilik",
+      "changelog": "Değişiklik Günlüğü",
+      "about": "Hakkında",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokümantasyon",
+      "contribute": "Katkıda Bulun",
+      "releaseNotes": "Sürüm Notları",
+      "tagline": "Dünya çapındaki geliştirici topluluğu için oluşturuldu.",
+      "copyright": "FreeDevUtils — Ücretsiz & Güvenli"
     }
   },
   "contribute": {

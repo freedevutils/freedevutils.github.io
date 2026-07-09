@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Hae työkaluja",
+    "searchPlaceholder": "Etsi työkaluja",
     "resultsCount": "tulosta",
     "dialog": {
       "title": "Kehittäjän työkaluluettelo",
@@ -1698,6 +1698,32 @@
         "select-file": "Valitse tiedosto",
         "drag-and-drop-here": "Vedä ja pudota kuvasi tai PDF-tiedostosi tähän"
       }
+    },
+    "searchPlaceholderFull": "Etsi 70+ kehittäjän apuohjelmaa...",
+    "hero": {
+      "title": "Kehittäjän apuohjelmasi,",
+      "titleHighlight": "Tehostettuna.",
+      "subtitle": "70+ ilmaista, turvallista ja yksityisyyteen keskittyvää apuohjelmaa, jotka on suunniteltu nopeasti toimittaville kehittäjille.",
+      "toolCount": "Työkaluja saatavilla"
+    },
+    "categoryAll": "Kaikki työkalut",
+    "popularBadge": "Suosittu",
+    "footer": {
+      "devTools": "Kehittäjän Apuohjelmat",
+      "resources": "Resurssit",
+      "github": "GitHub",
+      "privacy": "Yksityisyys",
+      "changelog": "Muutosloki",
+      "about": "Tietoa",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentaatio",
+      "contribute": "Osallistu",
+      "releaseNotes": "Julkaisutiedot",
+      "tagline": "Rakennettu kehittäjäyhteisölle maailmanlaajuisesti.",
+      "copyright": "FreeDevUtils — Ilmainen & Turvallinen"
     }
   },
   "contribute": {

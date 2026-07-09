@@ -1698,6 +1698,32 @@
         "select-file": "Chagua Faili",
         "drag-and-drop-here": "Buruta na udondoshe picha yako au PDF hapa"
       }
+    },
+    "searchPlaceholderFull": "Tafuta zana 70+ za wasanidi...",
+    "hero": {
+      "title": "Zana Zako za Wasanidi,",
+      "titleHighlight": "Zilizoboreshwa.",
+      "subtitle": "Zana 70+ za bure, salama, na zinazozingatia faragha zilizoundwa kwa ajili ya wasanidi wanaofanya kazi haraka.",
+      "toolCount": "Zana Zinazopatikana"
+    },
+    "categoryAll": "Zana Zote",
+    "popularBadge": "Maarufu",
+    "footer": {
+      "devTools": "Zana za Wasanidi",
+      "resources": "Rasilimali",
+      "github": "GitHub",
+      "privacy": "Faragha",
+      "changelog": "Kumbukumbu ya Mabadiliko",
+      "about": "Kuhusu",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Nyaraka",
+      "contribute": "Changia",
+      "releaseNotes": "Vidokezo vya Toleo",
+      "tagline": "Imeundwa kwa ajili ya jumuiya ya wasanidi duniani kote.",
+      "copyright": "FreeDevUtils — Bure na Salama"
     }
   },
   "contribute": {

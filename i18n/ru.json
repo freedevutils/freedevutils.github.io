@@ -1698,6 +1698,32 @@
         "select-file": "Выберите файл",
         "drag-and-drop-here": "Перетащите изображение или PDF сюда"
       }
+    },
+    "searchPlaceholderFull": "Поиск среди 70+ утилит для разработчиков...",
+    "hero": {
+      "title": "Твои Утилиты для Разработки,",
+      "titleHighlight": "Прокачанные.",
+      "subtitle": "Более 70 бесплатных, безопасных и ориентированных на приватность утилит для разработчиков, которые ценят свое время.",
+      "toolCount": "Доступно Инструментов"
+    },
+    "categoryAll": "Все инструменты",
+    "popularBadge": "Популярно",
+    "footer": {
+      "devTools": "Утилиты Разработчика",
+      "resources": "Ресурсы",
+      "github": "GitHub",
+      "privacy": "Конфиденциальность",
+      "changelog": "Список изменений",
+      "about": "О нас",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Документация",
+      "contribute": "Участвовать",
+      "releaseNotes": "Примечания к релизу",
+      "tagline": "Создано для сообщества разработчиков по всему миру.",
+      "copyright": "FreeDevUtils — Бесплатно и Безопасно"
     }
   },
   "contribute": {

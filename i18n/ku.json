@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Li amûran bigere",
+    "searchPlaceholder": "Lêgerîna amûran",
     "resultsCount": "encam",
     "dialog": {
       "title": "Kataloga Amûrên Pêşvebir",
@@ -1698,6 +1698,32 @@
         "select-file": "Pelekê Hilbijêre",
         "drag-and-drop-here": "Wêne an PDF'ya xwe bikişîne û li vir berde"
       }
+    },
+    "searchPlaceholderFull": "Li 70+ amûrên pêşdebiran bigerin...",
+    "hero": {
+      "title": "Amûrên We Yên Pêşdebir,",
+      "titleHighlight": "Hêzdar.",
+      "subtitle": "70+ amûrên belaş, ewledar û bi nepenîtiyê ve girêdayî yên ku ji bo pêşdebirên bilez hatine çêkirin.",
+      "toolCount": "Amûrên Berdest"
+    },
+    "categoryAll": "Hemî Amûr",
+    "popularBadge": "Gelêrî",
+    "footer": {
+      "devTools": "Amûrên Pêşdebiran",
+      "resources": "Çavkanî",
+      "github": "GitHub",
+      "privacy": "Nepenî",
+      "changelog": "Qeyda guhertinan",
+      "about": "Derbar",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Belge",
+      "contribute": "Tevlî bibe",
+      "releaseNotes": "Têbînîyên Weşanê",
+      "tagline": "Ji bo civaka pêşdebiran li çaraliyê cîhanê hatî çêkirin.",
+      "copyright": "FreeDevUtils — Belaş & Ewledar"
     }
   },
   "contribute": {

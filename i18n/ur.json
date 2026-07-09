@@ -1698,6 +1698,32 @@
         "select-file": "ایک فائل منتخب کریں",
         "drag-and-drop-here": "اپنی تصویر یا PDF یہاں ڈریگ اور ڈراپ کریں"
       }
+    },
+    "searchPlaceholderFull": "70+ ڈیولپر یوٹیلیٹیز تلاش کریں...",
+    "hero": {
+      "title": "آپ کی ڈیولپر یوٹیلیٹیز،",
+      "titleHighlight": "سپرچارجڈ۔",
+      "subtitle": "تیزی سے کام کرنے والے ڈیولپرز کے لیے 70+ مفت، محفوظ، اور پرائیویسی پر مبنی یوٹیلیٹیز۔",
+      "toolCount": "دستیاب ٹولز"
+    },
+    "categoryAll": "تمام ٹولز",
+    "popularBadge": "مقبول",
+    "footer": {
+      "devTools": "ڈیولپر یوٹیلیٹیز",
+      "resources": "وسائل",
+      "github": "GitHub",
+      "privacy": "پرائیویسی",
+      "changelog": "چینج لاگ",
+      "about": "ہمارے بارے میں",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "دستاویزات",
+      "contribute": "تعاون کریں",
+      "releaseNotes": "ریلیز نوٹس",
+      "tagline": "دنیا بھر کی ڈیولپر کمیونٹی کے لیے بنایا گیا۔",
+      "copyright": "FreeDevUtils — مفت اور محفوظ"
     }
   },
   "contribute": {

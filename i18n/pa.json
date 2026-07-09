@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "ਟੂਲਜ਼ ਖੋਜੋ",
+    "searchPlaceholder": "ਟੂਲ ਖੋਜੋ",
     "resultsCount": "ਨਤੀਜੇ",
     "dialog": {
       "title": "ਡਿਵੈਲਪਰ ਯੂਟਿਲਿਟੀ ਕੈਟਾਲਾਗ",
@@ -1698,6 +1698,32 @@
         "select-file": "ਕੋਈ ਫਾਈਲ ਚੁਣੋ",
         "drag-and-drop-here": "ਆਪਣਾ ਚਿੱਤਰ ਜਾਂ PDF ਇੱਥੇ ਡ੍ਰੈਗ ਅਤੇ ਡ੍ਰੌਪ ਕਰੋ"
       }
+    },
+    "searchPlaceholderFull": "70+ ਡਿਵੈਲਪਰ ਯੂਟਿਲਿਟੀਜ਼ ਖੋਜੋ...",
+    "hero": {
+      "title": "ਤੁਹਾਡੀਆਂ ਡਿਵੈਲਪਰ ਯੂਟਿਲਿਟੀਜ਼,",
+      "titleHighlight": "ਸੁਪਰਚਾਰਜਡ।",
+      "subtitle": "ਤੇਜ਼ੀ ਨਾਲ ਕੰਮ ਕਰਨ ਵਾਲੇ ਡਿਵੈਲਪਰਾਂ ਲਈ 70+ ਮੁਫ਼ਤ, ਸੁਰੱਖਿਅਤ ਅਤੇ ਗੋਪਨੀਯਤਾ-ਕੇਂਦ੍ਰਿਤ ਯੂਟਿਲਿਟੀਜ਼।",
+      "toolCount": "ਉਪਲਬਧ ਟੂਲ"
+    },
+    "categoryAll": "ਸਾਰੇ ਟੂਲ",
+    "popularBadge": "ਪ੍ਰਸਿੱਧ",
+    "footer": {
+      "devTools": "ਡਿਵੈਲਪਰ ਯੂਟਿਲਿਟੀਜ਼",
+      "resources": "ਸਰੋਤ",
+      "github": "GitHub",
+      "privacy": "ਗੋਪਨੀਯਤਾ",
+      "changelog": "ਚੇਂਜਲੌਗ",
+      "about": "ਸਾਡੇ ਬਾਰੇ",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "ਦਸਤਾਵੇਜ਼",
+      "contribute": "ਯੋਗਦਾਨ ਪਾਓ",
+      "releaseNotes": "ਰਿਲੀਜ਼ ਨੋਟਸ",
+      "tagline": "ਦੁਨੀਆ ਭਰ ਦੇ ਡਿਵੈਲਪਰ ਭਾਈਚਾਰੇ ਲਈ ਬਣਾਇਆ ਗਿਆ।",
+      "copyright": "FreeDevUtils — ਮੁਫ਼ਤ ਅਤੇ ਸੁਰੱਖਿਅਤ"
     }
   },
   "contribute": {

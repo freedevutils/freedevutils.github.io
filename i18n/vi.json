@@ -1698,6 +1698,32 @@
         "select-file": "Chọn một Tệp",
         "drag-and-drop-here": "Kéo và thả hình ảnh hoặc PDF của bạn vào đây"
       }
+    },
+    "searchPlaceholderFull": "Tìm kiếm 70+ tiện ích dành cho nhà phát triển...",
+    "hero": {
+      "title": "Tiện ích Phát triển của bạn,",
+      "titleHighlight": "Siêu Năng Lực.",
+      "subtitle": "Hơn 70 tiện ích miễn phí, an toàn và tập trung vào quyền riêng tư được xây dựng cho các nhà phát triển làm việc với tốc độ cao.",
+      "toolCount": "Công cụ Có sẵn"
+    },
+    "categoryAll": "Tất cả Công cụ",
+    "popularBadge": "Phổ biến",
+    "footer": {
+      "devTools": "Tiện ích Phát triển",
+      "resources": "Tài nguyên",
+      "github": "GitHub",
+      "privacy": "Bảo mật",
+      "changelog": "Nhật ký thay đổi",
+      "about": "Giới thiệu",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Tài liệu",
+      "contribute": "Đóng góp",
+      "releaseNotes": "Ghi chú Phát hành",
+      "tagline": "Được xây dựng cho cộng đồng nhà phát triển trên toàn thế giới.",
+      "copyright": "FreeDevUtils — Miễn phí & An toàn"
     }
   },
   "contribute": {

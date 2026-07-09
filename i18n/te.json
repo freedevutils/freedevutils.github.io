@@ -1698,6 +1698,32 @@
         "select-file": "ఫైల్‌ను ఎంచుకోండి",
         "drag-and-drop-here": "మీ చిత్రం లేదా PDFను ఇక్కడ డ్రాగ్ చేసి డ్రాప్ చేయండి"
       }
+    },
+    "searchPlaceholderFull": "70+ డెవలపర్ సాధనాలను శోధించండి...",
+    "hero": {
+      "title": "మీ డెవలపర్ సాధనాలు,",
+      "titleHighlight": "సూపర్‌ఛార్జ్డ్.",
+      "subtitle": "వేగంగా పనిచేసే డెవలపర్‌ల కోసం రూపొందించబడిన 70+ ఉచిత, సురక్షితమైన మరియు గోప్యత-కేంద్రీకృత సాధనాలు.",
+      "toolCount": "అందుబాటులో ఉన్న సాధనాలు"
+    },
+    "categoryAll": "అన్ని సాధనాలు",
+    "popularBadge": "ప్రజాదరణ పొందినవి",
+    "footer": {
+      "devTools": "డెవలపర్ సాధనాలు",
+      "resources": "వనరులు",
+      "github": "GitHub",
+      "privacy": "గోప్యత",
+      "changelog": "మార్పుల చిట్టా",
+      "about": "గురించి",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "డాక్యుమెంటేషన్",
+      "contribute": "సహకరించండి",
+      "releaseNotes": "విడుదల గమనికలు",
+      "tagline": "ప్రపంచవ్యాప్తంగా డెవలపర్ కమ్యూనిటీ కోసం నిర్మించబడింది.",
+      "copyright": "FreeDevUtils — ఉచితం & సురక్షితం"
     }
   },
   "contribute": {

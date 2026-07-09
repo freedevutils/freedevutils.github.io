@@ -61,7 +61,7 @@
   },
   "devtools": {
     "searchPlaceholder": "도구 검색",
-    "resultsCount": "결과",
+    "resultsCount": "개의 결과",
     "dialog": {
       "title": "개발자 유틸리티 카탈로그",
       "closeAria": "대화상자 닫기",
@@ -1698,6 +1698,32 @@
         "select-file": "파일 선택",
         "drag-and-drop-here": "이미지 또는 PDF를 여기에 드래그 앤 드롭하세요"
       }
+    },
+    "searchPlaceholderFull": "70개 이상의 개발자 유틸리티 검색...",
+    "hero": {
+      "title": "개발자 유틸리티,",
+      "titleHighlight": "강력해지다.",
+      "subtitle": "빠르게 작업하는 개발자를 위해 제작된 70개 이상의 무료, 안전 및 개인 정보 보호 중심 유틸리티입니다.",
+      "toolCount": "사용 가능한 도구"
+    },
+    "categoryAll": "모든 도구",
+    "popularBadge": "인기",
+    "footer": {
+      "devTools": "개발자 유틸리티",
+      "resources": "리소스",
+      "github": "GitHub",
+      "privacy": "개인정보 보호",
+      "changelog": "변경 로그",
+      "about": "소개",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "문서",
+      "contribute": "기여하기",
+      "releaseNotes": "릴리스 노트",
+      "tagline": "전 세계 개발자 커뮤니티를 위해 제작되었습니다.",
+      "copyright": "FreeDevUtils — 무료 및 안전"
     }
   },
   "contribute": {

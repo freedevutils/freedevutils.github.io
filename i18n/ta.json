@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "கருவிகளைத் தேடுக",
+    "searchPlaceholder": "கருவிகளைத் தேடு",
     "resultsCount": "முடிவுகள்",
     "dialog": {
       "title": "டெவலப்பர் பயன்பாட்டு பட்டியல்",
@@ -1698,6 +1698,32 @@
         "select-file": "ஒரு கோப்பைத் தேர்ந்தெடுக்கவும்",
         "drag-and-drop-here": "உங்கள் படம் அல்லது PDF ஐ இங்கே இழுத்து விடவும்"
       }
+    },
+    "searchPlaceholderFull": "70+ டெவலப்பர் கருவிகளைத் தேடுங்கள்...",
+    "hero": {
+      "title": "உங்கள் டெவலப்பர் கருவிகள்,",
+      "titleHighlight": "சூப்பர்சார்ஜ் செய்யப்பட்டது.",
+      "subtitle": "வேகமாக செயல்படும் டெவலப்பர்களுக்காக உருவாக்கப்பட்ட 70+ இலவச, பாதுகாப்பான, மற்றும் தனியுரிமை சார்ந்த கருவிகள்.",
+      "toolCount": "கிடைக்கும் கருவிகள்"
+    },
+    "categoryAll": "அனைத்து கருவிகள்",
+    "popularBadge": "பிரபலம்",
+    "footer": {
+      "devTools": "டெவலப்பர் கருவிகள்",
+      "resources": "வளங்கள்",
+      "github": "GitHub",
+      "privacy": "தனியுரிமை",
+      "changelog": "மாற்றங்கள்",
+      "about": "பற்றி",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "ஆவணங்கள்",
+      "contribute": "பங்களிப்பு",
+      "releaseNotes": "வெளியீட்டு குறிப்புகள்",
+      "tagline": "உலகெங்கிலும் உள்ள டெவலப்பர் சமூகத்திற்காக உருவாக்கப்பட்டது.",
+      "copyright": "FreeDevUtils — இலவசம் & பாதுகாப்பானது"
     }
   },
   "contribute": {

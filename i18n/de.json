@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Tools durchsuchen",
+    "searchPlaceholder": "Werkzeuge suchen",
     "resultsCount": "Ergebnisse",
     "dialog": {
       "title": "Entwickler-Utility-Katalog",
@@ -1698,6 +1698,32 @@
         "select-file": "Datei auswählen",
         "drag-and-drop-here": "Ziehen Sie Ihr Bild oder Ihre PDF hierher"
       }
+    },
+    "searchPlaceholderFull": "Suche in 70+ Entwickler-Dienstprogrammen...",
+    "hero": {
+      "title": "Ihre Entwickler-Dienstprogramme,",
+      "titleHighlight": "Hochleistungsstark.",
+      "subtitle": "Über 70 kostenlose, sichere und datenschutzorientierte Dienstprogramme für Entwickler, die schnell liefern.",
+      "toolCount": "Verfügbare Werkzeuge"
+    },
+    "categoryAll": "Alle Werkzeuge",
+    "popularBadge": "Beliebt",
+    "footer": {
+      "devTools": "Entwickler-Dienstprogramme",
+      "resources": "Ressourcen",
+      "github": "GitHub",
+      "privacy": "Datenschutz",
+      "changelog": "Änderungsprotokoll",
+      "about": "Über",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentation",
+      "contribute": "Mitwirken",
+      "releaseNotes": "Versionshinweise",
+      "tagline": "Entwickelt für die Entwickler-Community weltweit.",
+      "copyright": "FreeDevUtils — Kostenlos & Sicher"
     }
   },
   "contribute": {

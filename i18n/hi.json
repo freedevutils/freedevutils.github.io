@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "टूल्स खोजें",
+    "searchPlaceholder": "उपकरण खोजें",
     "resultsCount": "परिणाम",
     "dialog": {
       "title": "डेवलपर यूटिलिटी कैटलॉग",
@@ -1698,6 +1698,32 @@
         "select-file": "एक फ़ाइल चुनें",
         "drag-and-drop-here": "अपनी छवि या PDF यहाँ ड्रैग और ड्रॉप करें"
       }
+    },
+    "searchPlaceholderFull": "70+ डेवलपर उपयोगिताएँ खोजें...",
+    "hero": {
+      "title": "आपकी डेवलपर उपयोगिताएँ,",
+      "titleHighlight": "सुपरचार्ज्ड.",
+      "subtitle": "तेजी से काम करने वाले डेवलपर्स के लिए 70+ मुफ्त, सुरक्षित और गोपनीयता-केंद्रित उपयोगिताएँ।",
+      "toolCount": "उपकरण उपलब्ध"
+    },
+    "categoryAll": "सभी उपकरण",
+    "popularBadge": "लोकप्रिय",
+    "footer": {
+      "devTools": "डेवलपर उपयोगिताएँ",
+      "resources": "संसाधन",
+      "github": "GitHub",
+      "privacy": "गोपनीयता",
+      "changelog": "चेंजलॉग",
+      "about": "हमारे बारे में",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "दस्तावेज़ीकरण",
+      "contribute": "योगदान दें",
+      "releaseNotes": "रिलीज़ नोट्स",
+      "tagline": "दुनिया भर के डेवलपर समुदाय के लिए निर्मित।",
+      "copyright": "FreeDevUtils — मुफ्त और सुरक्षित"
     }
   },
   "contribute": {

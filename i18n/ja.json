@@ -1698,6 +1698,32 @@
         "select-file": "ファイルを選択",
         "drag-and-drop-here": "画像またはPDFをここにドラッグ＆ドロップ"
       }
+    },
+    "searchPlaceholderFull": "70以上の開発者ユーティリティを検索...",
+    "hero": {
+      "title": "あなたの開発者ユーティリティ、",
+      "titleHighlight": "超強化版。",
+      "subtitle": "迅速に開発を行う開発者のために作られた、70以上の無料・安全でプライバシーを重視したユーティリティ。",
+      "toolCount": "利用可能なツール"
+    },
+    "categoryAll": "すべてのツール",
+    "popularBadge": "人気",
+    "footer": {
+      "devTools": "開発者ユーティリティ",
+      "resources": "リソース",
+      "github": "GitHub",
+      "privacy": "プライバシー",
+      "changelog": "変更履歴",
+      "about": "概要",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "ドキュメント",
+      "contribute": "貢献",
+      "releaseNotes": "リリースノート",
+      "tagline": "世界中の開発者コミュニティのために作られました。",
+      "copyright": "FreeDevUtils — 無料かつ安全"
     }
   },
   "contribute": {

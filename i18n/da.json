@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "Søg efter værktøjer",
+    "searchPlaceholder": "Søg værktøjer",
     "resultsCount": "resultater",
     "dialog": {
       "title": "Katalog over udviklerværktøjer",
@@ -1698,6 +1698,32 @@
         "select-file": "Vælg en fil",
         "drag-and-drop-here": "Træk og slip dit billede eller din PDF her"
       }
+    },
+    "searchPlaceholderFull": "Søg i 70+ udvikler utilities...",
+    "hero": {
+      "title": "Dine Udvikler Utilities,",
+      "titleHighlight": "Supercharged.",
+      "subtitle": "70+ gratis, sikre og privatlivsfokuserede utilities bygget til udviklere, der leverer hurtigt.",
+      "toolCount": "Værktøjer Tilgængelige"
+    },
+    "categoryAll": "Alle Værktøjer",
+    "popularBadge": "Populær",
+    "footer": {
+      "devTools": "Udvikler Utilities",
+      "resources": "Ressourcer",
+      "github": "GitHub",
+      "privacy": "Privatliv",
+      "changelog": "Changelog",
+      "about": "Om",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentation",
+      "contribute": "Bidrag",
+      "releaseNotes": "Udgivelsesnoter",
+      "tagline": "Bygget til udviklerfællesskabet verden over.",
+      "copyright": "FreeDevUtils — Gratis & Sikker"
     }
   },
   "contribute": {

@@ -1698,6 +1698,32 @@
         "select-file": "เลือกไฟล์",
         "drag-and-drop-here": "ลากและวางรูปภาพหรือ PDF ของคุณที่นี่"
       }
+    },
+    "searchPlaceholderFull": "ค้นหาเครื่องมือผู้พัฒนามากกว่า 70 รายการ...",
+    "hero": {
+      "title": "เครื่องมือสำหรับนักพัฒนาของคุณ,",
+      "titleHighlight": "ทรงพลังยิ่งขึ้น",
+      "subtitle": "เครื่องมือฟรีกว่า 70 รายการ ที่ปลอดภัยและเน้นความเป็นส่วนตัว สร้างมาเพื่อนักพัฒนาที่ทำงานอย่างรวดเร็ว",
+      "toolCount": "เครื่องมือที่มีอยู่"
+    },
+    "categoryAll": "เครื่องมือทั้งหมด",
+    "popularBadge": "ยอดนิยม",
+    "footer": {
+      "devTools": "เครื่องมือผู้พัฒนา",
+      "resources": "ทรัพยากร",
+      "github": "GitHub",
+      "privacy": "ความเป็นส่วนตัว",
+      "changelog": "บันทึกการเปลี่ยนแปลง",
+      "about": "เกี่ยวกับ",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "เอกสารประกอบ",
+      "contribute": "มีส่วนร่วม",
+      "releaseNotes": "บันทึกประจำรุ่น",
+      "tagline": "สร้างขึ้นเพื่อชุมชนนักพัฒนาทั่วโลก",
+      "copyright": "FreeDevUtils — ฟรีและปลอดภัย"
     }
   },
   "contribute": {

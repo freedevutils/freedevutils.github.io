@@ -1698,6 +1698,32 @@
         "select-file": "Επιλέξτε Αρχείο",
         "drag-and-drop-here": "Σύρετε και αφήστε την εικόνα ή το PDF σας εδώ"
       }
+    },
+    "searchPlaceholderFull": "Αναζητήστε 70+ εργαλεία προγραμματιστών...",
+    "hero": {
+      "title": "Τα βοηθητικά προγράμματά σας,",
+      "titleHighlight": "Υπερτροφοδοτούμενα.",
+      "subtitle": "70+ δωρεάν, ασφαλή, εστιασμένα στο απόρρητο εργαλεία για προγραμματιστές που παραδίδουν γρήγορα.",
+      "toolCount": "Διαθέσιμα Εργαλεία"
+    },
+    "categoryAll": "Όλα τα εργαλεία",
+    "popularBadge": "Δημοφιλή",
+    "footer": {
+      "devTools": "Βοηθητικά Προγράμματα",
+      "resources": "Πόροι",
+      "github": "GitHub",
+      "privacy": "Απόρρητο",
+      "changelog": "Ιστορικό αλλαγών",
+      "about": "Σχετικά",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Τεκμηρίωση",
+      "contribute": "Συνεισφέρετε",
+      "releaseNotes": "Σημειώσεις Έκδοσης",
+      "tagline": "Δημιουργήθηκε για την κοινότητα των προγραμματιστών παγκοσμίως.",
+      "copyright": "FreeDevUtils — Δωρεάν & Ασφαλές"
     }
   },
   "contribute": {

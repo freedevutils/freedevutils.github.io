@@ -60,7 +60,7 @@
     }
   },
   "devtools": {
-    "searchPlaceholder": "টুলস খুঁজুন",
+    "searchPlaceholder": "টুল খুঁজুন",
     "resultsCount": "ফলাফল",
     "dialog": {
       "title": "ডেভেলপার ইউটিলিটি ক্যাটালগ",
@@ -2119,6 +2119,32 @@
         },
         "quote": "বিশৃঙ্খলার মধ্য দিয়েই সমস্ত সূচনার উদ্ভব হয়, পথ পরিষ্কার করুন এবং উদ্দেশ্য নিজেই প্রকাশিত হবে।"
       }
+    },
+    "searchPlaceholderFull": "৭০+ ডেভেলপার ইউটিলিটি খুঁজুন...",
+    "hero": {
+      "title": "আপনার ডেভেলপার ইউটিলিটিজ,",
+      "titleHighlight": "সুপারচার্জড।",
+      "subtitle": "দ্রুত কাজ করা ডেভেলপারদের জন্য নির্মিত ৭০+ বিনামূল্যে, সুরক্ষিত এবং গোপনীয়তা-কেন্দ্রিক ইউটিলিটি।",
+      "toolCount": "উপলব্ধ টুলস"
+    },
+    "categoryAll": "সকল টুল",
+    "popularBadge": "জনপ্রিয়",
+    "footer": {
+      "devTools": "ডেভেলপার ইউটিলিটিজ",
+      "resources": "রিসোর্স",
+      "github": "GitHub",
+      "privacy": "গোপনীয়তা",
+      "changelog": "Changelog",
+      "about": "সম্পর্কে",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "ডকুমেন্টেশন",
+      "contribute": "অবদান রাখুন",
+      "releaseNotes": "রিলিজ নোটস",
+      "tagline": "বিশ্বব্যাপী ডেভেলপার সম্প্রদায়ের জন্য নির্মিত।",
+      "copyright": "FreeDevUtils — বিনামূল্যে এবং সুরক্ষিত"
     }
   }
 }

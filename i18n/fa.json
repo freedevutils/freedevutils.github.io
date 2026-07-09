@@ -1698,6 +1698,32 @@
         "select-file": "یک فایل انتخاب کنید",
         "drag-and-drop-here": "تصویر یا فایل PDF خود را اینجا بکشید و رها کنید"
       }
+    },
+    "searchPlaceholderFull": "جستجو در بیش از 70 ابزار توسعه‌دهنده...",
+    "hero": {
+      "title": "ابزارهای توسعه شما،",
+      "titleHighlight": "قدرتمندتر از همیشه.",
+      "subtitle": "بیش از 70 ابزار کاربردی رایگان، امن و متمرکز بر حریم خصوصی، ساخته شده برای توسعه‌دهندگانی که سریع کار می‌کنند.",
+      "toolCount": "ابزار موجود"
+    },
+    "categoryAll": "همه ابزارها",
+    "popularBadge": "محبوب",
+    "footer": {
+      "devTools": "ابزارهای توسعه‌دهنده",
+      "resources": "منابع",
+      "github": "GitHub",
+      "privacy": "حریم خصوصی",
+      "changelog": "لیست تغییرات",
+      "about": "درباره ما",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "مستندات",
+      "contribute": "مشارکت",
+      "releaseNotes": "یادداشت‌های انتشار",
+      "tagline": "ساخته شده برای جامعه توسعه‌دهندگان در سراسر جهان.",
+      "copyright": "FreeDevUtils — رایگان و ایمن"
     }
   },
   "contribute": {

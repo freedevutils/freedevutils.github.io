@@ -1698,6 +1698,32 @@
         "select-file": "בחר קובץ",
         "drag-and-drop-here": "גרור ושחרר את התמונה או ה-PDF שלך כאן"
       }
+    },
+    "searchPlaceholderFull": "חפש 70+ כלי עזר למפתחים...",
+    "hero": {
+      "title": "כלי העזר שלך למפתחים,",
+      "titleHighlight": "משופרים.",
+      "subtitle": "מעל 70 כלי עזר חינמיים, בטוחים וממוקדי פרטיות שנבנו עבור מפתחים המספקים עבודה במהירות.",
+      "toolCount": "כלים זמינים"
+    },
+    "categoryAll": "כל הכלים",
+    "popularBadge": "פופולרי",
+    "footer": {
+      "devTools": "כלי עזר למפתחים",
+      "resources": "משאבים",
+      "github": "GitHub",
+      "privacy": "פרטיות",
+      "changelog": "יומן שינויים",
+      "about": "אודות",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "תיעוד",
+      "contribute": "תרום",
+      "releaseNotes": "הערות שחרור",
+      "tagline": "נבנה עבור קהילת המפתחים ברחבי העולם.",
+      "copyright": "FreeDevUtils — חינמי ומאובטח"
     }
   },
   "contribute": {

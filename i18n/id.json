@@ -1698,6 +1698,32 @@
         "select-file": "Pilih File",
         "drag-and-drop-here": "Seret dan letakkan gambar atau PDF Anda di sini"
       }
+    },
+    "searchPlaceholderFull": "Cari 70+ utilitas pengembang...",
+    "hero": {
+      "title": "Utilitas Pengembang Anda,",
+      "titleHighlight": "Supercharged.",
+      "subtitle": "70+ utilitas gratis, aman, dan berfokus pada privasi yang dibuat untuk pengembang yang memberikan hasil dengan cepat.",
+      "toolCount": "Alat Tersedia"
+    },
+    "categoryAll": "Semua Alat",
+    "popularBadge": "Populer",
+    "footer": {
+      "devTools": "Utilitas Pengembang",
+      "resources": "Sumber Daya",
+      "github": "GitHub",
+      "privacy": "Privasi",
+      "changelog": "Catatan Perubahan",
+      "about": "Tentang",
+      "apiTools": "API Testing",
+      "jsonTools": "JSON Formatter",
+      "diagramTools": "Diagram Builder",
+      "securityTools": "Security Tools",
+      "documentation": "Dokumentasi",
+      "contribute": "Berkontribusi",
+      "releaseNotes": "Catatan Rilis",
+      "tagline": "Dibuat untuk komunitas pengembang di seluruh dunia.",
+      "copyright": "FreeDevUtils — Gratis & Aman"
     }
   },
   "contribute": {
